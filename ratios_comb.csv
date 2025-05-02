@@ -1,0 +1,3548 @@
+,Entidad,Fecha,Ratio de Capital Global (%),Morosidad (%),Type
+0,Banco de Crédito,31/01/2016,14.12,2.53,Bank
+1,Banco de Crédito,29/02/2016,14.3,2.51,Bank
+2,Banco de Crédito,31/03/2016,15.0,2.58,Bank
+3,Banco de Crédito,30/04/2016,15.12,2.72,Bank
+4,Banco de Crédito,31/05/2016,15.73,2.82,Bank
+5,Banco de Crédito,30/06/2016,15.76,2.74,Bank
+6,Banco de Crédito,31/07/2016,15.67,2.76,Bank
+7,Banco de Crédito,31/08/2016,15.65,2.8,Bank
+8,Banco de Crédito,30/09/2016,15.56,2.74,Bank
+9,Banco de Crédito,31/10/2016,15.7,2.83,Bank
+10,Banco de Crédito,30/11/2016,15.54,2.79,Bank
+11,Banco de Crédito,31/12/2016,15.35,2.71,Bank
+12,Banco de Crédito,31/01/2017,15.59,2.77,Bank
+13,Banco de Crédito,28/02/2017,15.46,2.79,Bank
+14,Banco de Crédito,31/03/2017,16.73,2.94,Bank
+15,Banco de Crédito,30/04/2017,16.56,2.89,Bank
+16,Banco de Crédito,31/05/2017,16.69,2.91,Bank
+17,Banco de Crédito,30/06/2017,16.49,2.9,Bank
+18,Banco de Crédito,31/07/2017,16.26,2.9,Bank
+19,Banco de Crédito,31/08/2017,16.49,2.93,Bank
+20,Banco de Crédito,30/09/2017,16.35,2.99,Bank
+21,Banco de Crédito,31/10/2017,15.6,3.0,Bank
+22,Banco de Crédito,30/11/2017,15.48,2.96,Bank
+23,Banco de Crédito,31/12/2017,15.05,2.97,Bank
+24,Banco de Crédito,31/01/2018,15.22,2.96,Bank
+25,Banco de Crédito,28/02/2018,14.98,3.19,Bank
+26,Banco de Crédito,31/03/2018,15.91,2.86,Bank
+27,Banco de Crédito,30/04/2018,15.67,2.86,Bank
+28,Banco de Crédito,31/05/2018,15.64,2.89,Bank
+29,Banco de Crédito,30/06/2018,15.07,2.9,Bank
+30,Banco de Crédito,31/07/2018,15.23,2.94,Bank
+31,Banco de Crédito,31/08/2018,15.07,2.93,Bank
+32,Banco de Crédito,30/09/2018,14.94,2.91,Bank
+33,Banco de Crédito,31/10/2018,14.68,2.88,Bank
+34,Banco de Crédito,30/11/2018,14.51,2.81,Bank
+35,Banco de Crédito,31/12/2018,14.17,2.66,Bank
+36,Banco de Crédito,31/01/2019,14.15,2.8,Bank
+37,Banco de Crédito,28/02/2019,14.26,2.76,Bank
+38,Banco de Crédito,31/03/2019,15.49,2.74,Bank
+39,Banco de Crédito,30/04/2019,15.44,2.83,Bank
+40,Banco de Crédito,31/05/2019,15.27,2.85,Bank
+41,Banco de Crédito,30/06/2019,14.95,2.87,Bank
+42,Banco de Crédito,31/07/2019,14.84,2.91,Bank
+43,Banco de Crédito,31/08/2019,14.8,2.85,Bank
+44,Banco de Crédito,30/09/2019,15.45,2.83,Bank
+45,Banco de Crédito,31/10/2019,15.28,2.76,Bank
+46,Banco de Crédito,30/11/2019,14.55,2.71,Bank
+47,Banco de Crédito,31/12/2019,14.47,2.71,Bank
+48,Banco de Crédito,31/01/2020,14.06,2.81,Bank
+49,Banco de Crédito,29/02/2020,13.86,2.71,Bank
+50,Banco de Crédito,31/03/2020,13.52,2.81,Bank
+51,Banco de Crédito,30/04/2020,14.52,2.92,Bank
+52,Banco de Crédito,31/05/2020,14.64,2.54,Bank
+53,Banco de Crédito,30/06/2020,14.8,2.67,Bank
+54,Banco de Crédito,31/07/2020,15.36,2.71,Bank
+55,Banco de Crédito,31/08/2020,15.32,2.79,Bank
+56,Banco de Crédito,30/09/2020,15.39,2.88,Bank
+57,Banco de Crédito,31/10/2020,15.24,3.04,Bank
+58,Banco de Crédito,30/11/2020,15.17,3.19,Bank
+59,Banco de Crédito,31/12/2020,14.93,3.2,Bank
+60,Banco de Crédito,31/01/2021,14.91,3.1,Bank
+61,Banco de Crédito,28/02/2021,14.92,3.09,Bank
+62,Banco de Crédito,31/03/2021,16.46,3.07,Bank
+63,Banco de Crédito,30/04/2021,15.6,2.94,Bank
+64,Banco de Crédito,31/05/2021,15.51,2.95,Bank
+65,Banco de Crédito,30/06/2021,15.34,3.09,Bank
+66,Banco de Crédito,31/07/2021,15.14,3.24,Bank
+67,Banco de Crédito,31/08/2021,15.18,3.31,Bank
+68,Banco de Crédito,30/09/2021,15.16,3.47,Bank
+69,Banco de Crédito,31/10/2021,15.31,3.62,Bank
+70,Banco de Crédito,30/11/2021,15.15,3.82,Bank
+71,Banco de Crédito,31/12/2021,14.94,3.73,Bank
+72,Banco de Crédito,31/01/2022,14.82,3.9,Bank
+73,Banco de Crédito,28/02/2022,14.83,3.9,Bank
+74,Banco de Crédito,31/03/2022,15.79,3.92,Bank
+75,Banco de Crédito,30/04/2022,15.7,3.89,Bank
+76,Banco de Crédito,31/05/2022,15.59,3.98,Bank
+77,Banco de Crédito,30/06/2022,15.23,3.97,Bank
+78,Banco de Crédito,31/07/2022,15.02,3.85,Bank
+79,Banco de Crédito,31/08/2022,15.01,3.96,Bank
+80,Banco de Crédito,30/09/2022,14.93,4.04,Bank
+81,Interbank,31/01/2016,15.19,2.36,Bank
+82,Interbank,29/02/2016,15.12,2.52,Bank
+83,Interbank,31/03/2016,16.39,2.49,Bank
+84,Interbank,30/04/2016,16.63,2.43,Bank
+85,Interbank,31/05/2016,16.5,2.66,Bank
+86,Interbank,30/06/2016,16.24,2.67,Bank
+87,Interbank,31/07/2016,16.32,2.58,Bank
+88,Interbank,31/08/2016,16.06,2.73,Bank
+89,Interbank,30/09/2016,16.12,2.62,Bank
+90,Interbank,31/10/2016,15.9,2.69,Bank
+91,Interbank,30/11/2016,16.11,2.74,Bank
+92,Interbank,31/12/2016,15.9,2.64,Bank
+93,Interbank,31/01/2017,15.76,2.76,Bank
+94,Interbank,28/02/2017,15.66,2.74,Bank
+95,Interbank,31/03/2017,17.1,2.75,Bank
+96,Interbank,30/04/2017,17.02,2.75,Bank
+97,Interbank,31/05/2017,16.81,2.86,Bank
+98,Interbank,30/06/2017,16.63,2.81,Bank
+99,Interbank,31/07/2017,16.64,2.82,Bank
+100,Interbank,31/08/2017,16.52,2.88,Bank
+101,Interbank,30/09/2017,16.48,2.84,Bank
+102,Interbank,31/10/2017,16.21,2.98,Bank
+103,Interbank,30/11/2017,15.88,3.04,Bank
+104,Interbank,31/12/2017,16.07,2.85,Bank
+105,Interbank,31/01/2018,16.35,2.9,Bank
+106,Interbank,28/02/2018,16.35,2.94,Bank
+107,Interbank,31/03/2018,17.52,2.74,Bank
+108,Interbank,30/04/2018,16.87,2.72,Bank
+109,Interbank,31/05/2018,17.02,2.72,Bank
+110,Interbank,30/06/2018,16.68,2.72,Bank
+111,Interbank,31/07/2018,16.61,2.7,Bank
+112,Interbank,31/08/2018,16.53,2.69,Bank
+113,Interbank,30/09/2018,16.24,2.62,Bank
+114,Interbank,31/10/2018,16.12,2.67,Bank
+115,Interbank,30/11/2018,16.21,2.65,Bank
+116,Interbank,31/12/2018,15.79,2.64,Bank
+117,Interbank,31/01/2019,15.63,2.65,Bank
+118,Interbank,28/02/2019,15.35,2.58,Bank
+119,Interbank,31/03/2019,16.43,2.61,Bank
+120,Interbank,30/04/2019,16.37,2.66,Bank
+121,Interbank,31/05/2019,16.23,2.67,Bank
+122,Interbank,30/06/2019,16.08,2.67,Bank
+123,Interbank,31/07/2019,16.0,2.7,Bank
+124,Interbank,31/08/2019,15.6,2.74,Bank
+125,Interbank,30/09/2019,15.41,2.78,Bank
+126,Interbank,31/10/2019,15.29,2.65,Bank
+127,Interbank,30/11/2019,15.1,2.62,Bank
+128,Interbank,31/12/2019,15.15,2.62,Bank
+129,Interbank,31/01/2020,14.88,2.61,Bank
+130,Interbank,29/02/2020,14.87,2.66,Bank
+131,Interbank,31/03/2020,16.12,2.79,Bank
+132,Interbank,30/04/2020,14.95,3.03,Bank
+133,Interbank,31/05/2020,14.75,2.39,Bank
+134,Interbank,30/06/2020,14.68,2.44,Bank
+135,Interbank,31/07/2020,16.46,2.28,Bank
+136,Interbank,31/08/2020,16.6,2.28,Bank
+137,Interbank,30/09/2020,16.97,2.74,Bank
+138,Interbank,31/10/2020,16.93,3.34,Bank
+139,Interbank,30/11/2020,17.04,3.7,Bank
+140,Interbank,31/12/2020,16.99,3.4,Bank
+141,Interbank,31/01/2021,16.73,3.22,Bank
+142,Interbank,28/02/2021,16.8,3.35,Bank
+143,Interbank,31/03/2021,16.91,3.26,Bank
+144,Interbank,30/04/2021,16.55,3.14,Bank
+145,Interbank,31/05/2021,16.49,3.11,Bank
+146,Interbank,30/06/2021,16.49,3.03,Bank
+147,Interbank,31/07/2021,16.3,3.06,Bank
+148,Interbank,31/08/2021,16.45,3.14,Bank
+149,Interbank,30/09/2021,16.27,3.32,Bank
+150,Interbank,31/10/2021,15.97,3.7,Bank
+151,Interbank,30/11/2021,15.89,3.7,Bank
+152,Interbank,31/12/2021,15.87,3.62,Bank
+153,Interbank,31/01/2022,15.16,3.61,Bank
+154,Interbank,28/02/2022,15.0,3.31,Bank
+155,Interbank,31/03/2022,15.47,3.17,Bank
+156,Interbank,30/04/2022,15.31,2.99,Bank
+157,Interbank,31/05/2022,15.26,2.89,Bank
+158,Interbank,30/06/2022,15.25,2.79,Bank
+159,Interbank,31/07/2022,15.01,2.79,Bank
+160,Interbank,31/08/2022,15.26,3.13,Bank
+161,Interbank,30/09/2022,15.21,3.2,Bank
+162,Scotiabank,31/01/2016,13.63,2.95,Bank
+163,Scotiabank,29/02/2016,13.47,3.12,Bank
+164,Scotiabank,31/03/2016,14.17,3.2,Bank
+165,Scotiabank,30/04/2016,13.9,3.23,Bank
+166,Scotiabank,31/05/2016,14.02,3.34,Bank
+167,Scotiabank,30/06/2016,14.04,3.46,Bank
+168,Scotiabank,31/07/2016,14.36,3.39,Bank
+169,Scotiabank,31/08/2016,14.73,3.46,Bank
+170,Scotiabank,30/09/2016,14.41,3.32,Bank
+171,Scotiabank,31/10/2016,14.49,3.47,Bank
+172,Scotiabank,30/11/2016,14.4,3.48,Bank
+173,Scotiabank,31/12/2016,14.41,3.08,Bank
+174,Scotiabank,31/01/2017,14.2,3.21,Bank
+175,Scotiabank,28/02/2017,14.16,3.19,Bank
+176,Scotiabank,31/03/2017,14.13,3.07,Bank
+177,Scotiabank,30/04/2017,14.21,3.15,Bank
+178,Scotiabank,31/05/2017,14.18,3.27,Bank
+179,Scotiabank,30/06/2017,14.22,3.22,Bank
+180,Scotiabank,31/07/2017,15.36,3.21,Bank
+181,Scotiabank,31/08/2017,15.21,3.15,Bank
+182,Scotiabank,30/09/2017,15.25,3.11,Bank
+183,Scotiabank,31/10/2017,15.41,3.21,Bank
+184,Scotiabank,30/11/2017,15.13,3.16,Bank
+185,Scotiabank,31/12/2017,15.47,3.15,Bank
+186,Scotiabank,31/01/2018,15.07,3.25,Bank
+187,Scotiabank,28/02/2018,14.77,3.26,Bank
+188,Scotiabank,31/03/2018,15.19,3.26,Bank
+189,Scotiabank,30/04/2018,14.96,3.19,Bank
+190,Scotiabank,31/05/2018,14.87,3.22,Bank
+191,Scotiabank,30/06/2018,14.67,3.26,Bank
+192,Scotiabank,31/07/2018,14.56,3.32,Bank
+193,Scotiabank,31/08/2018,14.63,3.44,Bank
+194,Scotiabank,30/09/2018,14.46,3.34,Bank
+195,Scotiabank,31/10/2018,14.26,3.43,Bank
+196,Scotiabank,30/11/2018,14.13,3.48,Bank
+197,Scotiabank,31/12/2018,14.64,3.53,Bank
+198,Scotiabank,31/01/2019,14.65,3.51,Bank
+199,Scotiabank,28/02/2019,14.57,3.51,Bank
+200,Scotiabank,31/03/2019,14.65,3.56,Bank
+201,Scotiabank,30/04/2019,14.32,3.55,Bank
+202,Scotiabank,31/05/2019,14.04,3.55,Bank
+203,Scotiabank,30/06/2019,13.91,3.55,Bank
+204,Scotiabank,31/07/2019,13.38,3.59,Bank
+205,Scotiabank,31/08/2019,14.48,3.56,Bank
+206,Scotiabank,30/09/2019,14.4,3.59,Bank
+207,Scotiabank,31/10/2019,14.25,3.61,Bank
+208,Scotiabank,30/11/2019,14.42,3.57,Bank
+209,Scotiabank,31/12/2019,14.45,3.5,Bank
+210,Scotiabank,31/01/2020,14.08,3.55,Bank
+211,Scotiabank,29/02/2020,13.98,3.62,Bank
+212,Scotiabank,31/03/2020,14.67,3.79,Bank
+213,Scotiabank,30/04/2020,14.88,4.18,Bank
+214,Scotiabank,31/05/2020,14.88,4.1,Bank
+215,Scotiabank,30/06/2020,14.95,4.13,Bank
+216,Scotiabank,31/07/2020,15.18,3.74,Bank
+217,Scotiabank,31/08/2020,15.53,4.15,Bank
+218,Scotiabank,30/09/2020,16.07,4.41,Bank
+219,Scotiabank,31/10/2020,16.29,4.55,Bank
+220,Scotiabank,30/11/2020,16.45,4.79,Bank
+221,Scotiabank,31/12/2020,16.5,5.37,Bank
+222,Scotiabank,31/01/2021,15.98,5.68,Bank
+223,Scotiabank,28/02/2021,15.97,5.49,Bank
+224,Scotiabank,31/03/2021,16.37,4.89,Bank
+225,Scotiabank,30/04/2021,15.74,4.55,Bank
+226,Scotiabank,31/05/2021,15.48,4.37,Bank
+227,Scotiabank,30/06/2021,15.36,4.39,Bank
+228,Scotiabank,31/07/2021,14.59,4.33,Bank
+229,Scotiabank,31/08/2021,14.69,4.28,Bank
+230,Scotiabank,30/09/2021,14.65,4.07,Bank
+231,Scotiabank,31/10/2021,14.59,3.99,Bank
+232,Scotiabank,30/11/2021,14.48,3.89,Bank
+233,Scotiabank,31/12/2021,14.7,3.85,Bank
+234,Scotiabank,31/01/2022,14.41,3.71,Bank
+235,Scotiabank,28/02/2022,13.92,3.55,Bank
+236,Scotiabank,31/03/2022,14.34,3.54,Bank
+237,Scotiabank,30/04/2022,14.15,3.46,Bank
+238,Scotiabank,31/05/2022,14.24,3.43,Bank
+239,Scotiabank,30/06/2022,13.91,3.62,Bank
+240,Scotiabank,31/07/2022,13.83,3.9,Bank
+241,Scotiabank,31/08/2022,14.01,4.01,Bank
+242,Scotiabank,30/09/2022,13.97,4.03,Bank
+243,Banco Continental,31/01/2016,13.39,2.33,Bank
+244,Banco Continental,29/02/2016,13.17,2.42,Bank
+245,Banco Continental,31/03/2016,13.89,2.33,Bank
+246,Banco Continental,30/04/2016,13.77,2.36,Bank
+247,Banco Continental,31/05/2016,13.73,2.44,Bank
+248,Banco Continental,30/06/2016,13.82,2.49,Bank
+249,Banco Continental,31/07/2016,14.38,2.43,Bank
+250,Banco Continental,31/08/2016,14.63,2.48,Bank
+251,Banco Continental,30/09/2016,14.66,2.45,Bank
+252,Banco Continental,31/10/2016,14.54,2.56,Bank
+253,Banco Continental,30/11/2016,14.64,2.68,Bank
+254,Banco Continental,31/12/2016,14.25,2.41,Bank
+255,Banco Continental,31/01/2017,14.7,2.79,Bank
+256,Banco Continental,28/02/2017,14.95,2.83,Bank
+257,Banco Continental,31/03/2017,14.98,2.73,Bank
+258,Banco Continental,30/04/2017,15.29,2.97,Bank
+259,Banco Continental,31/05/2017,15.19,3.09,Bank
+260,Banco Continental,30/06/2017,15.08,2.92,Bank
+261,Banco Continental,31/07/2017,15.29,3.06,Bank
+262,Banco Continental,31/08/2017,15.2,3.07,Bank
+263,Banco Continental,30/09/2017,14.6,2.83,Bank
+264,Banco Continental,31/10/2017,14.67,2.88,Bank
+265,Banco Continental,30/11/2017,14.35,2.87,Bank
+266,Banco Continental,31/12/2017,14.2,2.68,Bank
+267,Banco Continental,31/01/2018,14.35,2.87,Bank
+268,Banco Continental,28/02/2018,14.33,2.98,Bank
+269,Banco Continental,31/03/2018,14.98,2.83,Bank
+270,Banco Continental,30/04/2018,15.09,3.07,Bank
+271,Banco Continental,31/05/2018,14.94,3.15,Bank
+272,Banco Continental,30/06/2018,14.79,2.95,Bank
+273,Banco Continental,31/07/2018,14.88,3.19,Bank
+274,Banco Continental,31/08/2018,15.02,3.35,Bank
+275,Banco Continental,30/09/2018,14.72,3.05,Bank
+276,Banco Continental,31/10/2018,14.6,3.16,Bank
+277,Banco Continental,30/11/2018,14.47,3.23,Bank
+278,Banco Continental,31/12/2018,14.95,2.94,Bank
+279,Banco Continental,31/01/2019,15.01,3.09,Bank
+280,Banco Continental,28/02/2019,15.23,3.22,Bank
+281,Banco Continental,31/03/2019,14.82,2.99,Bank
+282,Banco Continental,30/04/2019,14.89,3.12,Bank
+283,Banco Continental,31/05/2019,14.76,3.32,Bank
+284,Banco BBVA Perú,30/06/2019,14.56,3.13,Bank
+285,Banco BBVA Perú,31/07/2019,14.45,3.23,Bank
+286,Banco BBVA Perú,31/08/2019,14.21,3.23,Bank
+287,Banco BBVA Perú,30/09/2019,13.95,3.09,Bank
+288,Banco BBVA Perú,31/10/2019,14.5,3.18,Bank
+289,Banco BBVA Perú,30/11/2019,13.96,3.12,Bank
+290,Banco BBVA Perú,31/12/2019,14.05,3.02,Bank
+291,Banco BBVA Perú,31/01/2020,14.23,3.18,Bank
+292,Banco BBVA Perú,29/02/2020,14.17,3.25,Bank
+293,Banco BBVA Perú,31/03/2020,14.01,3.14,Bank
+294,Banco BBVA Perú,30/04/2020,14.04,3.69,Bank
+295,Banco BBVA Perú,31/05/2020,14.2,3.35,Bank
+296,Banco BBVA Perú,30/06/2020,14.07,3.23,Bank
+297,Banco BBVA Perú,31/07/2020,14.26,3.04,Bank
+298,Banco BBVA Perú,31/08/2020,14.46,2.97,Bank
+299,Banco BBVA Perú,30/09/2020,14.45,3.0,Bank
+300,Banco BBVA Perú,31/10/2020,13.83,3.12,Bank
+301,Banco BBVA Perú,30/11/2020,13.91,3.14,Bank
+302,Banco BBVA Perú,31/12/2020,13.68,3.22,Bank
+303,Banco BBVA Perú,31/01/2021,13.68,3.37,Bank
+304,Banco BBVA Perú,28/02/2021,14.59,3.37,Bank
+305,Banco BBVA Perú,31/03/2021,15.06,3.38,Bank
+306,Banco BBVA Perú,30/04/2021,14.88,3.33,Bank
+307,Banco BBVA Perú,31/05/2021,14.47,3.27,Bank
+308,Banco BBVA Perú,30/06/2021,14.59,3.26,Bank
+309,Banco BBVA Perú,31/07/2021,14.5,3.41,Bank
+310,Banco BBVA Perú,31/08/2021,14.51,3.51,Bank
+311,Banco BBVA Perú,30/09/2021,14.52,3.55,Bank
+312,Banco BBVA Perú,31/10/2021,14.31,3.61,Bank
+313,Banco BBVA Perú,30/11/2021,14.13,3.68,Bank
+314,Banco BBVA Perú,31/12/2021,14.13,3.7,Bank
+315,Banco BBVA Perú,31/01/2022,13.97,3.95,Bank
+316,Banco BBVA Perú,28/02/2022,14.06,4.0,Bank
+317,Banco BBVA Perú,31/03/2022,14.49,3.95,Bank
+318,Banco BBVA Perú,30/04/2022,14.35,3.97,Bank
+319,Banco BBVA Perú,31/05/2022,14.5,3.96,Bank
+320,Banco BBVA Perú,30/06/2022,14.35,4.02,Bank
+321,Banco BBVA Perú,31/07/2022,14.19,4.0,Bank
+322,Banco BBVA Perú,31/08/2022,14.11,4.09,Bank
+323,Banco BBVA Perú,30/09/2022,14.0,4.18,Bank
+324,Banco de Comercio,31/01/2016,12.08,3.74,Bank
+325,Banco de Comercio,29/02/2016,11.9,3.73,Bank
+326,Banco de Comercio,31/03/2016,12.14,3.88,Bank
+327,Banco de Comercio,30/04/2016,12.0,3.89,Bank
+328,Banco de Comercio,31/05/2016,12.1,3.53,Bank
+329,Banco de Comercio,30/06/2016,12.71,3.17,Bank
+330,Banco de Comercio,31/07/2016,13.22,3.53,Bank
+331,Banco de Comercio,31/08/2016,13.76,4.01,Bank
+332,Banco de Comercio,30/09/2016,14.02,3.4,Bank
+333,Banco de Comercio,31/10/2016,14.02,3.69,Bank
+334,Banco de Comercio,30/11/2016,13.9,3.63,Bank
+335,Banco de Comercio,31/12/2016,13.71,3.34,Bank
+336,Banco de Comercio,31/01/2017,13.12,3.91,Bank
+337,Banco de Comercio,28/02/2017,12.59,3.67,Bank
+338,Banco de Comercio,31/03/2017,12.59,3.62,Bank
+339,Banco de Comercio,30/04/2017,12.56,3.79,Bank
+340,Banco de Comercio,31/05/2017,12.42,3.72,Bank
+341,Banco de Comercio,30/06/2017,12.38,3.12,Bank
+342,Banco de Comercio,31/07/2017,12.53,3.23,Bank
+343,Banco de Comercio,31/08/2017,12.54,3.4,Bank
+344,Banco de Comercio,30/09/2017,12.74,3.24,Bank
+345,Banco de Comercio,31/10/2017,12.67,3.38,Bank
+346,Banco de Comercio,30/11/2017,12.41,3.45,Bank
+347,Banco de Comercio,31/12/2017,12.13,3.07,Bank
+348,Banco de Comercio,31/01/2018,12.1,3.43,Bank
+349,Banco de Comercio,28/02/2018,12.14,3.57,Bank
+350,Banco de Comercio,31/03/2018,12.5,3.44,Bank
+351,Banco de Comercio,30/04/2018,12.47,3.5,Bank
+352,Banco de Comercio,31/05/2018,12.47,3.65,Bank
+353,Banco de Comercio,30/06/2018,12.4,3.21,Bank
+354,Banco de Comercio,31/07/2018,12.66,3.48,Bank
+355,Banco de Comercio,31/08/2018,12.61,3.6,Bank
+356,Banco de Comercio,30/09/2018,12.57,3.24,Bank
+357,Banco de Comercio,31/10/2018,12.88,3.21,Bank
+358,Banco de Comercio,30/11/2018,12.91,3.4,Bank
+359,Banco de Comercio,31/12/2018,13.04,2.68,Bank
+360,Banco de Comercio,31/01/2019,13.1,2.73,Bank
+361,Banco de Comercio,28/02/2019,12.98,2.81,Bank
+362,Banco de Comercio,31/03/2019,13.32,3.21,Bank
+363,Banco de Comercio,30/04/2019,13.44,3.56,Bank
+364,Banco de Comercio,31/05/2019,13.4,2.96,Bank
+365,Banco de Comercio,30/06/2019,13.5,2.68,Bank
+366,Banco de Comercio,31/07/2019,13.17,2.81,Bank
+367,Banco de Comercio,31/08/2019,13.38,2.81,Bank
+368,Banco de Comercio,30/09/2019,13.33,2.59,Bank
+369,Banco de Comercio,31/10/2019,13.34,2.66,Bank
+370,Banco de Comercio,30/11/2019,13.38,2.81,Bank
+371,Banco de Comercio,31/12/2019,13.55,2.54,Bank
+372,Banco de Comercio,31/01/2020,12.98,3.03,Bank
+373,Banco de Comercio,29/02/2020,12.81,3.28,Bank
+374,Banco de Comercio,31/03/2020,13.21,2.86,Bank
+375,Banco de Comercio,30/04/2020,13.64,2.91,Bank
+376,Banco de Comercio,31/05/2020,13.64,3.03,Bank
+377,Banco de Comercio,30/06/2020,13.81,2.73,Bank
+378,Banco de Comercio,31/07/2020,14.02,2.58,Bank
+379,Banco de Comercio,31/08/2020,14.03,2.61,Bank
+380,Banco de Comercio,30/09/2020,13.93,2.78,Bank
+381,Banco de Comercio,31/10/2020,13.74,2.98,Bank
+382,Banco de Comercio,30/11/2020,13.84,3.23,Bank
+383,Banco de Comercio,31/12/2020,13.56,2.56,Bank
+384,Banco de Comercio,31/01/2021,13.8,3.38,Bank
+385,Banco de Comercio,28/02/2021,14.01,3.82,Bank
+386,Banco de Comercio,31/03/2021,14.21,3.86,Bank
+387,Banco de Comercio,30/04/2021,14.11,3.85,Bank
+388,Banco de Comercio,31/05/2021,14.27,3.28,Bank
+389,Banco de Comercio,30/06/2021,13.98,3.37,Bank
+390,Banco de Comercio,31/07/2021,14.0,4.32,Bank
+391,Banco de Comercio,31/08/2021,14.24,4.66,Bank
+392,Banco de Comercio,30/09/2021,13.39,4.12,Bank
+393,Banco de Comercio,31/10/2021,13.07,5.27,Bank
+394,Banco de Comercio,30/11/2021,12.77,4.74,Bank
+395,Banco de Comercio,31/12/2021,12.79,3.75,Bank
+396,Banco de Comercio,31/01/2022,12.87,4.07,Bank
+397,Banco de Comercio,28/02/2022,12.68,4.11,Bank
+398,Banco de Comercio,31/03/2022,12.53,3.58,Bank
+399,Banco de Comercio,30/04/2022,12.54,3.84,Bank
+400,Banco de Comercio,31/05/2022,12.54,3.96,Bank
+401,Banco de Comercio,30/06/2022,12.7,3.88,Bank
+402,Banco de Comercio,31/07/2022,12.67,3.51,Bank
+403,Banco de Comercio,31/08/2022,12.59,3.95,Bank
+404,Banco de Comercio,30/09/2022,12.44,3.66,Bank
+405,Citibank,31/01/2016,17.19,0.0,Bank
+406,Citibank,29/02/2016,17.8,0.0,Bank
+407,Citibank,31/03/2016,19.8,0.0,Bank
+408,Citibank,30/04/2016,20.27,0.0,Bank
+409,Citibank,31/05/2016,17.56,0.0,Bank
+410,Citibank,30/06/2016,18.43,0.0,Bank
+411,Citibank,31/07/2016,17.83,0.0,Bank
+412,Citibank,31/08/2016,21.95,0.0,Bank
+413,Citibank,30/09/2016,21.04,0.0,Bank
+414,Citibank,31/10/2016,20.1,0.0,Bank
+415,Citibank,30/11/2016,18.42,0.0,Bank
+416,Citibank,31/12/2016,19.88,0.0,Bank
+417,Citibank,31/01/2017,19.94,0.0,Bank
+418,Citibank,28/02/2017,20.12,0.0,Bank
+419,Citibank,31/03/2017,20.84,0.0,Bank
+420,Citibank,30/04/2017,30.34,0.0,Bank
+421,Citibank,31/05/2017,29.81,1.82,Bank
+422,Citibank,30/06/2017,30.24,1.15,Bank
+423,Citibank,31/07/2017,29.22,1.18,Bank
+424,Citibank,31/08/2017,32.37,0.0,Bank
+425,Citibank,30/09/2017,31.3,0.0,Bank
+426,Citibank,31/10/2017,31.34,,Bank
+427,Citibank,30/11/2017,27.57,,Bank
+428,Citibank,31/12/2017,26.02,,Bank
+429,Citibank,31/01/2018,26.06,,Bank
+430,Citibank,28/02/2018,27.54,,Bank
+431,Citibank,31/03/2018,26.74,,Bank
+432,Citibank,30/04/2018,28.32,,Bank
+433,Citibank,31/05/2018,18.23,,Bank
+434,Citibank,30/06/2018,16.74,,Bank
+435,Citibank,31/07/2018,17.4,,Bank
+436,Citibank,31/08/2018,16.3,,Bank
+437,Citibank,30/09/2018,20.49,,Bank
+438,Citibank,31/10/2018,18.49,,Bank
+439,Citibank,30/11/2018,18.66,,Bank
+440,Citibank,31/12/2018,16.77,,Bank
+441,Citibank,31/01/2019,17.02,,Bank
+442,Citibank,28/02/2019,17.42,,Bank
+443,Citibank,31/03/2019,18.43,,Bank
+444,Citibank,30/04/2019,18.19,,Bank
+445,Citibank,31/05/2019,16.48,,Bank
+446,Citibank,30/06/2019,16.35,,Bank
+447,Citibank,31/07/2019,17.2,,Bank
+448,Citibank,31/08/2019,18.36,,Bank
+449,Citibank,30/09/2019,21.13,,Bank
+450,Citibank,31/10/2019,18.84,,Bank
+451,Citibank,30/11/2019,19.8,,Bank
+452,Citibank,31/12/2019,19.2,,Bank
+453,Citibank,31/01/2020,18.28,,Bank
+454,Citibank,29/02/2020,17.42,,Bank
+455,Citibank,31/03/2020,18.5,,Bank
+456,Citibank,30/04/2020,21.29,,Bank
+457,Citibank,31/05/2020,24.88,,Bank
+458,Citibank,30/06/2020,23.68,,Bank
+459,Citibank,31/07/2020,23.35,,Bank
+460,Citibank,31/08/2020,23.46,,Bank
+461,Citibank,30/09/2020,21.29,,Bank
+462,Citibank,31/10/2020,22.07,,Bank
+463,Citibank,30/11/2020,24.8,,Bank
+464,Citibank,31/12/2020,26.25,,Bank
+465,Citibank,31/01/2021,27.0,,Bank
+466,Citibank,28/02/2021,30.8,,Bank
+467,Citibank,31/03/2021,25.01,,Bank
+468,Citibank,30/04/2021,25.43,,Bank
+469,Citibank,31/05/2021,27.94,,Bank
+470,Citibank,30/06/2021,20.9,,Bank
+471,Citibank,31/07/2021,23.12,,Bank
+472,Citibank,31/08/2021,21.76,,Bank
+473,Citibank,30/09/2021,19.93,,Bank
+474,Citibank,31/10/2021,20.62,,Bank
+475,Citibank,30/11/2021,21.04,,Bank
+476,Citibank,31/12/2021,20.74,,Bank
+477,Citibank,31/01/2022,21.38,,Bank
+478,Citibank,28/02/2022,21.69,,Bank
+479,Citibank,31/03/2022,22.62,,Bank
+480,Citibank,30/04/2022,22.19,,Bank
+481,Citibank,31/05/2022,23.74,,Bank
+482,Citibank,30/06/2022,20.61,,Bank
+483,Citibank,31/07/2022,24.07,,Bank
+484,Citibank,31/08/2022,20.7,,Bank
+485,Citibank,30/09/2022,22.55,,Bank
+486,Banco Interamericano de Finanzas,31/01/2016,12.4,1.96,Bank
+487,Banco Interamericano de Finanzas,29/02/2016,12.17,2.17,Bank
+488,Banco Interamericano de Finanzas,31/03/2016,12.51,2.07,Bank
+489,Banco Interamericano de Finanzas,30/04/2016,12.66,2.07,Bank
+490,Banco Interamericano de Finanzas,31/05/2016,12.59,2.23,Bank
+491,Banco Interamericano de Finanzas,30/06/2016,12.88,2.32,Bank
+492,Banco Interamericano de Finanzas,31/07/2016,12.85,2.33,Bank
+493,Banco Interamericano de Finanzas,31/08/2016,13.16,2.48,Bank
+494,Banco Interamericano de Finanzas,30/09/2016,13.09,2.53,Bank
+495,Banco Interamericano de Finanzas,31/10/2016,13.22,2.64,Bank
+496,Banco Interamericano de Finanzas,30/11/2016,13.26,2.61,Bank
+497,Banco Interamericano de Finanzas,31/12/2016,13.32,2.5,Bank
+498,Banco Interamericano de Finanzas,31/01/2017,13.45,2.57,Bank
+499,Banco Interamericano de Finanzas,28/02/2017,13.63,2.63,Bank
+500,Banco Interamericano de Finanzas,31/03/2017,13.3,2.66,Bank
+501,Banco Interamericano de Finanzas,30/04/2017,13.2,2.59,Bank
+502,Banco Interamericano de Finanzas,31/05/2017,13.05,2.7,Bank
+503,Banco Interamericano de Finanzas,30/06/2017,12.98,2.85,Bank
+504,Banco Interamericano de Finanzas,31/07/2017,12.98,2.86,Bank
+505,Banco Interamericano de Finanzas,31/08/2017,12.73,2.85,Bank
+506,Banco Interamericano de Finanzas,30/09/2017,12.71,2.98,Bank
+507,Banco Interamericano de Finanzas,31/10/2017,13.19,3.09,Bank
+508,Banco Interamericano de Finanzas,30/11/2017,13.34,3.14,Bank
+509,Banco Interamericano de Finanzas,31/12/2017,13.28,3.14,Bank
+510,Banco Interamericano de Finanzas,31/01/2018,13.16,3.2,Bank
+511,Banco Interamericano de Finanzas,28/02/2018,13.0,3.23,Bank
+512,Banco Interamericano de Finanzas,31/03/2018,13.05,3.16,Bank
+513,Banco Interamericano de Finanzas,30/04/2018,12.91,3.17,Bank
+514,Banco Interamericano de Finanzas,31/05/2018,12.79,3.06,Bank
+515,Banco Interamericano de Finanzas,30/06/2018,12.71,3.01,Bank
+516,Banco Interamericano de Finanzas,31/07/2018,13.02,3.12,Bank
+517,Banco Interamericano de Finanzas,31/08/2018,12.97,3.08,Bank
+518,Banco Interamericano de Finanzas,30/09/2018,13.01,3.07,Bank
+519,Banco Interamericano de Finanzas,31/10/2018,13.11,3.17,Bank
+520,Banco Interamericano de Finanzas,30/11/2018,13.09,3.15,Bank
+521,Banco Interamericano de Finanzas,31/12/2018,13.35,2.92,Bank
+522,Banco Interamericano de Finanzas,31/01/2019,12.68,3.02,Bank
+523,Banco Interamericano de Finanzas,28/02/2019,13.6,2.98,Bank
+524,Banco Interamericano de Finanzas,31/03/2019,13.87,2.92,Bank
+525,Banco Interamericano de Finanzas,30/04/2019,13.82,2.81,Bank
+526,Banco Interamericano de Finanzas,31/05/2019,13.65,2.93,Bank
+527,Banco Interamericano de Finanzas,30/06/2019,13.9,2.9,Bank
+528,Banco Interamericano de Finanzas,31/07/2019,13.45,2.91,Bank
+529,Banco Interamericano de Finanzas,31/08/2019,13.78,2.85,Bank
+530,Banco Interamericano de Finanzas,30/09/2019,13.91,2.85,Bank
+531,Banco Interamericano de Finanzas,31/10/2019,14.5,2.92,Bank
+532,Banco Interamericano de Finanzas,30/11/2019,14.38,2.92,Bank
+533,Banco Interamericano de Finanzas,31/12/2019,14.62,2.87,Bank
+534,Banco Interamericano de Finanzas,31/01/2020,13.72,2.75,Bank
+535,Banco Interamericano de Finanzas,29/02/2020,13.78,2.79,Bank
+536,Banco Interamericano de Finanzas,31/03/2020,13.65,2.42,Bank
+537,Banco Interamericano de Finanzas,30/04/2020,13.87,2.44,Bank
+538,Banco Interamericano de Finanzas,31/05/2020,13.88,2.25,Bank
+539,Banco Interamericano de Finanzas,30/06/2020,13.88,2.31,Bank
+540,Banco Interamericano de Finanzas,31/07/2020,14.1,2.31,Bank
+541,Banco Interamericano de Finanzas,31/08/2020,13.9,2.3,Bank
+542,Banco Interamericano de Finanzas,30/09/2020,13.67,2.56,Bank
+543,Banco Interamericano de Finanzas,31/10/2020,13.72,2.86,Bank
+544,Banco Interamericano de Finanzas,30/11/2020,13.52,3.17,Bank
+545,Banco Interamericano de Finanzas,31/12/2020,14.01,3.18,Bank
+546,Banco Interamericano de Finanzas,31/01/2021,13.84,3.35,Bank
+547,Banco Interamericano de Finanzas,28/02/2021,13.96,3.3,Bank
+548,Banco Interamericano de Finanzas,31/03/2021,13.93,3.21,Bank
+549,Banco Interamericano de Finanzas,30/04/2021,13.72,3.06,Bank
+550,Banco Interamericano de Finanzas,31/05/2021,13.34,2.99,Bank
+551,Banco Interamericano de Finanzas,30/06/2021,13.49,2.97,Bank
+552,Banco Interamericano de Finanzas,31/07/2021,13.56,2.94,Bank
+553,Banco Interamericano de Finanzas,31/08/2021,13.84,3.16,Bank
+554,Banco Interamericano de Finanzas,30/09/2021,13.64,3.04,Bank
+555,Banco Interamericano de Finanzas,31/10/2021,13.74,3.08,Bank
+556,Banco Interamericano de Finanzas,30/11/2021,13.63,3.12,Bank
+557,Banco Interamericano de Finanzas,31/12/2021,13.7,2.94,Bank
+558,Banco Interamericano de Finanzas,31/01/2022,13.47,3.27,Bank
+559,Banco Interamericano de Finanzas,28/02/2022,13.66,3.5,Bank
+560,Banco Interamericano de Finanzas,31/03/2022,13.37,3.43,Bank
+561,Banco Interamericano de Finanzas,30/04/2022,13.32,3.46,Bank
+562,Banco Interamericano de Finanzas,31/05/2022,13.37,3.61,Bank
+563,Banco Interamericano de Finanzas,30/06/2022,13.16,3.73,Bank
+564,Banco Interamericano de Finanzas,31/07/2022,13.14,3.68,Bank
+565,Banco Interamericano de Finanzas,31/08/2022,13.22,3.6,Bank
+566,Banco Interamericano de Finanzas,30/09/2022,13.19,3.43,Bank
+567,Banco Ripley,31/01/2016,14.91,2.55,Bank
+568,Banco Ripley,29/02/2016,15.1,2.55,Bank
+569,Banco Ripley,31/03/2016,14.96,2.62,Bank
+570,Banco Ripley,30/04/2016,14.94,2.8,Bank
+571,Banco Ripley,31/05/2016,14.44,1.98,Bank
+572,Banco Ripley,30/06/2016,15.55,1.99,Bank
+573,Banco Ripley,31/07/2016,15.11,2.74,Bank
+574,Banco Ripley,31/08/2016,15.39,1.9,Bank
+575,Banco Ripley,30/09/2016,15.21,1.61,Bank
+576,Banco Ripley,31/10/2016,15.07,1.74,Bank
+577,Banco Ripley,30/11/2016,15.2,1.78,Bank
+578,Banco Ripley,31/12/2016,14.69,2.69,Bank
+579,Banco Ripley,31/01/2017,14.87,2.82,Bank
+580,Banco Ripley,28/02/2017,14.8,2.88,Bank
+581,Banco Ripley,31/03/2017,14.75,3.09,Bank
+582,Banco Ripley,30/04/2017,15.0,3.33,Bank
+583,Banco Ripley,31/05/2017,14.62,3.13,Bank
+584,Banco Ripley,30/06/2017,14.46,2.8,Bank
+585,Banco Ripley,31/07/2017,14.52,2.75,Bank
+586,Banco Ripley,31/08/2017,14.36,2.81,Bank
+587,Banco Ripley,30/09/2017,15.74,3.0,Bank
+588,Banco Ripley,31/10/2017,15.88,2.95,Bank
+589,Banco Ripley,30/11/2017,14.69,3.09,Bank
+590,Banco Ripley,31/12/2017,14.39,3.04,Bank
+591,Banco Ripley,31/01/2018,14.31,3.16,Bank
+592,Banco Ripley,28/02/2018,14.57,3.17,Bank
+593,Banco Ripley,31/03/2018,14.77,3.24,Bank
+594,Banco Ripley,30/04/2018,14.88,3.43,Bank
+595,Banco Ripley,31/05/2018,14.74,3.71,Bank
+596,Banco Ripley,30/06/2018,14.7,3.54,Bank
+597,Banco Ripley,31/07/2018,14.66,3.53,Bank
+598,Banco Ripley,31/08/2018,14.31,3.31,Bank
+599,Banco Ripley,30/09/2018,14.17,3.21,Bank
+600,Banco Ripley,31/10/2018,13.7,3.13,Bank
+601,Banco Ripley,30/11/2018,14.91,2.97,Bank
+602,Banco Ripley,31/12/2018,14.64,2.93,Bank
+603,Banco Ripley,31/01/2019,14.3,3.09,Bank
+604,Banco Ripley,28/02/2019,14.42,3.09,Bank
+605,Banco Ripley,31/03/2019,14.43,2.9,Bank
+606,Banco Ripley,30/04/2019,14.32,2.95,Bank
+607,Banco Ripley,31/05/2019,14.16,3.16,Bank
+608,Banco Ripley,30/06/2019,16.64,2.96,Bank
+609,Banco Ripley,31/07/2019,16.72,2.96,Bank
+610,Banco Ripley,31/08/2019,16.48,3.02,Bank
+611,Banco Ripley,30/09/2019,16.55,3.14,Bank
+612,Banco Ripley,31/10/2019,16.64,3.13,Bank
+613,Banco Ripley,30/11/2019,16.39,3.02,Bank
+614,Banco Ripley,31/12/2019,16.06,3.04,Bank
+615,Banco Ripley,31/01/2020,14.88,3.17,Bank
+616,Banco Ripley,29/02/2020,15.13,3.11,Bank
+617,Banco Ripley,31/03/2020,15.24,3.09,Bank
+618,Banco Ripley,30/04/2020,15.75,2.78,Bank
+619,Banco Ripley,31/05/2020,15.92,1.41,Bank
+620,Banco Ripley,30/06/2020,16.09,1.82,Bank
+621,Banco Ripley,31/07/2020,16.29,2.01,Bank
+622,Banco Ripley,31/08/2020,16.43,2.34,Bank
+623,Banco Ripley,30/09/2020,16.44,4.28,Bank
+624,Banco Ripley,31/10/2020,16.63,5.89,Bank
+625,Banco Ripley,30/11/2020,15.49,9.51,Bank
+626,Banco Ripley,31/12/2020,14.41,11.65,Bank
+627,Banco Ripley,31/01/2021,14.55,8.49,Bank
+628,Banco Ripley,28/02/2021,12.87,6.29,Bank
+629,Banco Ripley,31/03/2021,12.95,3.67,Bank
+630,Banco Ripley,30/04/2021,12.8,3.47,Bank
+631,Banco Ripley,31/05/2021,12.51,4.31,Bank
+632,Banco Ripley,30/06/2021,12.41,4.18,Bank
+633,Banco Ripley,31/07/2021,14.3,3.66,Bank
+634,Banco Ripley,31/08/2021,14.41,3.31,Bank
+635,Banco Ripley,30/09/2021,14.2,2.83,Bank
+636,Banco Ripley,31/10/2021,13.97,2.46,Bank
+637,Banco Ripley,30/11/2021,14.37,2.18,Bank
+638,Banco Ripley,31/12/2021,13.57,1.88,Bank
+639,Banco Ripley,31/01/2022,13.42,1.91,Bank
+640,Banco Ripley,28/02/2022,14.35,1.99,Bank
+641,Banco Ripley,31/03/2022,14.29,2.15,Bank
+642,Banco Ripley,30/04/2022,14.08,2.46,Bank
+643,Banco Ripley,31/05/2022,13.87,2.73,Bank
+644,Banco Ripley,30/06/2022,13.79,2.82,Bank
+645,Banco Ripley,31/07/2022,14.35,3.08,Bank
+646,Banco Ripley,31/08/2022,14.44,3.12,Bank
+647,Banco Ripley,30/09/2022,14.47,3.07,Bank
+648,Banco Financiero,31/01/2016,11.81,4.26,Bank
+649,Banco Financiero,29/02/2016,11.97,4.4,Bank
+650,Banco Financiero,31/03/2016,12.09,3.76,Bank
+651,Banco Financiero,30/04/2016,12.22,3.83,Bank
+652,Banco Financiero,31/05/2016,12.0,3.94,Bank
+653,Banco Financiero,30/06/2016,12.03,3.71,Bank
+654,Banco Financiero,31/07/2016,12.16,3.81,Bank
+655,Banco Financiero,31/08/2016,12.15,4.05,Bank
+656,Banco Financiero,30/09/2016,12.44,4.18,Bank
+657,Banco Financiero,31/10/2016,12.53,4.18,Bank
+658,Banco Financiero,30/11/2016,12.69,4.04,Bank
+659,Banco Financiero,31/12/2016,13.16,3.98,Bank
+660,Banco Financiero,31/01/2017,13.32,4.35,Bank
+661,Banco Financiero,28/02/2017,13.72,4.51,Bank
+662,Banco Financiero,31/03/2017,13.67,4.72,Bank
+663,Banco Financiero,30/04/2017,13.47,4.71,Bank
+664,Banco Financiero,31/05/2017,13.08,4.56,Bank
+665,Banco Financiero,30/06/2017,13.18,4.51,Bank
+666,Banco Financiero,31/07/2017,13.33,4.36,Bank
+667,Banco Financiero,31/08/2017,13.25,4.25,Bank
+668,Banco Financiero,30/09/2017,13.43,4.21,Bank
+669,Banco Financiero,31/10/2017,13.32,4.23,Bank
+670,Banco Financiero,30/11/2017,13.17,4.19,Bank
+671,Banco Financiero,31/12/2017,13.13,3.72,Bank
+672,Banco Financiero,31/01/2018,13.22,3.79,Bank
+673,Banco Financiero,28/02/2018,13.24,3.91,Bank
+674,Banco Financiero,31/03/2018,13.02,3.76,Bank
+675,Banco Financiero,30/04/2018,12.72,3.76,Bank
+676,Banco Financiero,31/05/2018,12.29,3.72,Bank
+677,Banco Financiero,30/06/2018,12.17,3.58,Bank
+678,Banco Financiero,31/07/2018,12.19,3.83,Bank
+679,Banco Pichincha,31/08/2018,12.53,3.75,Bank
+680,Banco Pichincha,30/09/2018,12.55,3.49,Bank
+681,Banco Pichincha,31/10/2018,12.29,3.61,Bank
+682,Banco Pichincha,30/11/2018,12.08,3.65,Bank
+683,Banco Pichincha,31/12/2018,13.0,3.45,Bank
+684,Banco Pichincha,31/01/2019,12.54,3.58,Bank
+685,Banco Pichincha,28/02/2019,12.5,3.88,Bank
+686,Banco Pichincha,31/03/2019,12.46,3.7,Bank
+687,Banco Pichincha,30/04/2019,12.41,3.59,Bank
+688,Banco Pichincha,31/05/2019,12.3,3.71,Bank
+689,Banco Pichincha,30/06/2019,12.78,3.88,Bank
+690,Banco Pichincha,31/07/2019,12.72,3.8,Bank
+691,Banco Pichincha,31/08/2019,12.73,4.0,Bank
+692,Banco Pichincha,30/09/2019,12.69,4.03,Bank
+693,Banco Pichincha,31/10/2019,12.7,3.89,Bank
+694,Banco Pichincha,30/11/2019,12.64,3.83,Bank
+695,Banco Pichincha,31/12/2019,12.98,4.03,Bank
+696,Banco Pichincha,31/01/2020,12.76,4.36,Bank
+697,Banco Pichincha,29/02/2020,12.69,4.24,Bank
+698,Banco Pichincha,31/03/2020,12.99,4.57,Bank
+699,Banco Pichincha,30/04/2020,13.36,4.75,Bank
+700,Banco Pichincha,31/05/2020,13.1,3.92,Bank
+701,Banco Pichincha,30/06/2020,13.55,4.32,Bank
+702,Banco Pichincha,31/07/2020,13.45,4.01,Bank
+703,Banco Pichincha,31/08/2020,13.26,3.96,Bank
+704,Banco Pichincha,30/09/2020,13.07,4.24,Bank
+705,Banco Pichincha,31/10/2020,14.04,4.64,Bank
+706,Banco Pichincha,30/11/2020,13.62,4.71,Bank
+707,Banco Pichincha,31/12/2020,12.83,5.55,Bank
+708,Banco Pichincha,31/01/2021,12.77,5.43,Bank
+709,Banco Pichincha,28/02/2021,12.72,5.65,Bank
+710,Banco Pichincha,31/03/2021,13.07,5.58,Bank
+711,Banco Pichincha,30/04/2021,13.3,5.78,Bank
+712,Banco Pichincha,31/05/2021,13.09,5.96,Bank
+713,Banco Pichincha,30/06/2021,13.19,6.31,Bank
+714,Banco Pichincha,31/07/2021,13.25,6.37,Bank
+715,Banco Pichincha,31/08/2021,13.07,6.07,Bank
+716,Banco Pichincha,30/09/2021,12.98,5.78,Bank
+717,Banco Pichincha,31/10/2021,12.73,5.63,Bank
+718,Banco Pichincha,30/11/2021,12.22,5.8,Bank
+719,Banco Pichincha,31/12/2021,12.13,5.4,Bank
+720,Banco Pichincha,31/01/2022,12.08,5.59,Bank
+721,Banco Pichincha,28/02/2022,11.82,5.6,Bank
+722,Banco Pichincha,31/03/2022,12.08,5.47,Bank
+723,Banco Pichincha,30/04/2022,12.03,5.51,Bank
+724,Banco Pichincha,31/05/2022,11.97,5.81,Bank
+725,Banco Pichincha,30/06/2022,11.81,5.86,Bank
+726,Banco Pichincha,31/07/2022,11.64,6.31,Bank
+727,Banco Pichincha,31/08/2022,11.58,6.27,Bank
+728,Banco Pichincha,30/09/2022,11.44,5.61,Bank
+729,Mibanco,31/01/2016,15.17,4.78,Bank
+730,Mibanco,29/02/2016,15.02,4.69,Bank
+731,Mibanco,31/03/2016,15.76,4.73,Bank
+732,Mibanco,30/04/2016,15.64,4.7,Bank
+733,Mibanco,31/05/2016,16.68,4.75,Bank
+734,Mibanco,30/06/2016,16.61,4.74,Bank
+735,Mibanco,31/07/2016,16.45,4.76,Bank
+736,Mibanco,31/08/2016,16.34,4.64,Bank
+737,Mibanco,30/09/2016,16.17,4.57,Bank
+738,Mibanco,31/10/2016,15.92,4.55,Bank
+739,Mibanco,30/11/2016,15.71,4.5,Bank
+740,Mibanco,31/12/2016,15.54,4.46,Bank
+741,Mibanco,31/01/2017,15.45,4.4,Bank
+742,Mibanco,28/02/2017,15.2,4.56,Bank
+743,Mibanco,31/03/2017,16.45,4.65,Bank
+744,Mibanco,30/04/2017,16.41,4.7,Bank
+745,Mibanco,31/05/2017,16.34,4.68,Bank
+746,Mibanco,30/06/2017,16.56,4.61,Bank
+747,Mibanco,31/07/2017,16.66,4.65,Bank
+748,Mibanco,31/08/2017,16.65,4.72,Bank
+749,Mibanco,30/09/2017,16.44,4.71,Bank
+750,Mibanco,31/10/2017,15.94,4.74,Bank
+751,Mibanco,30/11/2017,15.72,4.65,Bank
+752,Mibanco,31/12/2017,15.27,4.74,Bank
+753,Mibanco,31/01/2018,14.93,4.74,Bank
+754,Mibanco,28/02/2018,14.84,4.83,Bank
+755,Mibanco,31/03/2018,15.14,5.1,Bank
+756,Mibanco,30/04/2018,15.09,5.22,Bank
+757,Mibanco,31/05/2018,14.79,5.32,Bank
+758,Mibanco,30/06/2018,14.79,5.48,Bank
+759,Mibanco,31/07/2018,14.78,5.43,Bank
+760,Mibanco,31/08/2018,14.76,5.46,Bank
+761,Mibanco,30/09/2018,15.1,5.5,Bank
+762,Mibanco,31/10/2018,14.95,5.44,Bank
+763,Mibanco,30/11/2018,14.72,5.29,Bank
+764,Mibanco,31/12/2018,14.35,5.27,Bank
+765,Mibanco,31/01/2019,14.36,5.3,Bank
+766,Mibanco,28/02/2019,14.31,5.33,Bank
+767,Mibanco,31/03/2019,15.03,5.37,Bank
+768,Mibanco,30/04/2019,14.79,5.36,Bank
+769,Mibanco,31/05/2019,14.91,5.3,Bank
+770,Mibanco,30/06/2019,14.86,5.43,Bank
+771,Mibanco,31/07/2019,15.53,5.44,Bank
+772,Mibanco,31/08/2019,15.44,5.49,Bank
+773,Mibanco,30/09/2019,15.34,5.5,Bank
+774,Mibanco,31/10/2019,15.2,5.45,Bank
+775,Mibanco,30/11/2019,14.87,5.39,Bank
+776,Mibanco,31/12/2019,14.45,5.42,Bank
+777,Mibanco,31/01/2020,13.84,5.38,Bank
+778,Mibanco,29/02/2020,13.71,5.43,Bank
+779,Mibanco,31/03/2020,14.02,5.42,Bank
+780,Mibanco,30/04/2020,14.03,5.03,Bank
+781,Mibanco,31/05/2020,15.91,5.8,Bank
+782,Mibanco,30/06/2020,15.94,6.51,Bank
+783,Mibanco,31/07/2020,17.17,5.91,Bank
+784,Mibanco,31/08/2020,17.68,5.67,Bank
+785,Mibanco,30/09/2020,17.68,6.01,Bank
+786,Mibanco,31/10/2020,17.26,6.68,Bank
+787,Mibanco,30/11/2020,16.96,6.79,Bank
+788,Mibanco,31/12/2020,19.82,7.08,Bank
+789,Mibanco,31/01/2021,19.69,7.48,Bank
+790,Mibanco,28/02/2021,19.82,8.25,Bank
+791,Mibanco,31/03/2021,17.87,9.16,Bank
+792,Mibanco,30/04/2021,17.85,9.02,Bank
+793,Mibanco,31/05/2021,17.09,8.94,Bank
+794,Mibanco,30/06/2021,17.25,8.95,Bank
+795,Mibanco,31/07/2021,16.96,8.53,Bank
+796,Mibanco,31/08/2021,16.85,8.35,Bank
+797,Mibanco,30/09/2021,16.74,8.12,Bank
+798,Mibanco,31/10/2021,16.79,8.35,Bank
+799,Mibanco,30/11/2021,16.59,6.75,Bank
+800,Mibanco,31/12/2021,16.4,6.79,Bank
+801,Mibanco,31/01/2022,16.23,6.92,Bank
+802,Mibanco,28/02/2022,15.95,6.71,Bank
+803,Mibanco,31/03/2022,15.61,6.86,Bank
+804,Mibanco,30/04/2022,15.29,6.73,Bank
+805,Mibanco,31/05/2022,15.02,6.88,Bank
+806,Mibanco,30/06/2022,14.83,6.85,Bank
+807,Mibanco,31/07/2022,14.64,6.81,Bank
+808,Mibanco,31/08/2022,14.73,6.51,Bank
+809,Mibanco,30/09/2022,14.61,6.62,Bank
+810,Banco GNB,31/01/2016,12.25,2.01,Bank
+811,Banco GNB,29/02/2016,12.49,2.16,Bank
+812,Banco GNB,31/03/2016,12.45,1.97,Bank
+813,Banco GNB,30/04/2016,13.47,2.0,Bank
+814,Banco GNB,31/05/2016,13.7,1.98,Bank
+815,Banco GNB,30/06/2016,13.72,2.03,Bank
+816,Banco GNB,31/07/2016,13.65,1.95,Bank
+817,Banco GNB,31/08/2016,13.65,1.98,Bank
+818,Banco GNB,30/09/2016,13.79,2.11,Bank
+819,Banco GNB,31/10/2016,14.74,2.17,Bank
+820,Banco GNB,30/11/2016,14.5,2.25,Bank
+821,Banco GNB,31/12/2016,14.31,2.08,Bank
+822,Banco GNB,31/01/2017,14.38,2.19,Bank
+823,Banco GNB,28/02/2017,15.01,2.26,Bank
+824,Banco GNB,31/03/2017,14.89,2.24,Bank
+825,Banco GNB,30/04/2017,14.43,2.37,Bank
+826,Banco GNB,31/05/2017,14.3,2.43,Bank
+827,Banco GNB,30/06/2017,13.91,2.35,Bank
+828,Banco GNB,31/07/2017,13.99,2.26,Bank
+829,Banco GNB,31/08/2017,13.94,2.28,Bank
+830,Banco GNB,30/09/2017,13.87,2.29,Bank
+831,Banco GNB,31/10/2017,13.83,2.58,Bank
+832,Banco GNB,30/11/2017,13.77,2.56,Bank
+833,Banco GNB,31/12/2017,13.82,2.49,Bank
+834,Banco GNB,31/01/2018,13.74,2.93,Bank
+835,Banco GNB,28/02/2018,14.37,2.86,Bank
+836,Banco GNB,31/03/2018,14.64,2.92,Bank
+837,Banco GNB,30/04/2018,14.67,2.89,Bank
+838,Banco GNB,31/05/2018,14.73,2.78,Bank
+839,Banco GNB,30/06/2018,14.61,2.94,Bank
+840,Banco GNB,31/07/2018,14.62,3.0,Bank
+841,Banco GNB,31/08/2018,14.44,3.23,Bank
+842,Banco GNB,30/09/2018,14.2,3.24,Bank
+843,Banco GNB,31/10/2018,14.11,3.4,Bank
+844,Banco GNB,30/11/2018,14.05,2.74,Bank
+845,Banco GNB,31/12/2018,12.93,2.63,Bank
+846,Banco GNB,31/01/2019,12.78,2.79,Bank
+847,Banco GNB,28/02/2019,14.89,2.63,Bank
+848,Banco GNB,31/03/2019,14.83,2.72,Bank
+849,Banco GNB,30/04/2019,14.79,2.48,Bank
+850,Banco GNB,31/05/2019,14.77,2.67,Bank
+851,Banco GNB,30/06/2019,14.59,2.69,Bank
+852,Banco GNB,31/07/2019,14.64,2.79,Bank
+853,Banco GNB,31/08/2019,14.51,3.87,Bank
+854,Banco GNB,30/09/2019,14.59,3.9,Bank
+855,Banco GNB,31/10/2019,13.32,3.84,Bank
+856,Banco GNB,30/11/2019,13.63,4.17,Bank
+857,Banco GNB,31/12/2019,14.85,4.29,Bank
+858,Banco GNB,31/01/2020,15.02,3.84,Bank
+859,Banco GNB,29/02/2020,15.46,3.85,Bank
+860,Banco GNB,31/03/2020,15.56,4.09,Bank
+861,Banco GNB,30/04/2020,15.74,4.15,Bank
+862,Banco GNB,31/05/2020,16.01,4.03,Bank
+863,Banco GNB,30/06/2020,16.31,4.01,Bank
+864,Banco GNB,31/07/2020,16.91,4.34,Bank
+865,Banco GNB,31/08/2020,17.23,4.54,Bank
+866,Banco GNB,30/09/2020,17.13,5.47,Bank
+867,Banco GNB,31/10/2020,17.37,5.48,Bank
+868,Banco GNB,30/11/2020,16.57,5.36,Bank
+869,Banco GNB,31/12/2020,17.44,3.89,Bank
+870,Banco GNB,31/01/2021,16.7,3.99,Bank
+871,Banco GNB,28/02/2021,17.65,3.89,Bank
+872,Banco GNB,31/03/2021,17.97,3.94,Bank
+873,Banco GNB,30/04/2021,17.9,4.21,Bank
+874,Banco GNB,31/05/2021,17.58,4.04,Bank
+875,Banco GNB,30/06/2021,17.55,4.08,Bank
+876,Banco GNB,31/07/2021,17.72,4.33,Bank
+877,Banco GNB,31/08/2021,17.7,4.19,Bank
+878,Banco GNB,30/09/2021,17.72,4.15,Bank
+879,Banco GNB,31/10/2021,17.18,4.19,Bank
+880,Banco GNB,30/11/2021,17.09,4.45,Bank
+881,Banco GNB,31/12/2021,16.76,4.21,Bank
+882,Banco GNB,31/01/2022,16.67,4.2,Bank
+883,Banco GNB,28/02/2022,16.1,4.22,Bank
+884,Banco GNB,31/03/2022,16.68,4.05,Bank
+885,Banco GNB,30/04/2022,16.27,4.11,Bank
+886,Banco GNB,31/05/2022,16.39,4.15,Bank
+887,Banco GNB,30/06/2022,15.88,3.93,Bank
+888,Banco GNB,31/07/2022,15.88,3.83,Bank
+889,Banco GNB,31/08/2022,16.04,3.73,Bank
+890,Banco GNB,30/09/2022,15.95,3.67,Bank
+891,Banco Santander,31/01/2016,14.4,0.69,Bank
+892,Banco Santander,29/02/2016,14.17,0.56,Bank
+893,Banco Santander,31/03/2016,14.86,0.55,Bank
+894,Banco Santander,30/04/2016,14.93,0.64,Bank
+895,Banco Santander,31/05/2016,14.87,0.58,Bank
+896,Banco Santander,30/06/2016,15.95,0.67,Bank
+897,Banco Santander,31/07/2016,15.48,0.68,Bank
+898,Banco Santander,31/08/2016,15.95,0.7,Bank
+899,Banco Santander,30/09/2016,16.54,0.92,Bank
+900,Banco Santander,31/10/2016,16.63,0.73,Bank
+901,Banco Santander,30/11/2016,16.99,0.7,Bank
+902,Banco Santander,31/12/2016,16.86,0.69,Bank
+903,Banco Santander,31/01/2017,17.16,0.81,Bank
+904,Banco Santander,28/02/2017,17.41,1.06,Bank
+905,Banco Santander,31/03/2017,17.02,0.7,Bank
+906,Banco Santander,30/04/2017,16.62,0.64,Bank
+907,Banco Santander,31/05/2017,16.56,0.65,Bank
+908,Banco Santander,30/06/2017,16.36,0.64,Bank
+909,Banco Santander,31/07/2017,16.76,0.69,Bank
+910,Banco Santander,31/08/2017,16.08,0.65,Bank
+911,Banco Santander,30/09/2017,17.38,0.98,Bank
+912,Banco Santander,31/10/2017,18.16,0.89,Bank
+913,Banco Santander,30/11/2017,18.19,1.03,Bank
+914,Banco Santander,31/12/2017,17.27,0.8,Bank
+915,Banco Santander,31/01/2018,17.35,1.06,Bank
+916,Banco Santander,28/02/2018,17.35,1.17,Bank
+917,Banco Santander,31/03/2018,17.08,1.02,Bank
+918,Banco Santander,30/04/2018,16.14,0.99,Bank
+919,Banco Santander,31/05/2018,15.57,0.95,Bank
+920,Banco Santander,30/06/2018,14.89,0.86,Bank
+921,Banco Santander,31/07/2018,14.92,0.88,Bank
+922,Banco Santander,31/08/2018,14.28,0.94,Bank
+923,Banco Santander,30/09/2018,14.15,0.71,Bank
+924,Banco Santander,31/10/2018,13.55,0.61,Bank
+925,Banco Santander,30/11/2018,13.17,0.58,Bank
+926,Banco Santander,31/12/2018,13.49,0.62,Bank
+927,Banco Santander,31/01/2019,13.14,0.64,Bank
+928,Banco Santander,28/02/2019,13.31,0.62,Bank
+929,Banco Santander,31/03/2019,13.64,0.54,Bank
+930,Banco Santander,30/04/2019,13.58,0.57,Bank
+931,Banco Santander,31/05/2019,13.2,0.56,Bank
+932,Banco Santander,30/06/2019,13.64,0.65,Bank
+933,Banco Santander,31/07/2019,13.51,0.62,Bank
+934,Banco Santander,31/08/2019,13.08,0.54,Bank
+935,Banco Santander,30/09/2019,13.57,0.53,Bank
+936,Banco Santander,31/10/2019,14.02,0.5,Bank
+937,Banco Santander,30/11/2019,13.8,0.86,Bank
+938,Banco Santander,31/12/2019,14.27,0.55,Bank
+939,Banco Santander,31/01/2020,13.33,0.63,Bank
+940,Banco Santander,29/02/2020,14.03,0.6,Bank
+941,Banco Santander,31/03/2020,13.53,1.45,Bank
+942,Banco Santander,30/04/2020,13.53,0.96,Bank
+943,Banco Santander,31/05/2020,13.61,0.95,Bank
+944,Banco Santander,30/06/2020,13.27,0.94,Bank
+945,Banco Santander,31/07/2020,14.13,0.98,Bank
+946,Banco Santander,31/08/2020,14.22,0.97,Bank
+947,Banco Santander,30/09/2020,14.24,0.99,Bank
+948,Banco Santander,31/10/2020,14.1,0.78,Bank
+949,Banco Santander,30/11/2020,14.15,0.81,Bank
+950,Banco Santander,31/12/2020,15.65,0.89,Bank
+951,Banco Santander,31/01/2021,15.57,0.91,Bank
+952,Banco Santander,28/02/2021,15.65,1.01,Bank
+953,Banco Santander,31/03/2021,16.38,1.01,Bank
+954,Banco Santander,30/04/2021,16.41,1.04,Bank
+955,Banco Santander,31/05/2021,16.23,1.02,Bank
+956,Banco Santander,30/06/2021,16.05,1.31,Bank
+957,Banco Santander,31/07/2021,15.12,1.43,Bank
+958,Banco Santander,31/08/2021,15.52,1.17,Bank
+959,Banco Santander,30/09/2021,15.71,1.21,Bank
+960,Banco Santander,31/10/2021,15.95,1.18,Bank
+961,Banco Santander,30/11/2021,15.83,1.16,Bank
+962,Banco Santander,31/12/2021,15.93,1.05,Bank
+963,Banco Santander,31/01/2022,15.79,1.05,Bank
+964,Banco Santander,28/02/2022,15.8,1.0,Bank
+965,Banco Santander,31/03/2022,15.78,1.14,Bank
+966,Banco Santander,30/04/2022,15.52,1.48,Bank
+967,Banco Santander,31/05/2022,15.72,1.43,Bank
+968,Banco Santander,30/06/2022,14.71,1.02,Bank
+969,Banco Santander,31/07/2022,14.31,0.89,Bank
+970,Banco Santander,31/08/2022,14.8,0.89,Bank
+971,Banco Santander,30/09/2022,14.55,0.94,Bank
+972,Banco ICBC,31/01/2016,48.71,3.81,Bank
+973,Banco ICBC,29/02/2016,47.62,3.61,Bank
+974,Banco ICBC,31/03/2016,42.37,3.03,Bank
+975,Banco ICBC,30/04/2016,43.53,2.79,Bank
+976,Banco ICBC,31/05/2016,42.41,2.65,Bank
+977,Banco ICBC,30/06/2016,43.56,3.06,Bank
+978,Banco ICBC,31/07/2016,38.37,2.23,Bank
+979,Banco ICBC,31/08/2016,37.49,2.16,Bank
+980,Banco ICBC,30/09/2016,39.38,2.25,Bank
+981,Banco ICBC,31/10/2016,38.9,2.33,Bank
+982,Banco ICBC,30/11/2016,38.1,2.4,Bank
+983,Banco ICBC,31/12/2016,61.59,0.0,Bank
+984,Banco ICBC,31/01/2017,63.75,0.0,Bank
+985,Banco ICBC,28/02/2017,60.34,0.0,Bank
+986,Banco ICBC,31/03/2017,57.92,0.0,Bank
+987,Banco ICBC,30/04/2017,50.26,0.0,Bank
+988,Banco ICBC,31/05/2017,54.27,0.0,Bank
+989,Banco ICBC,30/06/2017,68.33,0.0,Bank
+990,Banco ICBC,31/07/2017,66.08,0.0,Bank
+991,Banco ICBC,31/08/2017,59.02,0.0,Bank
+992,Banco ICBC,30/09/2017,53.58,0.0,Bank
+993,Banco ICBC,31/10/2017,51.24,,Bank
+994,Banco ICBC,30/11/2017,49.59,,Bank
+995,Banco ICBC,31/12/2017,56.7,,Bank
+996,Banco ICBC,31/01/2018,59.07,,Bank
+997,Banco ICBC,28/02/2018,46.5,,Bank
+998,Banco ICBC,31/03/2018,42.8,,Bank
+999,Banco ICBC,30/04/2018,41.74,,Bank
+1000,Banco ICBC,31/05/2018,60.26,,Bank
+1001,Banco ICBC,30/06/2018,63.73,,Bank
+1002,Banco ICBC,31/07/2018,55.58,,Bank
+1003,Banco ICBC,31/08/2018,57.84,,Bank
+1004,Banco ICBC,30/09/2018,55.23,,Bank
+1005,Banco ICBC,31/10/2018,58.82,,Bank
+1006,Banco ICBC,30/11/2018,48.64,,Bank
+1007,Banco ICBC,31/12/2018,43.26,,Bank
+1008,Banco ICBC,31/01/2019,42.85,,Bank
+1009,Banco ICBC,28/02/2019,38.98,,Bank
+1010,Banco ICBC,31/03/2019,40.76,,Bank
+1011,Banco ICBC,30/04/2019,39.68,,Bank
+1012,Banco ICBC,31/05/2019,38.44,,Bank
+1013,Banco ICBC,30/06/2019,43.23,,Bank
+1014,Banco ICBC,31/07/2019,41.3,,Bank
+1015,Banco ICBC,31/08/2019,42.28,,Bank
+1016,Banco ICBC,30/09/2019,39.57,,Bank
+1017,Banco ICBC,31/10/2019,44.51,,Bank
+1018,Banco ICBC,30/11/2019,37.93,,Bank
+1019,Banco ICBC,31/12/2019,37.17,,Bank
+1020,Banco ICBC,31/01/2020,38.48,,Bank
+1021,Banco ICBC,29/02/2020,38.38,,Bank
+1022,Banco ICBC,31/03/2020,38.74,,Bank
+1023,Banco ICBC,30/04/2020,34.9,,Bank
+1024,Banco ICBC,31/05/2020,38.13,,Bank
+1025,Banco ICBC,30/06/2020,35.17,,Bank
+1026,Banco ICBC,31/07/2020,34.19,,Bank
+1027,Banco ICBC,31/08/2020,37.84,,Bank
+1028,Banco ICBC,30/09/2020,38.72,,Bank
+1029,Banco ICBC,31/10/2020,40.52,,Bank
+1030,Banco ICBC,30/11/2020,39.34,,Bank
+1031,Banco ICBC,31/12/2020,38.64,,Bank
+1032,Banco ICBC,31/01/2021,36.33,,Bank
+1033,Banco ICBC,28/02/2021,37.37,,Bank
+1034,Banco ICBC,31/03/2021,37.68,,Bank
+1035,Banco ICBC,30/04/2021,38.77,,Bank
+1036,Banco ICBC,31/05/2021,34.06,,Bank
+1037,Banco ICBC,30/06/2021,33.51,,Bank
+1038,Banco ICBC,31/07/2021,32.04,,Bank
+1039,Banco ICBC,31/08/2021,31.8,,Bank
+1040,Banco ICBC,30/09/2021,32.9,,Bank
+1041,Banco ICBC,31/10/2021,31.8,,Bank
+1042,Banco ICBC,30/11/2021,30.05,,Bank
+1043,Banco ICBC,31/12/2021,32.18,,Bank
+1044,Banco ICBC,31/01/2022,30.8,,Bank
+1045,Banco ICBC,28/02/2022,32.89,,Bank
+1046,Banco ICBC,31/03/2022,33.27,,Bank
+1047,Banco ICBC,30/04/2022,30.11,,Bank
+1048,Banco ICBC,31/05/2022,31.66,,Bank
+1049,Banco ICBC,30/06/2022,32.74,,Bank
+1050,Banco ICBC,31/07/2022,31.09,,Bank
+1051,Banco ICBC,31/08/2022,29.04,,Bank
+1052,Banco ICBC,30/09/2022,29.38,,Bank
+1053,Bank of China,31/07/2020,420.48,,Bank
+1054,Bank of China,31/08/2020,513.77,,Bank
+1055,Bank of China,30/09/2020,478.66,,Bank
+1056,Bank of China,31/10/2020,387.24,,Bank
+1057,Bank of China,30/11/2020,387.51,,Bank
+1058,Bank of China,31/12/2020,324.91,,Bank
+1059,Bank of China,31/01/2021,304.02,,Bank
+1060,Bank of China,28/02/2021,242.69,,Bank
+1061,Bank of China,31/03/2021,209.57,,Bank
+1062,Bank of China,30/04/2021,221.22,,Bank
+1063,Bank of China,31/05/2021,150.14,,Bank
+1064,Bank of China,30/06/2021,149.15,,Bank
+1065,Bank of China,31/07/2021,122.38,,Bank
+1066,Bank of China,31/08/2021,85.29,,Bank
+1067,Bank of China,30/09/2021,105.34,,Bank
+1068,Bank of China,31/10/2021,90.51,,Bank
+1069,Bank of China,30/11/2021,105.98,,Bank
+1070,Bank of China,31/12/2021,92.84,,Bank
+1071,Bank of China,31/01/2022,75.56,,Bank
+1072,Bank of China,28/02/2022,69.31,,Bank
+1073,Bank of China,31/03/2022,68.51,,Bank
+1074,Bank of China,30/04/2022,65.28,,Bank
+1075,Bank of China,31/05/2022,63.11,,Bank
+1076,Bank of China,30/06/2022,62.81,,Bank
+1077,Bank of China,31/07/2022,57.27,,Bank
+1078,Bank of China,31/08/2022,58.15,,Bank
+1079,Bank of China,30/09/2022,56.61,,Bank
+1080,Azteca del Perú,31/01/2016,22.75,11.2,Bank
+1081,Azteca del Perú,29/02/2016,22.4,10.97,Bank
+1082,Azteca del Perú,31/03/2016,22.19,11.09,Bank
+1083,Azteca del Perú,30/04/2016,23.08,11.12,Bank
+1084,Azteca del Perú,31/05/2016,24.0,11.25,Bank
+1085,Azteca del Perú,30/06/2016,24.07,11.02,Bank
+1086,Azteca del Perú,31/07/2016,24.97,10.7,Bank
+1087,Azteca del Perú,31/08/2016,25.82,10.54,Bank
+1088,Azteca del Perú,30/09/2016,25.87,10.3,Bank
+1089,Azteca del Perú,31/10/2016,26.6,9.99,Bank
+1090,Azteca del Perú,30/11/2016,25.88,9.58,Bank
+1091,Azteca del Perú,31/12/2016,25.41,9.24,Bank
+1092,Azteca del Perú,31/01/2017,24.95,9.4,Bank
+1093,Azteca del Perú,28/02/2017,24.53,9.15,Bank
+1094,Azteca del Perú,31/03/2017,24.15,9.17,Bank
+1095,Azteca del Perú,30/04/2017,24.06,9.38,Bank
+1096,Azteca del Perú,31/05/2017,24.28,9.63,Bank
+1097,Azteca del Perú,30/06/2017,24.27,9.58,Bank
+1098,Azteca del Perú,31/07/2017,24.34,9.37,Bank
+1099,Azteca del Perú,31/08/2017,24.15,9.29,Bank
+1100,Azteca del Perú,30/09/2017,24.02,9.35,Bank
+1101,Azteca del Perú,31/10/2017,24.37,9.57,Bank
+1102,Azteca del Perú,30/11/2017,24.13,9.59,Bank
+1103,Azteca del Perú,31/12/2017,23.29,9.46,Bank
+1104,Azteca del Perú,31/01/2018,23.32,9.65,Bank
+1105,Azteca del Perú,28/02/2018,23.35,9.47,Bank
+1106,Azteca del Perú,31/03/2018,23.49,9.7,Bank
+1107,Azteca del Perú,30/04/2018,24.16,9.6,Bank
+1108,Azteca del Perú,31/05/2018,24.29,9.68,Bank
+1109,Azteca del Perú,30/06/2018,24.52,9.67,Bank
+1110,Azteca del Perú,31/07/2018,25.34,9.48,Bank
+1111,Azteca del Perú,31/08/2018,25.5,9.66,Bank
+1112,Azteca del Perú,30/09/2018,25.8,9.53,Bank
+1113,Azteca del Perú,31/10/2018,25.73,9.74,Bank
+1114,Azteca del Perú,30/11/2018,25.5,9.41,Bank
+1115,Azteca del Perú,31/12/2018,25.1,9.36,Bank
+1116,Azteca del Perú,31/01/2019,25.51,9.3,Bank
+1117,Azteca del Perú,28/02/2019,25.39,9.26,Bank
+1118,Azteca del Perú,31/03/2019,25.1,9.32,Bank
+1119,Azteca del Perú,30/04/2019,24.97,9.22,Bank
+1120,Azteca del Perú,31/05/2019,24.49,9.2,Bank
+1121,Azteca del Perú,30/06/2019,23.96,9.11,Bank
+1122,Azteca del Perú,31/07/2019,23.01,9.03,Bank
+1123,Azteca del Perú,31/08/2019,22.37,8.75,Bank
+1124,Azteca del Perú,30/09/2019,22.15,8.55,Bank
+1125,Azteca del Perú,31/10/2019,20.47,8.65,Bank
+1126,Azteca del Perú,30/11/2019,19.72,8.99,Bank
+1127,Azteca del Perú,31/12/2019,18.43,8.99,Bank
+1128,Azteca del Perú,31/01/2020,17.95,9.01,Bank
+1129,Azteca del Perú,29/02/2020,17.41,9.03,Bank
+1130,Azteca del Perú,31/03/2020,16.7,7.85,Bank
+1131,Azteca del Perú,30/04/2020,16.28,9.04,Bank
+1132,Azteca del Perú,31/05/2020,16.26,10.01,Bank
+1133,Azteca del Perú,30/06/2020,16.96,8.13,Bank
+1134,Azteca del Perú,31/07/2020,17.13,8.22,Bank
+1135,Azteca del Perú,31/08/2020,17.08,7.94,Bank
+1136,Azteca del Perú,30/09/2020,16.74,11.84,Bank
+1137,Azteca del Perú,31/10/2020,17.52,15.56,Bank
+1138,Azteca del Perú,30/11/2020,16.4,16.01,Bank
+1139,Azteca del Perú,31/12/2020,18.41,15.46,Bank
+1140,Azteca del Perú,31/01/2021,17.1,15.19,Bank
+1141,Azteca del Perú,28/02/2021,14.56,14.64,Bank
+1142,Azteca del Perú,31/03/2021,13.33,18.61,Bank
+1143,Azteca del Perú,30/04/2021,12.84,22.7,Bank
+1144,Azteca del Perú,31/05/2021,11.71,16.46,Bank
+1145,Azteca del Perú,30/06/2021,10.32,12.99,Bank
+1146,Azteca del Perú,31/07/2021,9.77,8.9,Bank
+1147,Azteca del Perú,31/08/2021,10.53,7.86,Bank
+1148,Azteca del Perú,30/09/2021,9.7,12.53,Bank
+1149,Azteca del Perú,31/10/2021,7.77,11.12,Bank
+1150,Alfin Banco,30/11/2021,6.0,6.73,Bank
+1151,Alfin Banco,31/12/2021,4.06,5.02,Bank
+1152,Alfin Banco,31/01/2022,3.03,3.33,Bank
+1153,Alfin Banco,28/02/2022,2.89,5.86,Bank
+1154,Alfin Banco,31/03/2022,4.68,5.16,Bank
+1155,Alfin Banco,30/04/2022,4.52,4.66,Bank
+1156,Alfin Banco,31/05/2022,4.39,4.53,Bank
+1157,Alfin Banco,30/06/2022,4.22,4.91,Bank
+1158,Alfin Banco,31/07/2022,4.28,4.85,Bank
+1159,Alfin Banco,31/08/2022,4.39,4.14,Bank
+1160,Alfin Banco,30/09/2022,4.78,3.86,Bank
+1161,Banco Falabella,31/01/2016,14.38,4.35,Bank
+1162,Banco Falabella,29/02/2016,14.34,4.38,Bank
+1163,Banco Falabella,31/03/2016,14.73,4.53,Bank
+1164,Banco Falabella,30/04/2016,14.59,4.8,Bank
+1165,Banco Falabella,31/05/2016,14.68,4.98,Bank
+1166,Banco Falabella,30/06/2016,14.45,5.18,Bank
+1167,Banco Falabella,31/07/2016,14.44,5.29,Bank
+1168,Banco Falabella,31/08/2016,14.84,5.44,Bank
+1169,Banco Falabella,30/09/2016,14.93,5.56,Bank
+1170,Banco Falabella,31/10/2016,14.9,5.67,Bank
+1171,Banco Falabella,30/11/2016,14.93,5.74,Bank
+1172,Banco Falabella,31/12/2016,15.38,5.71,Bank
+1173,Banco Falabella,31/01/2017,15.58,5.98,Bank
+1174,Banco Falabella,28/02/2017,15.76,6.11,Bank
+1175,Banco Falabella,31/03/2017,16.16,6.32,Bank
+1176,Banco Falabella,30/04/2017,15.83,6.4,Bank
+1177,Banco Falabella,31/05/2017,16.3,6.73,Bank
+1178,Banco Falabella,30/06/2017,16.31,7.02,Bank
+1179,Banco Falabella,31/07/2017,16.99,7.3,Bank
+1180,Banco Falabella,31/08/2017,17.47,7.53,Bank
+1181,Banco Falabella,30/09/2017,17.66,7.71,Bank
+1182,Banco Falabella,31/10/2017,18.0,7.86,Bank
+1183,Banco Falabella,30/11/2017,17.74,7.88,Bank
+1184,Banco Falabella,31/12/2017,17.19,7.81,Bank
+1185,Banco Falabella,31/01/2018,17.56,8.08,Bank
+1186,Banco Falabella,28/02/2018,17.67,8.04,Bank
+1187,Banco Falabella,31/03/2018,18.48,7.66,Bank
+1188,Banco Falabella,30/04/2018,17.05,7.51,Bank
+1189,Banco Falabella,31/05/2018,16.47,7.58,Bank
+1190,Banco Falabella,30/06/2018,16.28,7.75,Bank
+1191,Banco Falabella,31/07/2018,16.73,7.87,Bank
+1192,Banco Falabella,31/08/2018,16.79,7.78,Bank
+1193,Banco Falabella,30/09/2018,16.7,3.61,Bank
+1194,Banco Falabella,31/10/2018,16.85,3.15,Bank
+1195,Banco Falabella,30/11/2018,17.34,3.12,Bank
+1196,Banco Falabella,31/12/2018,17.05,2.97,Bank
+1197,Banco Falabella,31/01/2019,17.34,2.95,Bank
+1198,Banco Falabella,28/02/2019,17.43,2.77,Bank
+1199,Banco Falabella,31/03/2019,17.47,2.76,Bank
+1200,Banco Falabella,30/04/2019,16.12,2.8,Bank
+1201,Banco Falabella,31/05/2019,15.97,3.05,Bank
+1202,Banco Falabella,30/06/2019,15.92,3.1,Bank
+1203,Banco Falabella,31/07/2019,16.13,2.97,Bank
+1204,Banco Falabella,31/08/2019,15.95,2.88,Bank
+1205,Banco Falabella,30/09/2019,15.98,2.88,Bank
+1206,Banco Falabella,31/10/2019,15.85,2.88,Bank
+1207,Banco Falabella,30/11/2019,15.4,2.87,Bank
+1208,Banco Falabella,31/12/2019,15.0,2.85,Bank
+1209,Banco Falabella,31/01/2020,14.53,2.91,Bank
+1210,Banco Falabella,29/02/2020,14.5,2.83,Bank
+1211,Banco Falabella,31/03/2020,14.92,3.26,Bank
+1212,Banco Falabella,30/04/2020,15.88,4.04,Bank
+1213,Banco Falabella,31/05/2020,16.19,4.66,Bank
+1214,Banco Falabella,30/06/2020,16.1,5.13,Bank
+1215,Banco Falabella,31/07/2020,15.88,5.45,Bank
+1216,Banco Falabella,31/08/2020,15.75,6.33,Bank
+1217,Banco Falabella,30/09/2020,15.16,5.96,Bank
+1218,Banco Falabella,31/10/2020,14.85,4.63,Bank
+1219,Banco Falabella,30/11/2020,14.11,4.72,Bank
+1220,Banco Falabella,31/12/2020,13.78,4.69,Bank
+1221,Banco Falabella,31/01/2021,13.33,4.49,Bank
+1222,Banco Falabella,28/02/2021,12.47,3.86,Bank
+1223,Banco Falabella,31/03/2021,13.76,3.25,Bank
+1224,Banco Falabella,30/04/2021,13.42,3.01,Bank
+1225,Banco Falabella,31/05/2021,13.27,3.23,Bank
+1226,Banco Falabella,30/06/2021,14.7,3.05,Bank
+1227,Banco Falabella,31/07/2021,13.46,2.6,Bank
+1228,Banco Falabella,31/08/2021,13.37,2.31,Bank
+1229,Banco Falabella,30/09/2021,13.39,2.07,Bank
+1230,Banco Falabella,31/10/2021,14.69,1.88,Bank
+1231,Banco Falabella,30/11/2021,14.55,1.75,Bank
+1232,Banco Falabella,31/12/2021,14.23,1.74,Bank
+1233,Banco Falabella,31/01/2022,15.09,1.82,Bank
+1234,Banco Falabella,28/02/2022,14.85,1.87,Bank
+1235,Banco Falabella,31/03/2022,14.41,1.94,Bank
+1236,Banco Falabella,30/04/2022,14.04,2.07,Bank
+1237,Banco Falabella,31/05/2022,14.33,2.43,Bank
+1238,Banco Falabella,30/06/2022,14.43,2.65,Bank
+1239,Banco Falabella,31/07/2022,15.22,3.02,Bank
+1240,Banco Falabella,31/08/2022,15.44,3.28,Bank
+1241,Banco Falabella,30/09/2022,15.52,3.6,Bank
+1242,Banco BCI,31/07/2022,47.38,,Bank
+1243,Banco BCI,31/08/2022,45.31,,Bank
+1244,Banco BCI,30/09/2022,41.65,,Bank
+0,Crediscotia Financiera,31/01/2016,15.08,6.98,Financial Comp
+1,Crediscotia Financiera,29/02/2016,15.09,7.34,Financial Comp
+2,Crediscotia Financiera,31/03/2016,15.54,7.24,Financial Comp
+3,Crediscotia Financiera,30/04/2016,14.49,6.73,Financial Comp
+4,Crediscotia Financiera,31/05/2016,14.5,6.96,Financial Comp
+5,Crediscotia Financiera,30/06/2016,14.68,7.37,Financial Comp
+6,Crediscotia Financiera,31/07/2016,14.74,7.27,Financial Comp
+7,Crediscotia Financiera,31/08/2016,14.84,7.52,Financial Comp
+8,Crediscotia Financiera,30/09/2016,14.75,7.75,Financial Comp
+9,Crediscotia Financiera,31/10/2016,14.76,8.06,Financial Comp
+10,Crediscotia Financiera,30/11/2016,14.48,7.34,Financial Comp
+11,Crediscotia Financiera,31/12/2016,14.19,6.58,Financial Comp
+12,Crediscotia Financiera,31/01/2017,14.16,7.11,Financial Comp
+13,Crediscotia Financiera,28/02/2017,16.17,6.96,Financial Comp
+14,Crediscotia Financiera,31/03/2017,16.31,6.49,Financial Comp
+15,Crediscotia Financiera,30/04/2017,17.1,6.48,Financial Comp
+16,Crediscotia Financiera,31/05/2017,17.23,6.47,Financial Comp
+17,Crediscotia Financiera,30/06/2017,17.03,6.36,Financial Comp
+18,Crediscotia Financiera,31/07/2017,16.91,6.4,Financial Comp
+19,Crediscotia Financiera,31/08/2017,16.78,6.55,Financial Comp
+20,Crediscotia Financiera,30/09/2017,16.55,5.8,Financial Comp
+21,Crediscotia Financiera,31/10/2017,16.42,5.98,Financial Comp
+22,Crediscotia Financiera,30/11/2017,16.21,5.74,Financial Comp
+23,Crediscotia Financiera,31/12/2017,15.95,6.54,Financial Comp
+24,Crediscotia Financiera,31/01/2018,15.79,5.84,Financial Comp
+25,Crediscotia Financiera,28/02/2018,15.79,6.07,Financial Comp
+26,Crediscotia Financiera,31/03/2018,18.48,5.99,Financial Comp
+27,Crediscotia Financiera,30/04/2018,18.27,6.46,Financial Comp
+28,Crediscotia Financiera,31/05/2018,18.09,6.1,Financial Comp
+29,Crediscotia Financiera,30/06/2018,17.98,6.18,Financial Comp
+30,Crediscotia Financiera,31/07/2018,18.04,6.37,Financial Comp
+31,Crediscotia Financiera,31/08/2018,17.98,6.97,Financial Comp
+32,Crediscotia Financiera,30/09/2018,17.96,6.55,Financial Comp
+33,Crediscotia Financiera,31/10/2018,17.81,6.5,Financial Comp
+34,Crediscotia Financiera,30/11/2018,17.53,6.15,Financial Comp
+35,Crediscotia Financiera,31/12/2018,17.43,6.54,Financial Comp
+36,Crediscotia Financiera,31/01/2019,17.48,5.88,Financial Comp
+37,Crediscotia Financiera,28/02/2019,17.87,5.76,Financial Comp
+38,Crediscotia Financiera,31/03/2019,19.7,5.79,Financial Comp
+39,Crediscotia Financiera,30/04/2019,19.51,5.99,Financial Comp
+40,Crediscotia Financiera,31/05/2019,19.32,6.23,Financial Comp
+41,Crediscotia Financiera,30/06/2019,19.09,6.12,Financial Comp
+42,Crediscotia Financiera,31/07/2019,18.52,6.05,Financial Comp
+43,Crediscotia Financiera,31/08/2019,18.3,5.94,Financial Comp
+44,Crediscotia Financiera,30/09/2019,18.05,5.72,Financial Comp
+45,Crediscotia Financiera,31/10/2019,18.1,5.8,Financial Comp
+46,Crediscotia Financiera,30/11/2019,17.8,5.8,Financial Comp
+47,Crediscotia Financiera,31/12/2019,17.62,5.46,Financial Comp
+48,Crediscotia Financiera,31/01/2020,17.61,6.21,Financial Comp
+49,Crediscotia Financiera,29/02/2020,17.52,6.13,Financial Comp
+50,Crediscotia Financiera,31/03/2020,17.48,6.17,Financial Comp
+51,Crediscotia Financiera,30/04/2020,19.45,6.79,Financial Comp
+52,Crediscotia Financiera,31/05/2020,19.94,7.41,Financial Comp
+53,Crediscotia Financiera,30/06/2020,20.59,7.76,Financial Comp
+54,Crediscotia Financiera,31/07/2020,20.93,6.86,Financial Comp
+55,Crediscotia Financiera,31/08/2020,21.03,8.16,Financial Comp
+56,Crediscotia Financiera,30/09/2020,21.19,9.42,Financial Comp
+57,Crediscotia Financiera,31/10/2020,21.9,11.22,Financial Comp
+58,Crediscotia Financiera,30/11/2020,23.76,10.65,Financial Comp
+59,Crediscotia Financiera,31/12/2020,17.55,20.16,Financial Comp
+60,Crediscotia Financiera,31/01/2021,19.36,25.25,Financial Comp
+61,Crediscotia Financiera,28/02/2021,20.62,25.63,Financial Comp
+62,Crediscotia Financiera,31/03/2021,21.17,20.21,Financial Comp
+63,Crediscotia Financiera,30/04/2021,21.23,16.69,Financial Comp
+64,Crediscotia Financiera,31/05/2021,21.48,14.9,Financial Comp
+65,Crediscotia Financiera,30/06/2021,21.86,14.58,Financial Comp
+66,Crediscotia Financiera,31/07/2021,21.9,11.95,Financial Comp
+67,Crediscotia Financiera,31/08/2021,22.41,10.68,Financial Comp
+68,Crediscotia Financiera,30/09/2021,22.88,8.27,Financial Comp
+69,Crediscotia Financiera,31/10/2021,23.09,6.02,Financial Comp
+70,Crediscotia Financiera,30/11/2021,22.98,5.62,Financial Comp
+71,Crediscotia Financiera,31/12/2021,22.73,5.26,Financial Comp
+72,Crediscotia Financiera,31/01/2022,18.77,4.04,Financial Comp
+73,Crediscotia Financiera,28/02/2022,18.76,4.44,Financial Comp
+74,Crediscotia Financiera,31/03/2022,19.58,4.32,Financial Comp
+75,Crediscotia Financiera,30/04/2022,19.39,3.42,Financial Comp
+76,Crediscotia Financiera,31/05/2022,19.44,4.21,Financial Comp
+77,Crediscotia Financiera,30/06/2022,19.43,4.27,Financial Comp
+78,Crediscotia Financiera,31/07/2022,19.38,4.34,Financial Comp
+79,Crediscotia Financiera,31/08/2022,19.11,4.4,Financial Comp
+80,Crediscotia Financiera,30/09/2022,19.28,4.51,Financial Comp
+81,Financiera TFC,31/01/2016,12.99,6.07,Financial Comp
+82,Financiera TFC,29/02/2016,12.92,5.96,Financial Comp
+83,Financiera TFC,31/03/2016,12.94,6.06,Financial Comp
+84,Financiera TFC,30/04/2016,12.94,5.87,Financial Comp
+85,Financiera TFC,31/05/2016,12.92,5.83,Financial Comp
+86,Financiera TFC,30/06/2016,12.92,5.8,Financial Comp
+87,Financiera TFC,31/07/2016,12.93,5.91,Financial Comp
+88,Financiera TFC,31/08/2016,12.6,5.79,Financial Comp
+89,Financiera TFC,30/09/2016,12.49,5.73,Financial Comp
+90,Financiera TFC,31/10/2016,12.45,5.72,Financial Comp
+91,Financiera TFC,30/11/2016,12.42,5.44,Financial Comp
+92,Financiera TFC,31/12/2016,13.0,5.52,Financial Comp
+93,Financiera TFC,31/01/2017,12.91,5.51,Financial Comp
+94,Financiera TFC,28/02/2017,12.53,5.21,Financial Comp
+95,Financiera TFC,31/03/2017,12.36,5.35,Financial Comp
+96,Financiera TFC,30/04/2017,12.33,5.4,Financial Comp
+97,Financiera TFC,31/05/2017,12.45,5.89,Financial Comp
+98,Financiera TFC,30/06/2017,12.44,5.87,Financial Comp
+99,Financiera TFC,31/07/2017,12.02,5.81,Financial Comp
+100,Financiera TFC,31/08/2017,11.93,5.78,Financial Comp
+101,Financiera TFC,30/09/2017,12.09,5.6,Financial Comp
+102,Financiera TFC,31/10/2017,12.15,5.55,Financial Comp
+103,Financiera TFC,30/11/2017,12.33,5.39,Financial Comp
+104,Financiera TFC,31/12/2017,11.49,5.36,Financial Comp
+105,Financiera TFC,31/01/2018,11.67,5.5,Financial Comp
+106,Financiera TFC,28/02/2018,11.55,5.45,Financial Comp
+107,Financiera TFC,31/03/2018,11.5,5.56,Financial Comp
+108,Financiera TFC,30/04/2018,11.59,5.79,Financial Comp
+109,Financiera TFC,31/05/2018,11.66,5.91,Financial Comp
+110,Financiera TFC,30/06/2018,11.8,5.94,Financial Comp
+111,Financiera TFC,31/07/2018,12.06,5.79,Financial Comp
+112,Financiera TFC,31/08/2018,12.13,5.96,Financial Comp
+113,Financiera TFC,30/09/2018,12.07,6.0,Financial Comp
+114,Financiera TFC,31/10/2018,12.05,6.12,Financial Comp
+115,Financiera TFC,30/11/2018,11.93,6.06,Financial Comp
+116,Financiera TFC,31/12/2018,12.15,6.31,Financial Comp
+117,Financiera TFC,31/01/2019,12.1,6.54,Financial Comp
+118,Financiera TFC,28/02/2019,12.04,6.71,Financial Comp
+119,Financiera TFC,31/03/2019,12.09,6.39,Financial Comp
+120,Financiera TFC,30/04/2019,12.1,6.22,Financial Comp
+121,Financiera TFC,31/05/2019,12.04,6.31,Financial Comp
+122,Financiera TFC,30/06/2019,12.01,6.27,Financial Comp
+123,Financiera TFC,31/07/2019,11.98,5.97,Financial Comp
+124,Financiera TFC,31/08/2019,12.06,6.09,Financial Comp
+125,Financiera TFC,30/09/2019,12.02,6.22,Financial Comp
+126,Financiera TFC,31/10/2019,12.03,6.36,Financial Comp
+127,Financiera TFC,30/11/2019,12.03,6.36,Financial Comp
+128,Financiera Qapaq,31/01/2016,18.28,10.57,Financial Comp
+129,Financiera Qapaq,29/02/2016,17.89,10.32,Financial Comp
+130,Financiera Qapaq,31/03/2016,18.15,9.92,Financial Comp
+131,Financiera Qapaq,30/04/2016,17.7,9.37,Financial Comp
+132,Financiera Qapaq,31/05/2016,17.65,9.83,Financial Comp
+133,Financiera Qapaq,30/06/2016,17.56,10.57,Financial Comp
+134,Financiera Qapaq,31/07/2016,17.36,10.83,Financial Comp
+135,Financiera Qapaq,31/08/2016,17.43,11.04,Financial Comp
+136,Financiera Qapaq,30/09/2016,17.26,11.05,Financial Comp
+137,Financiera Qapaq,31/10/2016,16.93,11.34,Financial Comp
+138,Financiera Qapaq,30/11/2016,16.45,9.92,Financial Comp
+139,Financiera Qapaq,31/12/2016,16.47,9.04,Financial Comp
+140,Financiera Qapaq,31/01/2017,16.75,9.05,Financial Comp
+141,Financiera Qapaq,28/02/2017,16.74,9.22,Financial Comp
+142,Financiera Qapaq,31/03/2017,16.68,9.25,Financial Comp
+143,Financiera Qapaq,30/04/2017,16.37,9.56,Financial Comp
+144,Financiera Qapaq,31/05/2017,16.34,9.86,Financial Comp
+145,Financiera Qapaq,30/06/2017,17.04,9.67,Financial Comp
+146,Financiera Qapaq,31/07/2017,17.18,9.52,Financial Comp
+147,Financiera Qapaq,31/08/2017,17.12,8.9,Financial Comp
+148,Financiera Qapaq,30/09/2017,16.82,8.05,Financial Comp
+149,Financiera Qapaq,31/10/2017,16.81,7.8,Financial Comp
+150,Financiera Qapaq,30/11/2017,16.57,7.71,Financial Comp
+151,Financiera Qapaq,31/12/2017,16.48,7.37,Financial Comp
+152,Financiera Qapaq,31/01/2018,16.45,7.63,Financial Comp
+153,Financiera Qapaq,28/02/2018,16.39,7.55,Financial Comp
+154,Financiera Qapaq,31/03/2018,16.38,7.32,Financial Comp
+155,Financiera Qapaq,30/04/2018,16.48,7.73,Financial Comp
+156,Financiera Qapaq,31/05/2018,16.65,7.9,Financial Comp
+157,Financiera Qapaq,30/06/2018,16.66,7.8,Financial Comp
+158,Financiera Qapaq,31/07/2018,16.53,8.07,Financial Comp
+159,Financiera Qapaq,31/08/2018,16.5,8.18,Financial Comp
+160,Financiera Qapaq,30/09/2018,16.49,7.71,Financial Comp
+161,Financiera Qapaq,31/10/2018,16.55,6.58,Financial Comp
+162,Financiera Qapaq,30/11/2018,16.34,5.98,Financial Comp
+163,Financiera Qapaq,31/12/2018,15.9,5.82,Financial Comp
+164,Financiera Qapaq,31/01/2019,15.8,5.99,Financial Comp
+165,Financiera Qapaq,28/02/2019,15.42,6.6,Financial Comp
+166,Financiera Qapaq,31/03/2019,15.56,6.66,Financial Comp
+167,Financiera Qapaq,30/04/2019,15.58,7.07,Financial Comp
+168,Financiera Qapaq,31/05/2019,15.52,7.06,Financial Comp
+169,Financiera Qapaq,30/06/2019,15.68,7.36,Financial Comp
+170,Financiera Qapaq,31/07/2019,15.81,7.38,Financial Comp
+171,Financiera Qapaq,31/08/2019,15.8,7.3,Financial Comp
+172,Financiera Qapaq,30/09/2019,15.91,7.31,Financial Comp
+173,Financiera Qapaq,31/10/2019,15.64,6.96,Financial Comp
+174,Financiera Qapaq,30/11/2019,15.53,6.81,Financial Comp
+175,Financiera Qapaq,31/12/2019,15.78,6.42,Financial Comp
+176,Financiera Qapaq,31/01/2020,15.4,6.23,Financial Comp
+177,Financiera Qapaq,29/02/2020,15.02,6.78,Financial Comp
+178,Financiera Qapaq,31/03/2020,15.4,5.36,Financial Comp
+179,Financiera Qapaq,30/04/2020,15.47,5.17,Financial Comp
+180,Financiera Qapaq,31/05/2020,15.56,5.62,Financial Comp
+181,Financiera Qapaq,30/06/2020,15.13,5.93,Financial Comp
+182,Financiera Qapaq,31/07/2020,15.7,6.46,Financial Comp
+183,Financiera Qapaq,31/08/2020,15.88,6.38,Financial Comp
+184,Financiera Qapaq,30/09/2020,15.58,7.42,Financial Comp
+185,Financiera Qapaq,31/10/2020,15.54,8.14,Financial Comp
+186,Financiera Qapaq,30/11/2020,15.1,8.93,Financial Comp
+187,Financiera Qapaq,31/12/2020,14.3,5.55,Financial Comp
+188,Financiera Qapaq,31/01/2021,13.97,4.57,Financial Comp
+189,Financiera Qapaq,28/02/2021,13.39,6.49,Financial Comp
+190,Financiera Qapaq,31/03/2021,13.14,6.31,Financial Comp
+191,Financiera Qapaq,30/04/2021,12.69,9.68,Financial Comp
+192,Financiera Qapaq,31/05/2021,11.77,10.85,Financial Comp
+193,Financiera Qapaq,30/06/2021,10.52,11.39,Financial Comp
+194,Financiera Qapaq,31/07/2021,9.18,9.27,Financial Comp
+195,Financiera Qapaq,31/08/2021,8.16,11.64,Financial Comp
+196,Financiera Qapaq,30/09/2021,7.17,12.91,Financial Comp
+197,Financiera Qapaq,31/10/2021,6.6,11.47,Financial Comp
+198,Financiera Qapaq,30/11/2021,6.06,9.11,Financial Comp
+199,Financiera Qapaq,31/12/2021,8.23,6.52,Financial Comp
+200,Financiera Qapaq,31/01/2022,7.58,6.33,Financial Comp
+201,Financiera Qapaq,28/02/2022,7.74,5.78,Financial Comp
+202,Financiera Qapaq,31/03/2022,7.25,5.23,Financial Comp
+203,Financiera Qapaq,30/04/2022,9.02,5.27,Financial Comp
+204,Financiera Qapaq,31/05/2022,11.63,5.19,Financial Comp
+205,Financiera Qapaq,30/06/2022,11.4,5.32,Financial Comp
+206,Financiera Qapaq,31/07/2022,11.22,5.55,Financial Comp
+207,Financiera Qapaq,31/08/2022,10.96,6.03,Financial Comp
+208,Financiera Qapaq,30/09/2022,10.53,6.55,Financial Comp
+209,Financiera Uno,31/01/2016,18.96,4.08,Financial Comp
+210,Financiera Uno,29/02/2016,18.78,4.12,Financial Comp
+211,Financiera Uno,31/03/2016,18.62,4.59,Financial Comp
+212,Financiera Uno,30/04/2016,18.47,4.73,Financial Comp
+213,Financiera Uno,31/05/2016,18.06,5.45,Financial Comp
+214,Financiera Oh!,30/06/2016,17.43,4.87,Financial Comp
+215,Financiera Oh!,31/07/2016,16.82,4.78,Financial Comp
+216,Financiera Oh!,31/08/2016,16.9,4.73,Financial Comp
+217,Financiera Oh!,30/09/2016,16.66,4.55,Financial Comp
+218,Financiera Oh!,31/10/2016,16.38,4.52,Financial Comp
+219,Financiera Oh!,30/11/2016,16.2,4.41,Financial Comp
+220,Financiera Oh!,31/12/2016,15.42,4.41,Financial Comp
+221,Financiera Oh!,31/01/2017,17.75,4.17,Financial Comp
+222,Financiera Oh!,28/02/2017,17.4,4.23,Financial Comp
+223,Financiera Oh!,31/03/2017,17.6,4.24,Financial Comp
+224,Financiera Oh!,30/04/2017,17.48,4.2,Financial Comp
+225,Financiera Oh!,31/05/2017,17.06,4.34,Financial Comp
+226,Financiera Oh!,30/06/2017,16.91,4.0,Financial Comp
+227,Financiera Oh!,31/07/2017,18.07,3.78,Financial Comp
+228,Financiera Oh!,31/08/2017,18.19,3.81,Financial Comp
+229,Financiera Oh!,30/09/2017,18.89,3.91,Financial Comp
+230,Financiera Oh!,31/10/2017,18.95,3.23,Financial Comp
+231,Financiera Oh!,30/11/2017,18.82,2.92,Financial Comp
+232,Financiera Oh!,31/12/2017,18.38,3.54,Financial Comp
+233,Financiera Oh!,31/01/2018,18.39,4.0,Financial Comp
+234,Financiera Oh!,28/02/2018,18.35,4.23,Financial Comp
+235,Financiera Oh!,31/03/2018,17.97,4.48,Financial Comp
+236,Financiera Oh!,30/04/2018,17.5,4.58,Financial Comp
+237,Financiera Oh!,31/05/2018,16.97,4.9,Financial Comp
+238,Financiera Oh!,30/06/2018,17.49,4.81,Financial Comp
+239,Financiera Oh!,31/07/2018,17.7,4.82,Financial Comp
+240,Financiera Oh!,31/08/2018,17.6,5.14,Financial Comp
+241,Financiera Oh!,30/09/2018,17.64,5.34,Financial Comp
+242,Financiera Oh!,31/10/2018,17.54,5.23,Financial Comp
+243,Financiera Oh!,30/11/2018,16.99,5.09,Financial Comp
+244,Financiera Oh!,31/12/2018,16.19,5.2,Financial Comp
+245,Financiera Oh!,31/01/2019,16.06,4.96,Financial Comp
+246,Financiera Oh!,28/02/2019,15.74,4.93,Financial Comp
+247,Financiera Oh!,31/03/2019,16.52,4.98,Financial Comp
+248,Financiera Oh!,30/04/2019,16.44,4.87,Financial Comp
+249,Financiera Oh!,31/05/2019,16.26,5.1,Financial Comp
+250,Financiera Oh!,30/06/2019,16.12,5.04,Financial Comp
+251,Financiera Oh!,31/07/2019,16.31,5.14,Financial Comp
+252,Financiera Oh!,31/08/2019,16.29,5.33,Financial Comp
+253,Financiera Oh!,30/09/2019,16.43,5.43,Financial Comp
+254,Financiera Oh!,31/10/2019,16.56,5.49,Financial Comp
+255,Financiera Oh!,30/11/2019,16.4,5.26,Financial Comp
+256,Financiera Oh!,31/12/2019,15.99,5.58,Financial Comp
+257,Financiera Oh!,31/01/2020,16.31,5.31,Financial Comp
+258,Financiera Oh!,29/02/2020,16.3,5.64,Financial Comp
+259,Financiera Oh!,31/03/2020,16.65,4.77,Financial Comp
+260,Financiera Oh!,30/04/2020,18.06,4.28,Financial Comp
+261,Financiera Oh!,31/05/2020,19.1,4.08,Financial Comp
+262,Financiera Oh!,30/06/2020,19.88,4.53,Financial Comp
+263,Financiera Oh!,31/07/2020,20.19,5.01,Financial Comp
+264,Financiera Oh!,31/08/2020,20.24,4.88,Financial Comp
+265,Financiera Oh!,30/09/2020,20.5,7.79,Financial Comp
+266,Financiera Oh!,31/10/2020,19.73,11.94,Financial Comp
+267,Financiera Oh!,30/11/2020,18.26,18.73,Financial Comp
+268,Financiera Oh!,31/12/2020,17.16,17.93,Financial Comp
+269,Financiera Oh!,31/01/2021,19.12,18.74,Financial Comp
+270,Financiera Oh!,28/02/2021,17.77,14.51,Financial Comp
+271,Financiera Oh!,31/03/2021,16.73,8.44,Financial Comp
+272,Financiera Oh!,30/04/2021,16.62,6.88,Financial Comp
+273,Financiera Oh!,31/05/2021,16.53,5.49,Financial Comp
+274,Financiera Oh!,30/06/2021,16.14,3.9,Financial Comp
+275,Financiera Oh!,31/07/2021,16.1,4.22,Financial Comp
+276,Financiera Oh!,31/08/2021,16.32,4.23,Financial Comp
+277,Financiera Oh!,30/09/2021,17.22,3.82,Financial Comp
+278,Financiera Oh!,31/10/2021,17.32,3.55,Financial Comp
+279,Financiera Oh!,30/11/2021,16.81,3.15,Financial Comp
+280,Financiera Oh!,31/12/2021,16.3,3.63,Financial Comp
+281,Financiera Oh!,31/01/2022,15.61,3.6,Financial Comp
+282,Financiera Oh!,28/02/2022,15.08,3.55,Financial Comp
+283,Financiera Oh!,31/03/2022,15.11,3.64,Financial Comp
+284,Financiera Oh!,30/04/2022,14.41,3.95,Financial Comp
+285,Financiera Oh!,31/05/2022,14.14,4.44,Financial Comp
+286,Financiera Oh!,30/06/2022,13.86,4.76,Financial Comp
+287,Financiera Oh!,31/07/2022,14.01,5.64,Financial Comp
+288,Financiera Oh!,31/08/2022,14.3,6.43,Financial Comp
+289,Financiera Oh!,30/09/2022,14.76,6.65,Financial Comp
+290,Mitsui Auto Finance,31/01/2016,17.17,7.72,Financial Comp
+291,Mitsui Auto Finance,29/02/2016,16.95,7.61,Financial Comp
+292,Mitsui Auto Finance,31/03/2016,19.92,8.09,Financial Comp
+293,Mitsui Auto Finance,30/04/2016,20.31,8.36,Financial Comp
+294,Mitsui Auto Finance,31/05/2016,19.76,8.41,Financial Comp
+295,Mitsui Auto Finance,30/06/2016,20.04,8.51,Financial Comp
+296,Mitsui Auto Finance,31/07/2016,20.11,8.93,Financial Comp
+297,Mitsui Auto Finance,31/08/2016,20.03,9.33,Financial Comp
+298,Mitsui Auto Finance,30/09/2016,19.66,9.1,Financial Comp
+299,Mitsui Auto Finance,31/10/2016,19.99,9.28,Financial Comp
+300,Mitsui Auto Finance,30/11/2016,20.09,9.58,Financial Comp
+301,Mitsui Auto Finance,31/12/2016,20.11,9.37,Financial Comp
+302,Mitsui Auto Finance,31/01/2017,20.7,9.91,Financial Comp
+303,Mitsui Auto Finance,28/02/2017,20.82,11.08,Financial Comp
+304,Mitsui Auto Finance,31/03/2017,23.53,11.91,Financial Comp
+305,Mitsui Auto Finance,30/04/2017,24.03,12.77,Financial Comp
+306,Mitsui Auto Finance,31/05/2017,24.54,13.5,Financial Comp
+307,Mitsui Auto Finance,30/06/2017,24.03,14.38,Financial Comp
+308,Mitsui Auto Finance,31/07/2017,24.3,14.47,Financial Comp
+309,Mitsui Auto Finance,31/08/2017,24.82,14.46,Financial Comp
+310,Mitsui Auto Finance,30/09/2017,24.73,14.57,Financial Comp
+311,Mitsui Auto Finance,31/10/2017,25.34,14.77,Financial Comp
+312,Mitsui Auto Finance,30/11/2017,25.51,14.86,Financial Comp
+313,Mitsui Auto Finance,31/12/2017,25.71,14.92,Financial Comp
+314,Mitsui Auto Finance,31/01/2018,25.93,14.0,Financial Comp
+315,Mitsui Auto Finance,28/02/2018,26.08,14.21,Financial Comp
+316,Mitsui Auto Finance,31/03/2018,26.99,14.27,Financial Comp
+317,Mitsui Auto Finance,30/04/2018,26.63,14.15,Financial Comp
+318,Mitsui Auto Finance,31/05/2018,25.22,13.82,Financial Comp
+319,Mitsui Auto Finance,30/06/2018,24.73,13.74,Financial Comp
+320,Mitsui Auto Finance,31/07/2018,24.88,13.05,Financial Comp
+321,Mitsui Auto Finance,31/08/2018,24.92,12.28,Financial Comp
+322,Mitsui Auto Finance,30/09/2018,24.81,12.15,Financial Comp
+323,Mitsui Auto Finance,31/10/2018,24.08,11.76,Financial Comp
+324,Mitsui Auto Finance,30/11/2018,23.41,11.38,Financial Comp
+325,Mitsui Auto Finance,31/12/2018,23.02,11.36,Financial Comp
+326,Mitsui Auto Finance,31/01/2019,22.89,11.08,Financial Comp
+327,Mitsui Auto Finance,28/02/2019,22.3,10.99,Financial Comp
+328,Mitsui Auto Finance,31/03/2019,22.77,10.72,Financial Comp
+329,Mitsui Auto Finance,30/04/2019,21.87,10.53,Financial Comp
+330,Mitsui Auto Finance,31/05/2019,21.34,9.67,Financial Comp
+331,Mitsui Auto Finance,30/06/2019,20.92,9.19,Financial Comp
+332,Mitsui Auto Finance,31/07/2019,20.85,8.25,Financial Comp
+333,Mitsui Auto Finance,31/08/2019,20.12,7.54,Financial Comp
+334,Mitsui Auto Finance,30/09/2019,19.39,7.03,Financial Comp
+335,Mitsui Auto Finance,31/10/2019,18.81,6.81,Financial Comp
+336,Mitsui Auto Finance,30/11/2019,18.08,6.47,Financial Comp
+337,Mitsui Auto Finance,31/12/2019,18.04,6.52,Financial Comp
+338,Mitsui Auto Finance,31/01/2020,17.43,6.24,Financial Comp
+339,Mitsui Auto Finance,29/02/2020,17.29,6.18,Financial Comp
+340,Mitsui Auto Finance,31/03/2020,17.85,6.45,Financial Comp
+341,Mitsui Auto Finance,30/04/2020,17.82,8.44,Financial Comp
+342,Mitsui Auto Finance,31/05/2020,17.85,8.04,Financial Comp
+343,Mitsui Auto Finance,30/06/2020,17.46,7.53,Financial Comp
+344,Mitsui Auto Finance,31/07/2020,17.56,7.49,Financial Comp
+345,Mitsui Auto Finance,31/08/2020,17.24,8.02,Financial Comp
+346,Mitsui Auto Finance,30/09/2020,17.0,9.06,Financial Comp
+347,Mitsui Auto Finance,31/10/2020,16.56,9.18,Financial Comp
+348,Mitsui Auto Finance,30/11/2020,16.3,8.76,Financial Comp
+349,Mitsui Auto Finance,31/12/2020,15.87,8.2,Financial Comp
+350,Mitsui Auto Finance,31/01/2021,16.0,8.56,Financial Comp
+351,Mitsui Auto Finance,28/02/2021,15.99,8.77,Financial Comp
+352,Mitsui Auto Finance,31/03/2021,17.83,8.66,Financial Comp
+353,Mitsui Auto Finance,30/04/2021,17.6,7.94,Financial Comp
+354,Mitsui Auto Finance,31/05/2021,17.27,8.13,Financial Comp
+355,Mitsui Auto Finance,30/06/2021,16.86,8.24,Financial Comp
+356,Mitsui Auto Finance,31/07/2021,16.26,7.55,Financial Comp
+357,Mitsui Auto Finance,31/08/2021,15.94,7.07,Financial Comp
+358,Mitsui Auto Finance,30/09/2021,15.64,6.62,Financial Comp
+359,Mitsui Auto Finance,31/10/2021,15.58,6.57,Financial Comp
+360,Mitsui Auto Finance,30/11/2021,15.38,6.22,Financial Comp
+361,Mitsui Auto Finance,31/12/2021,15.3,6.0,Financial Comp
+362,Mitsui Auto Finance,31/01/2022,15.21,5.98,Financial Comp
+363,Mitsui Auto Finance,28/02/2022,15.18,5.94,Financial Comp
+364,Mitsui Auto Finance,31/03/2022,15.24,5.51,Financial Comp
+365,Mitsui Auto Finance,30/04/2022,14.98,5.53,Financial Comp
+366,Mitsui Auto Finance,31/05/2022,14.92,5.36,Financial Comp
+367,Mitsui Auto Finance,30/06/2022,14.55,5.46,Financial Comp
+368,Mitsui Auto Finance,31/07/2022,14.23,5.38,Financial Comp
+369,Mitsui Auto Finance,31/08/2022,14.01,4.98,Financial Comp
+370,Mitsui Auto Finance,30/09/2022,13.61,4.74,Financial Comp
+371,Financiera Proempresa,31/01/2016,15.63,6.87,Financial Comp
+372,Financiera Proempresa,29/02/2016,15.67,6.77,Financial Comp
+373,Financiera Proempresa,31/03/2016,15.7,6.48,Financial Comp
+374,Financiera Proempresa,30/04/2016,15.82,6.42,Financial Comp
+375,Financiera Proempresa,31/05/2016,15.82,6.52,Financial Comp
+376,Financiera Proempresa,30/06/2016,15.75,6.5,Financial Comp
+377,Financiera Proempresa,31/07/2016,15.48,5.7,Financial Comp
+378,Financiera Proempresa,31/08/2016,15.59,5.94,Financial Comp
+379,Financiera Proempresa,30/09/2016,15.54,5.78,Financial Comp
+380,Financiera Proempresa,31/10/2016,16.02,5.78,Financial Comp
+381,Financiera Proempresa,30/11/2016,15.97,5.83,Financial Comp
+382,Financiera Proempresa,31/12/2016,15.87,5.54,Financial Comp
+383,Financiera Proempresa,31/01/2017,16.09,5.82,Financial Comp
+384,Financiera Proempresa,28/02/2017,16.01,5.93,Financial Comp
+385,Financiera Proempresa,31/03/2017,16.24,5.91,Financial Comp
+386,Financiera Proempresa,30/04/2017,16.34,6.0,Financial Comp
+387,Financiera Proempresa,31/05/2017,16.23,6.06,Financial Comp
+388,Financiera Proempresa,30/06/2017,16.7,6.21,Financial Comp
+389,Financiera Proempresa,31/07/2017,16.8,6.55,Financial Comp
+390,Financiera Proempresa,31/08/2017,16.91,6.63,Financial Comp
+391,Financiera Proempresa,30/09/2017,16.67,6.88,Financial Comp
+392,Financiera Proempresa,31/10/2017,16.89,6.71,Financial Comp
+393,Financiera Proempresa,30/11/2017,16.74,6.5,Financial Comp
+394,Financiera Proempresa,31/12/2017,17.0,6.51,Financial Comp
+395,Financiera Proempresa,31/01/2018,17.16,7.06,Financial Comp
+396,Financiera Proempresa,28/02/2018,17.26,7.35,Financial Comp
+397,Financiera Proempresa,31/03/2018,17.53,7.63,Financial Comp
+398,Financiera Proempresa,30/04/2018,17.84,7.46,Financial Comp
+399,Financiera Proempresa,31/05/2018,17.78,7.71,Financial Comp
+400,Financiera Proempresa,30/06/2018,18.06,7.42,Financial Comp
+401,Financiera Proempresa,31/07/2018,18.11,7.52,Financial Comp
+402,Financiera Proempresa,31/08/2018,17.84,7.51,Financial Comp
+403,Financiera Proempresa,30/09/2018,17.56,7.54,Financial Comp
+404,Financiera Proempresa,31/10/2018,16.91,5.77,Financial Comp
+405,Financiera Proempresa,30/11/2018,16.58,6.04,Financial Comp
+406,Financiera Proempresa,31/12/2018,16.8,5.95,Financial Comp
+407,Financiera Proempresa,31/01/2019,16.63,6.36,Financial Comp
+408,Financiera Proempresa,28/02/2019,16.41,6.43,Financial Comp
+409,Financiera Proempresa,31/03/2019,16.23,6.07,Financial Comp
+410,Financiera Proempresa,30/04/2019,16.61,5.92,Financial Comp
+411,Financiera Proempresa,31/05/2019,16.61,5.84,Financial Comp
+412,Financiera Proempresa,30/06/2019,16.27,5.99,Financial Comp
+413,Financiera Proempresa,31/07/2019,16.0,5.36,Financial Comp
+414,Financiera Proempresa,31/08/2019,16.12,5.47,Financial Comp
+415,Financiera Proempresa,30/09/2019,15.85,5.6,Financial Comp
+416,Financiera Proempresa,31/10/2019,15.56,5.29,Financial Comp
+417,Financiera Proempresa,30/11/2019,15.09,5.21,Financial Comp
+418,Financiera Proempresa,31/12/2019,15.07,4.76,Financial Comp
+419,Financiera Proempresa,31/01/2020,14.78,4.79,Financial Comp
+420,Financiera Proempresa,29/02/2020,14.74,4.88,Financial Comp
+421,Financiera Proempresa,31/03/2020,15.28,4.5,Financial Comp
+422,Financiera Proempresa,30/04/2020,15.22,4.29,Financial Comp
+423,Financiera Proempresa,31/05/2020,15.44,4.51,Financial Comp
+424,Financiera Proempresa,30/06/2020,15.48,4.35,Financial Comp
+425,Financiera Proempresa,31/07/2020,15.4,4.09,Financial Comp
+426,Financiera Proempresa,31/08/2020,15.58,3.63,Financial Comp
+427,Financiera Proempresa,30/09/2020,15.38,3.66,Financial Comp
+428,Financiera Proempresa,31/10/2020,14.9,3.51,Financial Comp
+429,Financiera Proempresa,30/11/2020,14.71,3.86,Financial Comp
+430,Financiera Proempresa,31/12/2020,14.11,5.32,Financial Comp
+431,Financiera Proempresa,31/01/2021,15.22,6.45,Financial Comp
+432,Financiera Proempresa,28/02/2021,15.59,7.81,Financial Comp
+433,Financiera Proempresa,31/03/2021,14.57,8.93,Financial Comp
+434,Financiera Proempresa,30/04/2021,14.21,9.36,Financial Comp
+435,Financiera Proempresa,31/05/2021,14.83,8.72,Financial Comp
+436,Financiera Proempresa,30/06/2021,14.94,8.46,Financial Comp
+437,Financiera Proempresa,31/07/2021,14.68,8.73,Financial Comp
+438,Financiera Proempresa,31/08/2021,14.62,8.6,Financial Comp
+439,Financiera Proempresa,30/09/2021,14.46,8.38,Financial Comp
+440,Financiera Proempresa,31/10/2021,14.24,8.64,Financial Comp
+441,Financiera Proempresa,30/11/2021,14.08,8.47,Financial Comp
+442,Financiera Proempresa,31/12/2021,13.81,7.73,Financial Comp
+443,Financiera Proempresa,31/01/2022,13.03,8.03,Financial Comp
+444,Financiera Proempresa,28/02/2022,12.86,8.12,Financial Comp
+445,Financiera Proempresa,31/03/2022,12.8,7.89,Financial Comp
+446,Financiera Proempresa,30/04/2022,12.69,7.95,Financial Comp
+447,Financiera Proempresa,31/05/2022,12.87,8.26,Financial Comp
+448,Financiera Proempresa,30/06/2022,12.55,7.75,Financial Comp
+449,Financiera Proempresa,31/07/2022,12.47,7.43,Financial Comp
+450,Financiera Proempresa,31/08/2022,12.29,7.34,Financial Comp
+451,Financiera Proempresa,30/09/2022,12.12,7.32,Financial Comp
+452,Compartamos Financiera,31/01/2016,22.67,5.38,Financial Comp
+453,Compartamos Financiera,29/02/2016,22.57,5.27,Financial Comp
+454,Compartamos Financiera,31/03/2016,22.09,5.19,Financial Comp
+455,Compartamos Financiera,30/04/2016,21.93,5.25,Financial Comp
+456,Compartamos Financiera,31/05/2016,21.28,5.25,Financial Comp
+457,Compartamos Financiera,30/06/2016,21.16,5.21,Financial Comp
+458,Compartamos Financiera,31/07/2016,20.93,5.23,Financial Comp
+459,Compartamos Financiera,31/08/2016,20.81,5.02,Financial Comp
+460,Compartamos Financiera,30/09/2016,20.45,4.85,Financial Comp
+461,Compartamos Financiera,31/10/2016,19.96,4.77,Financial Comp
+462,Compartamos Financiera,30/11/2016,19.63,4.7,Financial Comp
+463,Compartamos Financiera,31/12/2016,19.4,4.61,Financial Comp
+464,Compartamos Financiera,31/01/2017,19.62,4.63,Financial Comp
+465,Compartamos Financiera,28/02/2017,19.68,4.77,Financial Comp
+466,Compartamos Financiera,31/03/2017,19.46,4.8,Financial Comp
+467,Compartamos Financiera,30/04/2017,19.43,5.03,Financial Comp
+468,Compartamos Financiera,31/05/2017,19.06,4.96,Financial Comp
+469,Compartamos Financiera,30/06/2017,18.78,4.96,Financial Comp
+470,Compartamos Financiera,31/07/2017,18.73,4.95,Financial Comp
+471,Compartamos Financiera,31/08/2017,18.56,4.75,Financial Comp
+472,Compartamos Financiera,30/09/2017,18.37,4.56,Financial Comp
+473,Compartamos Financiera,31/10/2017,17.93,4.41,Financial Comp
+474,Compartamos Financiera,30/11/2017,17.44,4.26,Financial Comp
+475,Compartamos Financiera,31/12/2017,17.07,4.14,Financial Comp
+476,Compartamos Financiera,31/01/2018,17.38,4.11,Financial Comp
+477,Compartamos Financiera,28/02/2018,17.31,4.11,Financial Comp
+478,Compartamos Financiera,31/03/2018,17.32,4.09,Financial Comp
+479,Compartamos Financiera,30/04/2018,17.42,4.07,Financial Comp
+480,Compartamos Financiera,31/05/2018,17.45,4.07,Financial Comp
+481,Compartamos Financiera,30/06/2018,17.47,4.06,Financial Comp
+482,Compartamos Financiera,31/07/2018,17.27,4.02,Financial Comp
+483,Compartamos Financiera,31/08/2018,17.33,3.98,Financial Comp
+484,Compartamos Financiera,30/09/2018,18.17,3.97,Financial Comp
+485,Compartamos Financiera,31/10/2018,17.94,3.97,Financial Comp
+486,Compartamos Financiera,30/11/2018,17.44,3.97,Financial Comp
+487,Compartamos Financiera,31/12/2018,17.18,3.96,Financial Comp
+488,Compartamos Financiera,31/01/2019,17.23,3.96,Financial Comp
+489,Compartamos Financiera,28/02/2019,17.72,4.02,Financial Comp
+490,Compartamos Financiera,31/03/2019,17.67,4.05,Financial Comp
+491,Compartamos Financiera,30/04/2019,17.78,4.17,Financial Comp
+492,Compartamos Financiera,31/05/2019,17.77,4.19,Financial Comp
+493,Compartamos Financiera,30/06/2019,17.62,4.28,Financial Comp
+494,Compartamos Financiera,31/07/2019,18.78,4.28,Financial Comp
+495,Compartamos Financiera,31/08/2019,18.75,4.21,Financial Comp
+496,Compartamos Financiera,30/09/2019,18.76,3.84,Financial Comp
+497,Compartamos Financiera,31/10/2019,18.37,3.28,Financial Comp
+498,Compartamos Financiera,30/11/2019,18.02,3.21,Financial Comp
+499,Compartamos Financiera,31/12/2019,17.76,3.17,Financial Comp
+500,Compartamos Financiera,31/01/2020,17.68,3.31,Financial Comp
+501,Compartamos Financiera,29/02/2020,17.76,3.43,Financial Comp
+502,Compartamos Financiera,31/03/2020,18.01,3.41,Financial Comp
+503,Compartamos Financiera,30/04/2020,18.08,3.35,Financial Comp
+504,Compartamos Financiera,31/05/2020,21.78,3.4,Financial Comp
+505,Compartamos Financiera,30/06/2020,22.85,3.35,Financial Comp
+506,Compartamos Financiera,31/07/2020,22.05,3.48,Financial Comp
+507,Compartamos Financiera,31/08/2020,22.35,4.78,Financial Comp
+508,Compartamos Financiera,30/09/2020,22.79,6.38,Financial Comp
+509,Compartamos Financiera,31/10/2020,21.92,6.04,Financial Comp
+510,Compartamos Financiera,30/11/2020,20.66,6.47,Financial Comp
+511,Compartamos Financiera,31/12/2020,19.2,5.79,Financial Comp
+512,Compartamos Financiera,31/01/2021,19.39,5.11,Financial Comp
+513,Compartamos Financiera,28/02/2021,19.51,5.07,Financial Comp
+514,Compartamos Financiera,31/03/2021,19.41,5.8,Financial Comp
+515,Compartamos Financiera,30/04/2021,17.86,6.6,Financial Comp
+516,Compartamos Financiera,31/05/2021,17.99,7.76,Financial Comp
+517,Compartamos Financiera,30/06/2021,17.45,7.37,Financial Comp
+518,Compartamos Financiera,31/07/2021,17.9,7.2,Financial Comp
+519,Compartamos Financiera,31/08/2021,17.58,7.19,Financial Comp
+520,Compartamos Financiera,30/09/2021,18.1,7.11,Financial Comp
+521,Compartamos Financiera,31/10/2021,17.56,6.95,Financial Comp
+522,Compartamos Financiera,30/11/2021,17.59,6.25,Financial Comp
+523,Compartamos Financiera,31/12/2021,18.18,6.09,Financial Comp
+524,Compartamos Financiera,31/01/2022,18.56,5.97,Financial Comp
+525,Compartamos Financiera,28/02/2022,18.61,5.66,Financial Comp
+526,Compartamos Financiera,31/03/2022,18.56,5.58,Financial Comp
+527,Compartamos Financiera,30/04/2022,18.64,5.8,Financial Comp
+528,Compartamos Financiera,31/05/2022,18.75,5.93,Financial Comp
+529,Compartamos Financiera,30/06/2022,18.92,6.03,Financial Comp
+530,Compartamos Financiera,31/07/2022,19.1,6.27,Financial Comp
+531,Compartamos Financiera,31/08/2022,19.21,5.91,Financial Comp
+532,Compartamos Financiera,30/09/2022,19.12,5.69,Financial Comp
+533,Financiera Credinka,31/01/2016,16.87,7.58,Financial Comp
+534,Financiera Credinka,29/02/2016,15.87,7.61,Financial Comp
+535,Financiera Credinka,31/03/2016,14.5,7.96,Financial Comp
+536,Financiera Credinka,30/04/2016,13.56,8.01,Financial Comp
+537,Financiera Credinka,31/05/2016,12.61,8.14,Financial Comp
+538,Financiera Credinka,30/06/2016,11.28,7.87,Financial Comp
+539,Financiera Credinka,31/07/2016,11.55,7.86,Financial Comp
+540,Financiera Credinka,31/08/2016,15.53,7.7,Financial Comp
+541,Financiera Credinka,30/09/2016,15.48,7.22,Financial Comp
+542,Financiera Credinka,31/10/2016,14.84,6.61,Financial Comp
+543,Financiera Credinka,30/11/2016,14.66,6.03,Financial Comp
+544,Financiera Credinka,31/12/2016,14.54,4.98,Financial Comp
+545,Financiera Credinka,31/01/2017,14.13,5.44,Financial Comp
+546,Financiera Credinka,28/02/2017,13.86,5.55,Financial Comp
+547,Financiera Credinka,31/03/2017,12.83,5.49,Financial Comp
+548,Financiera Credinka,30/04/2017,12.46,6.04,Financial Comp
+549,Financiera Credinka,31/05/2017,12.45,6.07,Financial Comp
+550,Financiera Credinka,30/06/2017,12.35,5.91,Financial Comp
+551,Financiera Credinka,31/07/2017,13.0,4.88,Financial Comp
+552,Financiera Credinka,31/08/2017,13.49,3.96,Financial Comp
+553,Financiera Credinka,30/09/2017,13.26,3.96,Financial Comp
+554,Financiera Credinka,31/10/2017,13.25,4.17,Financial Comp
+555,Financiera Credinka,30/11/2017,12.69,3.79,Financial Comp
+556,Financiera Credinka,31/12/2017,15.3,3.73,Financial Comp
+557,Financiera Credinka,31/01/2018,15.78,4.08,Financial Comp
+558,Financiera Credinka,28/02/2018,15.53,3.4,Financial Comp
+559,Financiera Credinka,31/03/2018,15.29,3.63,Financial Comp
+560,Financiera Credinka,30/04/2018,15.18,3.84,Financial Comp
+561,Financiera Credinka,31/05/2018,15.12,3.77,Financial Comp
+562,Financiera Credinka,30/06/2018,15.12,4.01,Financial Comp
+563,Financiera Credinka,31/07/2018,15.15,3.74,Financial Comp
+564,Financiera Credinka,31/08/2018,15.09,3.79,Financial Comp
+565,Financiera Credinka,30/09/2018,15.38,3.92,Financial Comp
+566,Financiera Credinka,31/10/2018,14.92,4.42,Financial Comp
+567,Financiera Credinka,30/11/2018,14.59,4.27,Financial Comp
+568,Financiera Credinka,31/12/2018,14.62,4.14,Financial Comp
+569,Financiera Credinka,31/01/2019,14.41,4.01,Financial Comp
+570,Financiera Credinka,28/02/2019,14.33,4.23,Financial Comp
+571,Financiera Credinka,31/03/2019,14.04,4.25,Financial Comp
+572,Financiera Credinka,30/04/2019,14.01,4.53,Financial Comp
+573,Financiera Credinka,31/05/2019,13.97,4.72,Financial Comp
+574,Financiera Credinka,30/06/2019,14.62,4.39,Financial Comp
+575,Financiera Credinka,31/07/2019,14.65,4.61,Financial Comp
+576,Financiera Credinka,31/08/2019,14.34,4.6,Financial Comp
+577,Financiera Credinka,30/09/2019,14.36,4.47,Financial Comp
+578,Financiera Credinka,31/10/2019,13.96,4.61,Financial Comp
+579,Financiera Credinka,30/11/2019,13.56,4.64,Financial Comp
+580,Financiera Credinka,31/12/2019,13.85,4.7,Financial Comp
+581,Financiera Credinka,31/01/2020,13.56,4.85,Financial Comp
+582,Financiera Credinka,29/02/2020,13.55,4.99,Financial Comp
+583,Financiera Credinka,31/03/2020,13.72,4.71,Financial Comp
+584,Financiera Credinka,30/04/2020,13.84,4.53,Financial Comp
+585,Financiera Credinka,31/05/2020,14.12,4.27,Financial Comp
+586,Financiera Credinka,30/06/2020,14.09,4.02,Financial Comp
+587,Financiera Credinka,31/07/2020,14.24,3.85,Financial Comp
+588,Financiera Credinka,31/08/2020,14.28,3.9,Financial Comp
+589,Financiera Credinka,30/09/2020,14.45,4.26,Financial Comp
+590,Financiera Credinka,31/10/2020,13.96,4.01,Financial Comp
+591,Financiera Credinka,30/11/2020,13.75,3.96,Financial Comp
+592,Financiera Credinka,31/12/2020,13.67,3.94,Financial Comp
+593,Financiera Credinka,31/01/2021,15.32,5.12,Financial Comp
+594,Financiera Credinka,28/02/2021,14.81,6.13,Financial Comp
+595,Financiera Credinka,31/03/2021,14.37,7.28,Financial Comp
+596,Financiera Credinka,30/04/2021,13.57,7.64,Financial Comp
+597,Financiera Credinka,31/05/2021,13.57,7.85,Financial Comp
+598,Financiera Credinka,30/06/2021,12.98,8.27,Financial Comp
+599,Financiera Credinka,31/07/2021,11.78,8.87,Financial Comp
+600,Financiera Credinka,31/08/2021,11.4,9.24,Financial Comp
+601,Financiera Credinka,30/09/2021,10.99,9.29,Financial Comp
+602,Financiera Credinka,31/10/2021,10.89,9.32,Financial Comp
+603,Financiera Credinka,30/11/2021,10.48,9.06,Financial Comp
+604,Financiera Credinka,31/12/2021,10.25,8.45,Financial Comp
+605,Financiera Credinka,31/01/2022,9.25,9.14,Financial Comp
+606,Financiera Credinka,28/02/2022,9.15,9.99,Financial Comp
+607,Financiera Credinka,31/03/2022,9.5,10.09,Financial Comp
+608,Financiera Credinka,30/04/2022,9.46,9.73,Financial Comp
+609,Financiera Credinka,31/05/2022,9.27,10.17,Financial Comp
+610,Financiera Credinka,30/06/2022,10.9,10.26,Financial Comp
+611,Financiera Credinka,31/07/2022,11.05,10.65,Financial Comp
+612,Financiera Credinka,31/08/2022,10.85,10.51,Financial Comp
+613,Financiera Credinka,30/09/2022,10.6,10.65,Financial Comp
+614,Financiera Confianza,31/01/2016,14.77,2.43,Financial Comp
+615,Financiera Confianza,29/02/2016,14.72,2.45,Financial Comp
+616,Financiera Confianza,31/03/2016,14.85,2.46,Financial Comp
+617,Financiera Confianza,30/04/2016,15.26,2.54,Financial Comp
+618,Financiera Confianza,31/05/2016,15.61,2.62,Financial Comp
+619,Financiera Confianza,30/06/2016,15.73,2.72,Financial Comp
+620,Financiera Confianza,31/07/2016,16.06,2.82,Financial Comp
+621,Financiera Confianza,31/08/2016,16.3,2.85,Financial Comp
+622,Financiera Confianza,30/09/2016,16.0,2.82,Financial Comp
+623,Financiera Confianza,31/10/2016,15.89,2.85,Financial Comp
+624,Financiera Confianza,30/11/2016,15.88,2.89,Financial Comp
+625,Financiera Confianza,31/12/2016,16.31,2.85,Financial Comp
+626,Financiera Confianza,31/01/2017,16.44,3.21,Financial Comp
+627,Financiera Confianza,28/02/2017,16.55,3.37,Financial Comp
+628,Financiera Confianza,31/03/2017,16.47,3.38,Financial Comp
+629,Financiera Confianza,30/04/2017,16.57,3.35,Financial Comp
+630,Financiera Confianza,31/05/2017,16.98,3.19,Financial Comp
+631,Financiera Confianza,30/06/2017,16.93,3.05,Financial Comp
+632,Financiera Confianza,31/07/2017,17.07,2.96,Financial Comp
+633,Financiera Confianza,31/08/2017,17.3,2.95,Financial Comp
+634,Financiera Confianza,30/09/2017,16.94,3.0,Financial Comp
+635,Financiera Confianza,31/10/2017,16.91,3.0,Financial Comp
+636,Financiera Confianza,30/11/2017,16.55,2.92,Financial Comp
+637,Financiera Confianza,31/12/2017,16.22,2.88,Financial Comp
+638,Financiera Confianza,31/01/2018,16.42,3.15,Financial Comp
+639,Financiera Confianza,28/02/2018,16.36,3.2,Financial Comp
+640,Financiera Confianza,31/03/2018,16.3,3.19,Financial Comp
+641,Financiera Confianza,30/04/2018,16.64,3.2,Financial Comp
+642,Financiera Confianza,31/05/2018,16.57,3.13,Financial Comp
+643,Financiera Confianza,30/06/2018,16.6,3.15,Financial Comp
+644,Financiera Confianza,31/07/2018,16.69,3.11,Financial Comp
+645,Financiera Confianza,31/08/2018,16.65,3.09,Financial Comp
+646,Financiera Confianza,30/09/2018,16.31,3.06,Financial Comp
+647,Financiera Confianza,31/10/2018,16.22,2.98,Financial Comp
+648,Financiera Confianza,30/11/2018,15.93,3.09,Financial Comp
+649,Financiera Confianza,31/12/2018,15.74,2.9,Financial Comp
+650,Financiera Confianza,31/01/2019,15.61,3.09,Financial Comp
+651,Financiera Confianza,28/02/2019,15.51,3.08,Financial Comp
+652,Financiera Confianza,31/03/2019,15.44,2.96,Financial Comp
+653,Financiera Confianza,30/04/2019,16.07,2.9,Financial Comp
+654,Financiera Confianza,31/05/2019,15.95,2.92,Financial Comp
+655,Financiera Confianza,30/06/2019,15.82,2.95,Financial Comp
+656,Financiera Confianza,31/07/2019,15.76,2.96,Financial Comp
+657,Financiera Confianza,31/08/2019,15.75,3.01,Financial Comp
+658,Financiera Confianza,30/09/2019,15.68,3.04,Financial Comp
+659,Financiera Confianza,31/10/2019,15.52,3.07,Financial Comp
+660,Financiera Confianza,30/11/2019,15.15,2.97,Financial Comp
+661,Financiera Confianza,31/12/2019,14.88,2.94,Financial Comp
+662,Financiera Confianza,31/01/2020,14.78,3.17,Financial Comp
+663,Financiera Confianza,29/02/2020,14.66,3.23,Financial Comp
+664,Financiera Confianza,31/03/2020,14.87,2.98,Financial Comp
+665,Financiera Confianza,30/04/2020,16.72,3.14,Financial Comp
+666,Financiera Confianza,31/05/2020,16.94,2.99,Financial Comp
+667,Financiera Confianza,30/06/2020,17.0,2.94,Financial Comp
+668,Financiera Confianza,31/07/2020,17.33,2.81,Financial Comp
+669,Financiera Confianza,31/08/2020,17.02,2.64,Financial Comp
+670,Financiera Confianza,30/09/2020,16.64,3.42,Financial Comp
+671,Financiera Confianza,31/10/2020,16.49,4.03,Financial Comp
+672,Financiera Confianza,30/11/2020,16.17,4.82,Financial Comp
+673,Financiera Confianza,31/12/2020,15.91,5.07,Financial Comp
+674,Financiera Confianza,31/01/2021,17.7,5.25,Financial Comp
+675,Financiera Confianza,28/02/2021,17.69,5.8,Financial Comp
+676,Financiera Confianza,31/03/2021,17.93,5.49,Financial Comp
+677,Financiera Confianza,30/04/2021,18.36,5.24,Financial Comp
+678,Financiera Confianza,31/05/2021,18.38,5.11,Financial Comp
+679,Financiera Confianza,30/06/2021,18.42,4.89,Financial Comp
+680,Financiera Confianza,31/07/2021,18.44,4.73,Financial Comp
+681,Financiera Confianza,31/08/2021,18.46,4.75,Financial Comp
+682,Financiera Confianza,30/09/2021,18.34,4.75,Financial Comp
+683,Financiera Confianza,31/10/2021,18.12,4.79,Financial Comp
+684,Financiera Confianza,30/11/2021,17.75,3.98,Financial Comp
+685,Financiera Confianza,31/12/2021,17.4,4.31,Financial Comp
+686,Financiera Confianza,31/01/2022,17.25,4.61,Financial Comp
+687,Financiera Confianza,28/02/2022,17.18,4.79,Financial Comp
+688,Financiera Confianza,31/03/2022,16.89,4.88,Financial Comp
+689,Financiera Confianza,30/04/2022,16.58,5.07,Financial Comp
+690,Financiera Confianza,31/05/2022,17.05,5.6,Financial Comp
+691,Financiera Confianza,30/06/2022,16.96,5.23,Financial Comp
+692,Financiera Confianza,31/07/2022,16.89,5.78,Financial Comp
+693,Financiera Confianza,31/08/2022,17.12,5.94,Financial Comp
+694,Financiera Confianza,30/09/2022,16.92,4.89,Financial Comp
+695,Financiera Efectiva,31/01/2016,28.93,5.09,Financial Comp
+696,Financiera Efectiva,29/02/2016,28.3,5.43,Financial Comp
+697,Financiera Efectiva,31/03/2016,28.57,5.61,Financial Comp
+698,Financiera Efectiva,30/04/2016,29.64,6.04,Financial Comp
+699,Financiera Efectiva,31/05/2016,29.21,5.76,Financial Comp
+700,Financiera Efectiva,30/06/2016,28.37,5.7,Financial Comp
+701,Financiera Efectiva,31/07/2016,26.42,5.53,Financial Comp
+702,Financiera Efectiva,31/08/2016,28.63,5.51,Financial Comp
+703,Financiera Efectiva,30/09/2016,28.43,5.46,Financial Comp
+704,Financiera Efectiva,31/10/2016,28.84,5.42,Financial Comp
+705,Financiera Efectiva,30/11/2016,28.61,5.42,Financial Comp
+706,Financiera Efectiva,31/12/2016,26.93,4.93,Financial Comp
+707,Financiera Efectiva,31/01/2017,27.3,5.04,Financial Comp
+708,Financiera Efectiva,28/02/2017,26.9,5.45,Financial Comp
+709,Financiera Efectiva,31/03/2017,25.49,5.64,Financial Comp
+710,Financiera Efectiva,30/04/2017,26.61,5.9,Financial Comp
+711,Financiera Efectiva,31/05/2017,25.61,5.2,Financial Comp
+712,Financiera Efectiva,30/06/2017,25.24,5.32,Financial Comp
+713,Financiera Efectiva,31/07/2017,24.03,4.74,Financial Comp
+714,Financiera Efectiva,31/08/2017,23.38,4.67,Financial Comp
+715,Financiera Efectiva,30/09/2017,22.62,4.66,Financial Comp
+716,Financiera Efectiva,31/10/2017,20.18,4.25,Financial Comp
+717,Financiera Efectiva,30/11/2017,19.98,4.28,Financial Comp
+718,Financiera Efectiva,31/12/2017,19.43,3.66,Financial Comp
+719,Financiera Efectiva,31/01/2018,19.29,3.45,Financial Comp
+720,Financiera Efectiva,28/02/2018,19.12,4.03,Financial Comp
+721,Financiera Efectiva,31/03/2018,21.57,3.97,Financial Comp
+722,Financiera Efectiva,30/04/2018,21.21,4.11,Financial Comp
+723,Financiera Efectiva,31/05/2018,20.46,3.79,Financial Comp
+724,Financiera Efectiva,30/06/2018,19.64,3.77,Financial Comp
+725,Financiera Efectiva,31/07/2018,19.16,3.43,Financial Comp
+726,Financiera Efectiva,31/08/2018,20.43,3.48,Financial Comp
+727,Financiera Efectiva,30/09/2018,20.34,3.58,Financial Comp
+728,Financiera Efectiva,31/10/2018,19.49,3.6,Financial Comp
+729,Financiera Efectiva,30/11/2018,19.12,3.72,Financial Comp
+730,Financiera Efectiva,31/12/2018,18.63,3.51,Financial Comp
+731,Financiera Efectiva,31/01/2019,18.15,3.68,Financial Comp
+732,Financiera Efectiva,28/02/2019,17.89,3.91,Financial Comp
+733,Financiera Efectiva,31/03/2019,20.98,4.04,Financial Comp
+734,Financiera Efectiva,30/04/2019,20.86,4.28,Financial Comp
+735,Financiera Efectiva,31/05/2019,19.85,4.05,Financial Comp
+736,Financiera Efectiva,30/06/2019,19.51,4.16,Financial Comp
+737,Financiera Efectiva,31/07/2019,19.23,3.97,Financial Comp
+738,Financiera Efectiva,31/08/2019,18.52,3.92,Financial Comp
+739,Financiera Efectiva,30/09/2019,18.12,3.82,Financial Comp
+740,Financiera Efectiva,31/10/2019,17.71,3.78,Financial Comp
+741,Financiera Efectiva,30/11/2019,17.33,3.76,Financial Comp
+742,Financiera Efectiva,31/12/2019,16.28,3.59,Financial Comp
+743,Financiera Efectiva,31/01/2020,16.39,3.59,Financial Comp
+744,Financiera Efectiva,29/02/2020,16.01,3.59,Financial Comp
+745,Financiera Efectiva,31/03/2020,20.68,3.29,Financial Comp
+746,Financiera Efectiva,30/04/2020,21.34,3.25,Financial Comp
+747,Financiera Efectiva,31/05/2020,21.09,3.19,Financial Comp
+748,Financiera Efectiva,30/06/2020,21.14,3.2,Financial Comp
+749,Financiera Efectiva,31/07/2020,21.33,3.39,Financial Comp
+750,Financiera Efectiva,31/08/2020,21.23,3.65,Financial Comp
+751,Financiera Efectiva,30/09/2020,21.0,5.91,Financial Comp
+752,Financiera Efectiva,31/10/2020,20.07,5.42,Financial Comp
+753,Financiera Efectiva,30/11/2020,20.14,6.33,Financial Comp
+754,Financiera Efectiva,31/12/2020,20.15,4.71,Financial Comp
+755,Financiera Efectiva,31/01/2021,17.68,4.18,Financial Comp
+756,Financiera Efectiva,28/02/2021,17.61,3.61,Financial Comp
+757,Financiera Efectiva,31/03/2021,17.71,2.97,Financial Comp
+758,Financiera Efectiva,30/04/2021,17.51,4.07,Financial Comp
+759,Financiera Efectiva,31/05/2021,17.43,7.67,Financial Comp
+760,Financiera Efectiva,30/06/2021,17.24,4.51,Financial Comp
+761,Financiera Efectiva,31/07/2021,17.06,5.09,Financial Comp
+762,Financiera Efectiva,31/08/2021,16.98,5.46,Financial Comp
+763,Financiera Efectiva,30/09/2021,16.75,4.94,Financial Comp
+764,Financiera Efectiva,31/10/2021,15.94,4.48,Financial Comp
+765,Financiera Efectiva,30/11/2021,15.77,3.63,Financial Comp
+766,Financiera Efectiva,31/12/2021,18.36,3.39,Financial Comp
+767,Financiera Efectiva,31/01/2022,17.82,3.54,Financial Comp
+768,Financiera Efectiva,28/02/2022,17.67,3.41,Financial Comp
+769,Financiera Efectiva,31/03/2022,17.6,3.19,Financial Comp
+770,Financiera Efectiva,30/04/2022,17.44,3.3,Financial Comp
+771,Financiera Efectiva,31/05/2022,17.28,3.33,Financial Comp
+772,Financiera Efectiva,30/06/2022,17.02,3.49,Financial Comp
+773,Financiera Efectiva,31/07/2022,16.85,3.3,Financial Comp
+774,Financiera Efectiva,31/08/2022,16.68,3.17,Financial Comp
+775,Financiera Efectiva,30/09/2022,16.47,3.13,Financial Comp
+0,CMAC Sullana,31/01/2016,12.74,4.87,CMAC
+1,CMAC Sullana,29/02/2016,12.68,4.97,CMAC
+2,CMAC Sullana,31/03/2016,12.65,4.87,CMAC
+3,CMAC Sullana,30/04/2016,12.4,5.11,CMAC
+4,CMAC Sullana,31/05/2016,13.44,5.17,CMAC
+5,CMAC Sullana,30/06/2016,13.43,5.17,CMAC
+6,CMAC Sullana,31/07/2016,13.98,5.36,CMAC
+7,CMAC Sullana,31/08/2016,14.72,5.25,CMAC
+8,CMAC Sullana,30/09/2016,13.67,5.23,CMAC
+9,CMAC Sullana,31/10/2016,13.51,4.95,CMAC
+10,CMAC Sullana,30/11/2016,13.99,4.8,CMAC
+11,CMAC Sullana,31/12/2016,13.6,4.6,CMAC
+12,CMAC Sullana,31/01/2017,13.59,4.73,CMAC
+13,CMAC Sullana,28/02/2017,13.41,5.24,CMAC
+14,CMAC Sullana,31/03/2017,13.38,4.83,CMAC
+15,CMAC Sullana,30/04/2017,13.26,4.85,CMAC
+16,CMAC Sullana,31/05/2017,13.11,4.67,CMAC
+17,CMAC Sullana,30/06/2017,13.16,5.14,CMAC
+18,CMAC Sullana,31/07/2017,13.01,4.97,CMAC
+19,CMAC Sullana,31/08/2017,13.11,4.82,CMAC
+20,CMAC Sullana,30/09/2017,13.19,5.17,CMAC
+21,CMAC Sullana,31/10/2017,13.19,5.47,CMAC
+22,CMAC Sullana,30/11/2017,13.2,5.95,CMAC
+23,CMAC Sullana,31/12/2017,12.86,6.52,CMAC
+24,CMAC Sullana,31/01/2018,13.17,7.83,CMAC
+25,CMAC Sullana,28/02/2018,13.4,9.04,CMAC
+26,CMAC Sullana,31/03/2018,12.73,10.74,CMAC
+27,CMAC Sullana,30/04/2018,13.39,11.47,CMAC
+28,CMAC Sullana,31/05/2018,13.33,10.88,CMAC
+29,CMAC Sullana,30/06/2018,13.25,11.94,CMAC
+30,CMAC Sullana,31/07/2018,13.14,13.53,CMAC
+31,CMAC Sullana,31/08/2018,13.08,14.69,CMAC
+32,CMAC Sullana,30/09/2018,13.23,15.78,CMAC
+33,CMAC Sullana,31/10/2018,13.3,16.37,CMAC
+34,CMAC Sullana,30/11/2018,13.6,14.83,CMAC
+35,CMAC Sullana,31/12/2018,13.55,15.35,CMAC
+36,CMAC Sullana,31/01/2019,13.36,16.63,CMAC
+37,CMAC Sullana,28/02/2019,13.78,18.21,CMAC
+38,CMAC Sullana,31/03/2019,13.95,18.57,CMAC
+39,CMAC Sullana,30/04/2019,13.74,18.44,CMAC
+40,CMAC Sullana,31/05/2019,13.5,17.53,CMAC
+41,CMAC Sullana,30/06/2019,13.53,16.65,CMAC
+42,CMAC Sullana,31/07/2019,13.5,16.97,CMAC
+43,CMAC Sullana,31/08/2019,13.49,17.07,CMAC
+44,CMAC Sullana,30/09/2019,13.48,17.34,CMAC
+45,CMAC Sullana,31/10/2019,13.55,17.51,CMAC
+46,CMAC Sullana,30/11/2019,13.73,17.25,CMAC
+47,CMAC Sullana,31/12/2019,14.0,17.43,CMAC
+48,CMAC Sullana,31/01/2020,13.92,19.09,CMAC
+49,CMAC Sullana,29/02/2020,14.03,19.29,CMAC
+50,CMAC Sullana,31/03/2020,14.41,18.08,CMAC
+51,CMAC Sullana,30/04/2020,14.17,18.77,CMAC
+52,CMAC Sullana,31/05/2020,14.23,18.44,CMAC
+53,CMAC Sullana,30/06/2020,13.93,17.91,CMAC
+54,CMAC Sullana,31/07/2020,13.58,15.85,CMAC
+55,CMAC Sullana,31/08/2020,13.28,15.03,CMAC
+56,CMAC Sullana,30/09/2020,12.79,13.01,CMAC
+57,CMAC Sullana,31/10/2020,12.36,12.45,CMAC
+58,CMAC Sullana,30/11/2020,12.0,11.7,CMAC
+59,CMAC Sullana,31/12/2020,11.98,11.08,CMAC
+60,CMAC Sullana,31/01/2021,11.61,11.73,CMAC
+61,CMAC Sullana,28/02/2021,11.27,12.04,CMAC
+62,CMAC Sullana,31/03/2021,10.61,12.18,CMAC
+63,CMAC Sullana,30/04/2021,9.95,12.83,CMAC
+64,CMAC Sullana,31/05/2021,9.65,13.03,CMAC
+65,CMAC Sullana,30/06/2021,9.22,13.2,CMAC
+66,CMAC Sullana,31/07/2021,8.43,13.53,CMAC
+67,CMAC Sullana,31/08/2021,9.0,13.87,CMAC
+68,CMAC Sullana,30/09/2021,8.93,13.98,CMAC
+69,CMAC Sullana,31/10/2021,8.62,14.22,CMAC
+70,CMAC Sullana,30/11/2021,8.57,14.27,CMAC
+71,CMAC Sullana,31/12/2021,8.54,12.22,CMAC
+72,CMAC Sullana,31/01/2022,8.61,13.21,CMAC
+73,CMAC Sullana,28/02/2022,8.68,13.83,CMAC
+74,CMAC Sullana,31/03/2022,8.78,14.31,CMAC
+75,CMAC Sullana,30/04/2022,16.42,14.92,CMAC
+76,CMAC Sullana,31/05/2022,16.34,12.51,CMAC
+77,CMAC Sullana,30/06/2022,16.24,13.21,CMAC
+78,CMAC Sullana,31/07/2022,16.05,14.16,CMAC
+79,CMAC Sullana,31/08/2022,15.79,14.76,CMAC
+80,CMAC Sullana,30/09/2022,15.4,15.47,CMAC
+81,CMCP Lima,31/01/2016,11.59,12.12,CMAC
+82,CMCP Lima,29/02/2016,11.45,12.47,CMAC
+83,CMCP Lima,31/03/2016,11.56,13.96,CMAC
+84,CMCP Lima,30/04/2016,11.48,13.51,CMAC
+85,CMCP Lima,31/05/2016,11.37,12.69,CMAC
+86,CMCP Lima,30/06/2016,13.81,13.73,CMAC
+87,CMCP Lima,31/07/2016,14.25,13.81,CMAC
+88,CMCP Lima,31/08/2016,14.29,13.48,CMAC
+89,CMCP Lima,30/09/2016,14.4,13.33,CMAC
+90,CMCP Lima,31/10/2016,14.15,13.47,CMAC
+91,CMCP Lima,30/11/2016,13.28,13.44,CMAC
+92,CMCP Lima,31/12/2016,14.17,14.92,CMAC
+93,CMCP Lima,31/01/2017,14.15,15.94,CMAC
+94,CMCP Lima,28/02/2017,14.08,15.07,CMAC
+95,CMCP Lima,31/03/2017,14.28,16.47,CMAC
+96,CMCP Lima,30/04/2017,14.67,15.72,CMAC
+97,CMCP Lima,31/05/2017,16.03,15.46,CMAC
+98,CMCP Lima,30/06/2017,16.38,13.92,CMAC
+99,CMCP Lima,31/07/2017,16.29,14.35,CMAC
+100,CMCP Lima,31/08/2017,16.26,15.23,CMAC
+101,CMCP Lima,30/09/2017,16.72,16.96,CMAC
+102,CMCP Lima,31/10/2017,16.71,14.76,CMAC
+103,CMCP Lima,30/11/2017,15.68,10.96,CMAC
+104,CMCP Lima,31/12/2017,15.26,9.05,CMAC
+105,CMCP Lima,31/01/2018,15.01,8.26,CMAC
+106,CMCP Lima,28/02/2018,14.86,9.39,CMAC
+107,CMCP Lima,31/03/2018,14.76,12.25,CMAC
+108,CMCP Lima,30/04/2018,14.0,12.33,CMAC
+109,CMCP Lima,31/05/2018,13.81,12.85,CMAC
+110,CMCP Lima,30/06/2018,13.25,14.51,CMAC
+111,CMCP Lima,31/07/2018,13.98,14.87,CMAC
+112,CMCP Lima,31/08/2018,13.6,17.75,CMAC
+113,CMCP Lima,30/09/2018,13.35,16.49,CMAC
+114,CMCP Lima,31/10/2018,13.66,15.4,CMAC
+115,CMCP Lima,30/11/2018,13.1,15.93,CMAC
+116,CMCP Lima,31/12/2018,12.47,16.58,CMAC
+117,CMCP Lima,31/01/2019,13.7,19.65,CMAC
+118,CMCP Lima,28/02/2019,13.88,19.21,CMAC
+119,CMCP Lima,31/03/2019,13.84,18.7,CMAC
+120,CMCP Lima,30/04/2019,13.49,19.66,CMAC
+121,CMCP Lima,31/05/2019,13.72,21.82,CMAC
+122,CMCP Lima,30/06/2019,13.68,22.14,CMAC
+123,CMCP Lima,31/07/2019,13.49,22.12,CMAC
+124,CMCP Lima,31/08/2019,13.61,22.41,CMAC
+125,CMCP Lima,30/09/2019,13.84,20.46,CMAC
+126,CMCP Lima,31/10/2019,13.54,20.34,CMAC
+127,CMCP Lima,30/11/2019,13.58,20.66,CMAC
+128,CMCP Lima,31/12/2019,16.85,21.25,CMAC
+129,CMCP Lima,31/01/2020,16.0,21.51,CMAC
+130,CMCP Lima,29/02/2020,16.79,20.81,CMAC
+131,CMCP Lima,31/03/2020,16.8,21.36,CMAC
+132,CMCP Lima,30/04/2020,17.38,20.84,CMAC
+133,CMCP Lima,31/05/2020,17.99,21.04,CMAC
+134,CMCP Lima,30/06/2020,18.88,19.98,CMAC
+135,CMCP Lima,31/07/2020,19.17,19.66,CMAC
+136,CMCP Lima,31/08/2020,19.39,19.0,CMAC
+137,CMCP Lima,30/09/2020,19.28,17.74,CMAC
+138,CMCP Lima,31/10/2020,18.92,17.64,CMAC
+139,CMCP Lima,30/11/2020,20.62,16.43,CMAC
+140,CMCP Lima,31/12/2020,20.4,13.93,CMAC
+141,CMCP Lima,31/01/2021,19.46,14.34,CMAC
+142,CMCP Lima,28/02/2021,16.77,15.05,CMAC
+143,CMCP Lima,31/03/2021,18.06,15.57,CMAC
+144,CMCP Lima,30/04/2021,18.35,15.44,CMAC
+145,CMCP Lima,31/05/2021,17.69,15.41,CMAC
+146,CMCP Lima,30/06/2021,16.92,10.95,CMAC
+147,CMCP Lima,31/07/2021,15.43,12.51,CMAC
+148,CMCP Lima,31/08/2021,15.16,12.98,CMAC
+149,CMCP Lima,30/09/2021,14.51,11.93,CMAC
+150,CMCP Lima,31/10/2021,13.83,11.91,CMAC
+151,CMCP Lima,30/11/2021,13.14,10.77,CMAC
+152,CMCP Lima,31/12/2021,12.19,9.39,CMAC
+153,CMCP Lima,31/01/2022,11.33,9.29,CMAC
+154,CMCP Lima,28/02/2022,10.97,7.98,CMAC
+155,CMCP Lima,31/03/2022,10.25,6.85,CMAC
+156,CMCP Lima,30/04/2022,10.05,6.71,CMAC
+157,CMCP Lima,31/05/2022,10.47,6.65,CMAC
+158,CMCP Lima,30/06/2022,10.3,6.93,CMAC
+159,CMCP Lima,31/07/2022,10.22,7.08,CMAC
+160,CMCP Lima,31/08/2022,10.11,7.91,CMAC
+161,CMCP Lima,30/09/2022,9.91,9.4,CMAC
+162,CMAC Piura,31/01/2016,15.33,7.71,CMAC
+163,CMAC Piura,29/02/2016,15.24,7.3,CMAC
+164,CMAC Piura,31/03/2016,15.3,7.84,CMAC
+165,CMAC Piura,30/04/2016,15.24,7.72,CMAC
+166,CMAC Piura,31/05/2016,15.03,9.05,CMAC
+167,CMAC Piura,30/06/2016,15.09,7.14,CMAC
+168,CMAC Piura,31/07/2016,16.35,7.35,CMAC
+169,CMAC Piura,31/08/2016,16.35,7.28,CMAC
+170,CMAC Piura,30/09/2016,16.09,7.03,CMAC
+171,CMAC Piura,31/10/2016,15.73,6.96,CMAC
+172,CMAC Piura,30/11/2016,15.32,6.94,CMAC
+173,CMAC Piura,31/12/2016,15.05,6.67,CMAC
+174,CMAC Piura,31/01/2017,15.16,6.87,CMAC
+175,CMAC Piura,28/02/2017,14.92,7.47,CMAC
+176,CMAC Piura,31/03/2017,14.74,6.51,CMAC
+177,CMAC Piura,30/04/2017,14.39,6.78,CMAC
+178,CMAC Piura,31/05/2017,14.29,6.48,CMAC
+179,CMAC Piura,30/06/2017,14.17,6.41,CMAC
+180,CMAC Piura,31/07/2017,14.09,6.48,CMAC
+181,CMAC Piura,31/08/2017,14.15,6.39,CMAC
+182,CMAC Piura,30/09/2017,14.09,6.65,CMAC
+183,CMAC Piura,31/10/2017,14.12,6.92,CMAC
+184,CMAC Piura,30/11/2017,13.93,6.86,CMAC
+185,CMAC Piura,31/12/2017,13.69,6.71,CMAC
+186,CMAC Piura,31/01/2018,13.82,6.82,CMAC
+187,CMAC Piura,28/02/2018,13.81,7.03,CMAC
+188,CMAC Piura,31/03/2018,13.81,7.18,CMAC
+189,CMAC Piura,30/04/2018,14.02,7.0,CMAC
+190,CMAC Piura,31/05/2018,14.1,6.96,CMAC
+191,CMAC Piura,30/06/2018,14.12,7.17,CMAC
+192,CMAC Piura,31/07/2018,13.91,6.37,CMAC
+193,CMAC Piura,31/08/2018,13.91,6.5,CMAC
+194,CMAC Piura,30/09/2018,14.05,6.6,CMAC
+195,CMAC Piura,31/10/2018,14.7,6.79,CMAC
+196,CMAC Piura,30/11/2018,14.54,6.8,CMAC
+197,CMAC Piura,31/12/2018,14.93,6.91,CMAC
+198,CMAC Piura,31/01/2019,14.65,7.14,CMAC
+199,CMAC Piura,28/02/2019,14.34,7.34,CMAC
+200,CMAC Piura,31/03/2019,14.63,7.2,CMAC
+201,CMAC Piura,30/04/2019,14.34,7.42,CMAC
+202,CMAC Piura,31/05/2019,14.34,7.61,CMAC
+203,CMAC Piura,30/06/2019,14.63,6.81,CMAC
+204,CMAC Piura,31/07/2019,14.37,7.19,CMAC
+205,CMAC Piura,31/08/2019,14.28,7.69,CMAC
+206,CMAC Piura,30/09/2019,15.8,7.95,CMAC
+207,CMAC Piura,31/10/2019,15.4,7.91,CMAC
+208,CMAC Piura,30/11/2019,15.21,7.91,CMAC
+209,CMAC Piura,31/12/2019,15.85,8.47,CMAC
+210,CMAC Piura,31/01/2020,16.04,8.51,CMAC
+211,CMAC Piura,29/02/2020,16.08,8.57,CMAC
+212,CMAC Piura,31/03/2020,16.44,8.4,CMAC
+213,CMAC Piura,30/04/2020,16.6,8.44,CMAC
+214,CMAC Piura,31/05/2020,15.79,8.47,CMAC
+215,CMAC Piura,30/06/2020,16.99,8.26,CMAC
+216,CMAC Piura,31/07/2020,17.06,7.83,CMAC
+217,CMAC Piura,31/08/2020,17.61,7.52,CMAC
+218,CMAC Piura,30/09/2020,17.76,7.55,CMAC
+219,CMAC Piura,31/10/2020,17.22,7.37,CMAC
+220,CMAC Piura,30/11/2020,17.04,7.14,CMAC
+221,CMAC Piura,31/12/2020,17.18,7.02,CMAC
+222,CMAC Piura,31/01/2021,17.12,7.2,CMAC
+223,CMAC Piura,28/02/2021,17.65,7.75,CMAC
+224,CMAC Piura,31/03/2021,17.2,8.46,CMAC
+225,CMAC Piura,30/04/2021,17.51,8.89,CMAC
+226,CMAC Piura,31/05/2021,16.97,8.74,CMAC
+227,CMAC Piura,30/06/2021,16.04,7.87,CMAC
+228,CMAC Piura,31/07/2021,16.61,7.89,CMAC
+229,CMAC Piura,31/08/2021,16.38,7.49,CMAC
+230,CMAC Piura,30/09/2021,15.96,6.82,CMAC
+231,CMAC Piura,31/10/2021,15.42,6.6,CMAC
+232,CMAC Piura,30/11/2021,15.15,6.5,CMAC
+233,CMAC Piura,31/12/2021,15.0,6.44,CMAC
+234,CMAC Piura,31/01/2022,15.02,6.79,CMAC
+235,CMAC Piura,28/02/2022,14.88,6.81,CMAC
+236,CMAC Piura,31/03/2022,14.61,6.54,CMAC
+237,CMAC Piura,30/04/2022,14.81,6.55,CMAC
+238,CMAC Piura,31/05/2022,14.66,6.47,CMAC
+239,CMAC Piura,30/06/2022,14.59,6.39,CMAC
+240,CMAC Piura,31/07/2022,14.3,6.41,CMAC
+241,CMAC Piura,31/08/2022,14.25,6.26,CMAC
+242,CMAC Piura,30/09/2022,13.9,5.95,CMAC
+243,CMAC Arequipa,31/01/2016,14.55,5.58,CMAC
+244,CMAC Arequipa,29/02/2016,14.73,5.5,CMAC
+245,CMAC Arequipa,31/03/2016,14.64,5.45,CMAC
+246,CMAC Arequipa,30/04/2016,14.58,5.55,CMAC
+247,CMAC Arequipa,31/05/2016,14.76,5.35,CMAC
+248,CMAC Arequipa,30/06/2016,14.68,5.28,CMAC
+249,CMAC Arequipa,31/07/2016,14.6,5.43,CMAC
+250,CMAC Arequipa,31/08/2016,14.61,5.32,CMAC
+251,CMAC Arequipa,30/09/2016,14.49,5.06,CMAC
+252,CMAC Arequipa,31/10/2016,14.48,5.26,CMAC
+253,CMAC Arequipa,30/11/2016,14.37,5.09,CMAC
+254,CMAC Arequipa,31/12/2016,14.65,4.43,CMAC
+255,CMAC Arequipa,31/01/2017,14.41,4.92,CMAC
+256,CMAC Arequipa,28/02/2017,14.38,4.83,CMAC
+257,CMAC Arequipa,31/03/2017,14.37,4.84,CMAC
+258,CMAC Arequipa,30/04/2017,14.31,5.11,CMAC
+259,CMAC Arequipa,31/05/2017,14.31,5.05,CMAC
+260,CMAC Arequipa,30/06/2017,14.18,5.03,CMAC
+261,CMAC Arequipa,31/07/2017,14.14,5.23,CMAC
+262,CMAC Arequipa,31/08/2017,14.36,5.14,CMAC
+263,CMAC Arequipa,30/09/2017,14.27,4.96,CMAC
+264,CMAC Arequipa,31/10/2017,14.16,5.17,CMAC
+265,CMAC Arequipa,30/11/2017,14.11,4.9,CMAC
+266,CMAC Arequipa,31/12/2017,14.5,4.33,CMAC
+267,CMAC Arequipa,31/01/2018,14.21,4.48,CMAC
+268,CMAC Arequipa,28/02/2018,14.27,4.62,CMAC
+269,CMAC Arequipa,31/03/2018,14.26,4.72,CMAC
+270,CMAC Arequipa,30/04/2018,14.19,4.81,CMAC
+271,CMAC Arequipa,31/05/2018,14.16,4.86,CMAC
+272,CMAC Arequipa,30/06/2018,14.2,5.02,CMAC
+273,CMAC Arequipa,31/07/2018,14.43,4.99,CMAC
+274,CMAC Arequipa,31/08/2018,14.4,5.14,CMAC
+275,CMAC Arequipa,30/09/2018,14.25,5.13,CMAC
+276,CMAC Arequipa,31/10/2018,14.25,5.16,CMAC
+277,CMAC Arequipa,30/11/2018,14.22,5.18,CMAC
+278,CMAC Arequipa,31/12/2018,14.01,4.55,CMAC
+279,CMAC Arequipa,31/01/2019,14.19,4.81,CMAC
+280,CMAC Arequipa,28/02/2019,14.17,5.04,CMAC
+281,CMAC Arequipa,31/03/2019,14.17,5.16,CMAC
+282,CMAC Arequipa,30/04/2019,14.29,5.34,CMAC
+283,CMAC Arequipa,31/05/2019,14.66,5.44,CMAC
+284,CMAC Arequipa,30/06/2019,14.68,5.54,CMAC
+285,CMAC Arequipa,31/07/2019,14.64,5.62,CMAC
+286,CMAC Arequipa,31/08/2019,14.55,5.41,CMAC
+287,CMAC Arequipa,30/09/2019,14.36,5.39,CMAC
+288,CMAC Arequipa,31/10/2019,14.22,5.37,CMAC
+289,CMAC Arequipa,30/11/2019,14.14,5.32,CMAC
+290,CMAC Arequipa,31/12/2019,14.36,4.71,CMAC
+291,CMAC Arequipa,31/01/2020,14.17,4.79,CMAC
+292,CMAC Arequipa,29/02/2020,14.1,4.89,CMAC
+293,CMAC Arequipa,31/03/2020,14.32,4.93,CMAC
+294,CMAC Arequipa,30/04/2020,14.57,4.99,CMAC
+295,CMAC Arequipa,31/05/2020,14.74,5.03,CMAC
+296,CMAC Arequipa,30/06/2020,14.9,5.01,CMAC
+297,CMAC Arequipa,31/07/2020,15.8,4.85,CMAC
+298,CMAC Arequipa,31/08/2020,15.88,4.71,CMAC
+299,CMAC Arequipa,30/09/2020,16.1,4.65,CMAC
+300,CMAC Arequipa,31/10/2020,15.8,4.14,CMAC
+301,CMAC Arequipa,30/11/2020,15.59,3.62,CMAC
+302,CMAC Arequipa,31/12/2020,16.19,3.2,CMAC
+303,CMAC Arequipa,31/01/2021,15.4,3.31,CMAC
+304,CMAC Arequipa,28/02/2021,15.5,3.51,CMAC
+305,CMAC Arequipa,31/03/2021,18.13,3.48,CMAC
+306,CMAC Arequipa,30/04/2021,17.47,3.4,CMAC
+307,CMAC Arequipa,31/05/2021,17.7,3.36,CMAC
+308,CMAC Arequipa,30/06/2021,17.43,3.33,CMAC
+309,CMAC Arequipa,31/07/2021,17.29,3.34,CMAC
+310,CMAC Arequipa,31/08/2021,17.41,3.33,CMAC
+311,CMAC Arequipa,30/09/2021,17.25,3.28,CMAC
+312,CMAC Arequipa,31/10/2021,16.85,3.15,CMAC
+313,CMAC Arequipa,30/11/2021,16.55,3.23,CMAC
+314,CMAC Arequipa,31/12/2021,16.27,3.12,CMAC
+315,CMAC Arequipa,31/01/2022,15.99,3.56,CMAC
+316,CMAC Arequipa,28/02/2022,15.93,3.67,CMAC
+317,CMAC Arequipa,31/03/2022,15.54,3.74,CMAC
+318,CMAC Arequipa,30/04/2022,15.27,3.73,CMAC
+319,CMAC Arequipa,31/05/2022,15.17,3.78,CMAC
+320,CMAC Arequipa,30/06/2022,14.89,3.82,CMAC
+321,CMAC Arequipa,31/07/2022,14.65,3.9,CMAC
+322,CMAC Arequipa,31/08/2022,14.49,3.85,CMAC
+323,CMAC Arequipa,30/09/2022,14.18,3.91,CMAC
+324,CMAC Cusco,31/01/2016,14.17,4.97,CMAC
+325,CMAC Cusco,29/02/2016,14.89,5.09,CMAC
+326,CMAC Cusco,31/03/2016,15.01,5.3,CMAC
+327,CMAC Cusco,30/04/2016,14.86,5.31,CMAC
+328,CMAC Cusco,31/05/2016,14.81,5.31,CMAC
+329,CMAC Cusco,30/06/2016,14.73,4.93,CMAC
+330,CMAC Cusco,31/07/2016,14.76,5.4,CMAC
+331,CMAC Cusco,31/08/2016,14.95,5.53,CMAC
+332,CMAC Cusco,30/09/2016,14.85,5.25,CMAC
+333,CMAC Cusco,31/10/2016,15.28,5.02,CMAC
+334,CMAC Cusco,30/11/2016,15.42,4.9,CMAC
+335,CMAC Cusco,31/12/2016,15.4,4.51,CMAC
+336,CMAC Cusco,31/01/2017,15.66,5.19,CMAC
+337,CMAC Cusco,28/02/2017,15.71,4.8,CMAC
+338,CMAC Cusco,31/03/2017,15.8,4.73,CMAC
+339,CMAC Cusco,30/04/2017,15.88,4.86,CMAC
+340,CMAC Cusco,31/05/2017,15.94,5.08,CMAC
+341,CMAC Cusco,30/06/2017,16.08,4.8,CMAC
+342,CMAC Cusco,31/07/2017,16.01,4.82,CMAC
+343,CMAC Cusco,31/08/2017,15.93,4.89,CMAC
+344,CMAC Cusco,30/09/2017,15.82,4.56,CMAC
+345,CMAC Cusco,31/10/2017,15.68,4.67,CMAC
+346,CMAC Cusco,30/11/2017,15.77,4.63,CMAC
+347,CMAC Cusco,31/12/2017,15.58,4.35,CMAC
+348,CMAC Cusco,31/01/2018,15.62,4.34,CMAC
+349,CMAC Cusco,28/02/2018,15.5,4.53,CMAC
+350,CMAC Cusco,31/03/2018,15.6,4.61,CMAC
+351,CMAC Cusco,30/04/2018,15.6,4.75,CMAC
+352,CMAC Cusco,31/05/2018,15.47,4.71,CMAC
+353,CMAC Cusco,30/06/2018,15.44,4.53,CMAC
+354,CMAC Cusco,31/07/2018,15.37,4.7,CMAC
+355,CMAC Cusco,31/08/2018,15.34,4.85,CMAC
+356,CMAC Cusco,30/09/2018,15.3,4.71,CMAC
+357,CMAC Cusco,31/10/2018,15.13,4.75,CMAC
+358,CMAC Cusco,30/11/2018,14.92,4.64,CMAC
+359,CMAC Cusco,31/12/2018,14.84,4.44,CMAC
+360,CMAC Cusco,31/01/2019,14.77,4.42,CMAC
+361,CMAC Cusco,28/02/2019,14.74,4.64,CMAC
+362,CMAC Cusco,31/03/2019,14.79,4.61,CMAC
+363,CMAC Cusco,30/04/2019,14.77,4.88,CMAC
+364,CMAC Cusco,31/05/2019,14.74,4.91,CMAC
+365,CMAC Cusco,30/06/2019,14.78,4.72,CMAC
+366,CMAC Cusco,31/07/2019,14.72,4.97,CMAC
+367,CMAC Cusco,31/08/2019,14.74,5.09,CMAC
+368,CMAC Cusco,30/09/2019,14.62,4.96,CMAC
+369,CMAC Cusco,31/10/2019,14.49,4.92,CMAC
+370,CMAC Cusco,30/11/2019,14.31,4.82,CMAC
+371,CMAC Cusco,31/12/2019,14.14,4.54,CMAC
+372,CMAC Cusco,31/01/2020,14.2,4.81,CMAC
+373,CMAC Cusco,29/02/2020,14.05,4.73,CMAC
+374,CMAC Cusco,31/03/2020,14.36,4.61,CMAC
+375,CMAC Cusco,30/04/2020,14.4,4.6,CMAC
+376,CMAC Cusco,31/05/2020,14.51,4.49,CMAC
+377,CMAC Cusco,30/06/2020,15.32,4.37,CMAC
+378,CMAC Cusco,31/07/2020,15.26,3.36,CMAC
+379,CMAC Cusco,31/08/2020,15.26,3.19,CMAC
+380,CMAC Cusco,30/09/2020,15.05,3.16,CMAC
+381,CMAC Cusco,31/10/2020,14.45,2.8,CMAC
+382,CMAC Cusco,30/11/2020,14.16,2.78,CMAC
+383,CMAC Cusco,31/12/2020,13.84,2.29,CMAC
+384,CMAC Cusco,31/01/2021,14.05,2.48,CMAC
+385,CMAC Cusco,28/02/2021,13.99,2.62,CMAC
+386,CMAC Cusco,31/03/2021,13.97,2.86,CMAC
+387,CMAC Cusco,30/04/2021,13.78,2.81,CMAC
+388,CMAC Cusco,31/05/2021,13.67,2.94,CMAC
+389,CMAC Cusco,30/06/2021,13.59,2.78,CMAC
+390,CMAC Cusco,31/07/2021,13.43,3.1,CMAC
+391,CMAC Cusco,31/08/2021,13.3,2.99,CMAC
+392,CMAC Cusco,30/09/2021,13.19,3.22,CMAC
+393,CMAC Cusco,31/10/2021,13.1,3.67,CMAC
+394,CMAC Cusco,30/11/2021,13.01,3.48,CMAC
+395,CMAC Cusco,31/12/2021,15.02,3.15,CMAC
+396,CMAC Cusco,31/01/2022,14.83,3.26,CMAC
+397,CMAC Cusco,28/02/2022,15.17,3.18,CMAC
+398,CMAC Cusco,31/03/2022,15.0,3.38,CMAC
+399,CMAC Cusco,30/04/2022,14.84,3.38,CMAC
+400,CMAC Cusco,31/05/2022,14.71,3.68,CMAC
+401,CMAC Cusco,30/06/2022,14.59,3.74,CMAC
+402,CMAC Cusco,31/07/2022,14.38,4.21,CMAC
+403,CMAC Cusco,31/08/2022,14.36,4.3,CMAC
+404,CMAC Cusco,30/09/2022,14.25,4.44,CMAC
+405,CMAC Huancayo,31/01/2016,16.23,3.58,CMAC
+406,CMAC Huancayo,29/02/2016,16.15,3.58,CMAC
+407,CMAC Huancayo,31/03/2016,16.13,3.49,CMAC
+408,CMAC Huancayo,30/04/2016,16.09,3.62,CMAC
+409,CMAC Huancayo,31/05/2016,15.95,3.66,CMAC
+410,CMAC Huancayo,30/06/2016,15.75,3.51,CMAC
+411,CMAC Huancayo,31/07/2016,15.62,3.73,CMAC
+412,CMAC Huancayo,31/08/2016,15.49,3.65,CMAC
+413,CMAC Huancayo,30/09/2016,15.43,3.54,CMAC
+414,CMAC Huancayo,31/10/2016,15.32,3.49,CMAC
+415,CMAC Huancayo,30/11/2016,15.0,3.45,CMAC
+416,CMAC Huancayo,31/12/2016,14.69,3.11,CMAC
+417,CMAC Huancayo,31/01/2017,14.71,3.55,CMAC
+418,CMAC Huancayo,28/02/2017,14.61,3.7,CMAC
+419,CMAC Huancayo,31/03/2017,14.51,3.61,CMAC
+420,CMAC Huancayo,30/04/2017,14.44,3.79,CMAC
+421,CMAC Huancayo,31/05/2017,14.41,3.96,CMAC
+422,CMAC Huancayo,30/06/2017,14.35,3.7,CMAC
+423,CMAC Huancayo,31/07/2017,14.33,3.97,CMAC
+424,CMAC Huancayo,31/08/2017,14.32,3.96,CMAC
+425,CMAC Huancayo,30/09/2017,14.34,3.73,CMAC
+426,CMAC Huancayo,31/10/2017,14.88,3.85,CMAC
+427,CMAC Huancayo,30/11/2017,14.59,3.91,CMAC
+428,CMAC Huancayo,31/12/2017,14.43,3.38,CMAC
+429,CMAC Huancayo,31/01/2018,14.44,3.88,CMAC
+430,CMAC Huancayo,28/02/2018,14.33,4.07,CMAC
+431,CMAC Huancayo,31/03/2018,14.88,3.85,CMAC
+432,CMAC Huancayo,30/04/2018,14.77,3.96,CMAC
+433,CMAC Huancayo,31/05/2018,14.72,4.01,CMAC
+434,CMAC Huancayo,30/06/2018,14.63,3.98,CMAC
+435,CMAC Huancayo,31/07/2018,14.61,4.07,CMAC
+436,CMAC Huancayo,31/08/2018,14.02,4.18,CMAC
+437,CMAC Huancayo,30/09/2018,13.97,3.91,CMAC
+438,CMAC Huancayo,31/10/2018,13.52,3.97,CMAC
+439,CMAC Huancayo,30/11/2018,13.58,3.89,CMAC
+440,CMAC Huancayo,31/12/2018,13.42,3.52,CMAC
+441,CMAC Huancayo,31/01/2019,13.38,4.04,CMAC
+442,CMAC Huancayo,28/02/2019,13.31,4.1,CMAC
+443,CMAC Huancayo,31/03/2019,13.35,3.87,CMAC
+444,CMAC Huancayo,30/04/2019,14.19,4.03,CMAC
+445,CMAC Huancayo,31/05/2019,14.07,3.58,CMAC
+446,CMAC Huancayo,30/06/2019,13.95,3.69,CMAC
+447,CMAC Huancayo,31/07/2019,13.93,3.9,CMAC
+448,CMAC Huancayo,31/08/2019,13.93,3.59,CMAC
+449,CMAC Huancayo,30/09/2019,13.92,2.67,CMAC
+450,CMAC Huancayo,31/10/2019,13.61,2.83,CMAC
+451,CMAC Huancayo,30/11/2019,13.29,3.0,CMAC
+452,CMAC Huancayo,31/12/2019,13.21,2.86,CMAC
+453,CMAC Huancayo,31/01/2020,13.25,3.46,CMAC
+454,CMAC Huancayo,29/02/2020,13.17,2.92,CMAC
+455,CMAC Huancayo,31/03/2020,13.21,4.19,CMAC
+456,CMAC Huancayo,30/04/2020,13.76,3.53,CMAC
+457,CMAC Huancayo,31/05/2020,13.83,3.34,CMAC
+458,CMAC Huancayo,30/06/2020,14.23,3.13,CMAC
+459,CMAC Huancayo,31/07/2020,14.11,3.54,CMAC
+460,CMAC Huancayo,31/08/2020,14.52,2.89,CMAC
+461,CMAC Huancayo,30/09/2020,14.51,2.72,CMAC
+462,CMAC Huancayo,31/10/2020,14.33,2.56,CMAC
+463,CMAC Huancayo,30/11/2020,15.01,2.44,CMAC
+464,CMAC Huancayo,31/12/2020,14.75,2.26,CMAC
+465,CMAC Huancayo,31/01/2021,14.82,1.93,CMAC
+466,CMAC Huancayo,28/02/2021,14.91,2.4,CMAC
+467,CMAC Huancayo,31/03/2021,15.08,3.35,CMAC
+468,CMAC Huancayo,30/04/2021,14.87,3.42,CMAC
+469,CMAC Huancayo,31/05/2021,14.77,3.84,CMAC
+470,CMAC Huancayo,30/06/2021,14.5,3.46,CMAC
+471,CMAC Huancayo,31/07/2021,14.45,4.22,CMAC
+472,CMAC Huancayo,31/08/2021,14.33,3.75,CMAC
+473,CMAC Huancayo,30/09/2021,14.14,3.8,CMAC
+474,CMAC Huancayo,31/10/2021,13.84,3.77,CMAC
+475,CMAC Huancayo,30/11/2021,13.98,3.33,CMAC
+476,CMAC Huancayo,31/12/2021,13.81,3.09,CMAC
+477,CMAC Huancayo,31/01/2022,13.9,3.7,CMAC
+478,CMAC Huancayo,28/02/2022,13.62,3.94,CMAC
+479,CMAC Huancayo,31/03/2022,13.34,4.09,CMAC
+480,CMAC Huancayo,30/04/2022,13.15,3.93,CMAC
+481,CMAC Huancayo,31/05/2022,13.64,4.39,CMAC
+482,CMAC Huancayo,30/06/2022,13.39,4.07,CMAC
+483,CMAC Huancayo,31/07/2022,13.17,4.08,CMAC
+484,CMAC Huancayo,31/08/2022,13.08,4.08,CMAC
+485,CMAC Huancayo,30/09/2022,12.76,4.27,CMAC
+486,CMAC Ica,31/01/2016,16.55,8.38,CMAC
+487,CMAC Ica,29/02/2016,16.16,8.29,CMAC
+488,CMAC Ica,31/03/2016,16.31,8.63,CMAC
+489,CMAC Ica,30/04/2016,16.33,8.36,CMAC
+490,CMAC Ica,31/05/2016,16.41,8.47,CMAC
+491,CMAC Ica,30/06/2016,16.16,8.93,CMAC
+492,CMAC Ica,31/07/2016,16.38,9.12,CMAC
+493,CMAC Ica,31/08/2016,16.33,8.9,CMAC
+494,CMAC Ica,30/09/2016,16.21,8.72,CMAC
+495,CMAC Ica,31/10/2016,15.92,8.65,CMAC
+496,CMAC Ica,30/11/2016,15.65,8.02,CMAC
+497,CMAC Ica,31/12/2016,15.18,7.3,CMAC
+498,CMAC Ica,31/01/2017,16.08,7.6,CMAC
+499,CMAC Ica,28/02/2017,16.02,7.72,CMAC
+500,CMAC Ica,31/03/2017,15.78,7.52,CMAC
+501,CMAC Ica,30/04/2017,15.86,7.57,CMAC
+502,CMAC Ica,31/05/2017,15.78,7.67,CMAC
+503,CMAC Ica,30/06/2017,15.65,7.19,CMAC
+504,CMAC Ica,31/07/2017,15.43,7.1,CMAC
+505,CMAC Ica,31/08/2017,15.53,7.04,CMAC
+506,CMAC Ica,30/09/2017,15.49,6.51,CMAC
+507,CMAC Ica,31/10/2017,15.44,6.51,CMAC
+508,CMAC Ica,30/11/2017,15.05,6.47,CMAC
+509,CMAC Ica,31/12/2017,14.78,5.83,CMAC
+510,CMAC Ica,31/01/2018,14.83,6.12,CMAC
+511,CMAC Ica,28/02/2018,14.81,6.13,CMAC
+512,CMAC Ica,31/03/2018,14.68,6.06,CMAC
+513,CMAC Ica,30/04/2018,14.5,6.17,CMAC
+514,CMAC Ica,31/05/2018,14.62,6.26,CMAC
+515,CMAC Ica,30/06/2018,14.66,5.73,CMAC
+516,CMAC Ica,31/07/2018,14.52,5.77,CMAC
+517,CMAC Ica,31/08/2018,14.53,5.87,CMAC
+518,CMAC Ica,30/09/2018,15.68,5.49,CMAC
+519,CMAC Ica,31/10/2018,15.48,5.65,CMAC
+520,CMAC Ica,30/11/2018,15.13,5.7,CMAC
+521,CMAC Ica,31/12/2018,15.31,5.3,CMAC
+522,CMAC Ica,31/01/2019,15.18,5.57,CMAC
+523,CMAC Ica,28/02/2019,15.02,5.72,CMAC
+524,CMAC Ica,31/03/2019,14.81,5.48,CMAC
+525,CMAC Ica,30/04/2019,14.77,5.64,CMAC
+526,CMAC Ica,31/05/2019,14.55,5.77,CMAC
+527,CMAC Ica,30/06/2019,14.95,5.6,CMAC
+528,CMAC Ica,31/07/2019,15.18,5.79,CMAC
+529,CMAC Ica,31/08/2019,15.14,6.05,CMAC
+530,CMAC Ica,30/09/2019,15.04,5.95,CMAC
+531,CMAC Ica,31/10/2019,14.94,5.77,CMAC
+532,CMAC Ica,30/11/2019,14.76,5.84,CMAC
+533,CMAC Ica,31/12/2019,14.62,5.46,CMAC
+534,CMAC Ica,31/01/2020,14.64,5.72,CMAC
+535,CMAC Ica,29/02/2020,14.6,5.97,CMAC
+536,CMAC Ica,31/03/2020,14.89,5.91,CMAC
+537,CMAC Ica,30/04/2020,15.14,6.06,CMAC
+538,CMAC Ica,31/05/2020,15.25,6.21,CMAC
+539,CMAC Ica,30/06/2020,15.32,7.85,CMAC
+540,CMAC Ica,31/07/2020,16.33,6.57,CMAC
+541,CMAC Ica,31/08/2020,16.37,6.32,CMAC
+542,CMAC Ica,30/09/2020,16.06,6.15,CMAC
+543,CMAC Ica,31/10/2020,15.69,5.81,CMAC
+544,CMAC Ica,30/11/2020,15.49,5.57,CMAC
+545,CMAC Ica,31/12/2020,15.4,4.34,CMAC
+546,CMAC Ica,31/01/2021,15.45,4.44,CMAC
+547,CMAC Ica,28/02/2021,15.71,4.62,CMAC
+548,CMAC Ica,31/03/2021,15.62,4.42,CMAC
+549,CMAC Ica,30/04/2021,15.62,4.64,CMAC
+550,CMAC Ica,31/05/2021,15.57,4.8,CMAC
+551,CMAC Ica,30/06/2021,15.53,4.43,CMAC
+552,CMAC Ica,31/07/2021,14.98,4.71,CMAC
+553,CMAC Ica,31/08/2021,14.18,4.72,CMAC
+554,CMAC Ica,30/09/2021,14.35,4.4,CMAC
+555,CMAC Ica,31/10/2021,14.0,4.58,CMAC
+556,CMAC Ica,30/11/2021,13.76,4.67,CMAC
+557,CMAC Ica,31/12/2021,14.57,4.38,CMAC
+558,CMAC Ica,31/01/2022,14.64,4.65,CMAC
+559,CMAC Ica,28/02/2022,14.54,5.2,CMAC
+560,CMAC Ica,31/03/2022,14.42,5.37,CMAC
+561,CMAC Ica,30/04/2022,14.34,5.29,CMAC
+562,CMAC Ica,31/05/2022,14.58,5.65,CMAC
+563,CMAC Ica,30/06/2022,14.49,5.1,CMAC
+564,CMAC Ica,31/07/2022,14.37,5.45,CMAC
+565,CMAC Ica,31/08/2022,14.21,5.84,CMAC
+566,CMAC Ica,30/09/2022,14.0,5.51,CMAC
+567,CMAC Maynas,31/01/2016,16.75,6.03,CMAC
+568,CMAC Maynas,29/02/2016,16.7,6.19,CMAC
+569,CMAC Maynas,31/03/2016,16.74,6.22,CMAC
+570,CMAC Maynas,30/04/2016,17.2,6.32,CMAC
+571,CMAC Maynas,31/05/2016,17.15,6.63,CMAC
+572,CMAC Maynas,30/06/2016,17.2,6.47,CMAC
+573,CMAC Maynas,31/07/2016,17.22,6.87,CMAC
+574,CMAC Maynas,31/08/2016,17.32,7.05,CMAC
+575,CMAC Maynas,30/09/2016,17.05,6.98,CMAC
+576,CMAC Maynas,31/10/2016,17.01,7.23,CMAC
+577,CMAC Maynas,30/11/2016,17.11,7.35,CMAC
+578,CMAC Maynas,31/12/2016,16.87,7.3,CMAC
+579,CMAC Maynas,31/01/2017,17.12,7.68,CMAC
+580,CMAC Maynas,28/02/2017,16.83,7.96,CMAC
+581,CMAC Maynas,31/03/2017,17.09,7.71,CMAC
+582,CMAC Maynas,30/04/2017,16.87,7.77,CMAC
+583,CMAC Maynas,31/05/2017,17.11,8.13,CMAC
+584,CMAC Maynas,30/06/2017,17.65,7.97,CMAC
+585,CMAC Maynas,31/07/2017,18.32,8.13,CMAC
+586,CMAC Maynas,31/08/2017,17.27,8.43,CMAC
+587,CMAC Maynas,30/09/2017,16.99,7.95,CMAC
+588,CMAC Maynas,31/10/2017,17.12,8.07,CMAC
+589,CMAC Maynas,30/11/2017,16.73,8.14,CMAC
+590,CMAC Maynas,31/12/2017,16.71,7.3,CMAC
+591,CMAC Maynas,31/01/2018,16.66,7.47,CMAC
+592,CMAC Maynas,28/02/2018,16.41,7.58,CMAC
+593,CMAC Maynas,31/03/2018,16.55,7.35,CMAC
+594,CMAC Maynas,30/04/2018,16.34,7.43,CMAC
+595,CMAC Maynas,31/05/2018,16.54,7.31,CMAC
+596,CMAC Maynas,30/06/2018,16.62,7.31,CMAC
+597,CMAC Maynas,31/07/2018,16.62,7.59,CMAC
+598,CMAC Maynas,31/08/2018,16.62,7.44,CMAC
+599,CMAC Maynas,30/09/2018,16.47,6.77,CMAC
+600,CMAC Maynas,31/10/2018,16.29,6.81,CMAC
+601,CMAC Maynas,30/11/2018,16.15,6.89,CMAC
+602,CMAC Maynas,31/12/2018,16.29,6.57,CMAC
+603,CMAC Maynas,31/01/2019,17.23,6.71,CMAC
+604,CMAC Maynas,28/02/2019,17.23,7.01,CMAC
+605,CMAC Maynas,31/03/2019,17.18,6.47,CMAC
+606,CMAC Maynas,30/04/2019,17.25,6.78,CMAC
+607,CMAC Maynas,31/05/2019,17.04,6.82,CMAC
+608,CMAC Maynas,30/06/2019,17.08,6.56,CMAC
+609,CMAC Maynas,31/07/2019,17.19,6.9,CMAC
+610,CMAC Maynas,31/08/2019,16.99,6.99,CMAC
+611,CMAC Maynas,30/09/2019,17.14,6.66,CMAC
+612,CMAC Maynas,31/10/2019,17.03,6.81,CMAC
+613,CMAC Maynas,30/11/2019,17.21,7.02,CMAC
+614,CMAC Maynas,31/12/2019,17.15,6.93,CMAC
+615,CMAC Maynas,31/01/2020,17.17,7.28,CMAC
+616,CMAC Maynas,29/02/2020,17.18,7.39,CMAC
+617,CMAC Maynas,31/03/2020,17.56,6.83,CMAC
+618,CMAC Maynas,30/04/2020,17.79,7.04,CMAC
+619,CMAC Maynas,31/05/2020,18.07,7.12,CMAC
+620,CMAC Maynas,30/06/2020,18.09,6.5,CMAC
+621,CMAC Maynas,31/07/2020,18.23,6.13,CMAC
+622,CMAC Maynas,31/08/2020,18.35,6.04,CMAC
+623,CMAC Maynas,30/09/2020,18.46,6.07,CMAC
+624,CMAC Maynas,31/10/2020,18.17,5.97,CMAC
+625,CMAC Maynas,30/11/2020,17.79,5.56,CMAC
+626,CMAC Maynas,31/12/2020,17.71,5.07,CMAC
+627,CMAC Maynas,31/01/2021,17.57,5.27,CMAC
+628,CMAC Maynas,28/02/2021,17.68,5.32,CMAC
+629,CMAC Maynas,31/03/2021,17.71,5.13,CMAC
+630,CMAC Maynas,30/04/2021,17.93,5.29,CMAC
+631,CMAC Maynas,31/05/2021,18.02,5.46,CMAC
+632,CMAC Maynas,30/06/2021,17.6,4.19,CMAC
+633,CMAC Maynas,31/07/2021,17.73,4.38,CMAC
+634,CMAC Maynas,31/08/2021,17.76,4.34,CMAC
+635,CMAC Maynas,30/09/2021,17.73,4.37,CMAC
+636,CMAC Maynas,31/10/2021,16.91,4.82,CMAC
+637,CMAC Maynas,30/11/2021,16.39,4.95,CMAC
+638,CMAC Maynas,31/12/2021,16.4,4.78,CMAC
+639,CMAC Maynas,31/01/2022,16.25,5.14,CMAC
+640,CMAC Maynas,28/02/2022,16.13,5.4,CMAC
+641,CMAC Maynas,31/03/2022,15.82,5.12,CMAC
+642,CMAC Maynas,30/04/2022,15.81,5.61,CMAC
+643,CMAC Maynas,31/05/2022,16.03,5.22,CMAC
+644,CMAC Maynas,30/06/2022,16.2,5.29,CMAC
+645,CMAC Maynas,31/07/2022,16.25,5.63,CMAC
+646,CMAC Maynas,31/08/2022,16.15,5.72,CMAC
+647,CMAC Maynas,30/09/2022,16.22,5.09,CMAC
+648,CMAC Paita,31/01/2016,14.94,16.6,CMAC
+649,CMAC Paita,29/02/2016,14.55,17.41,CMAC
+650,CMAC Paita,31/03/2016,14.69,17.88,CMAC
+651,CMAC Paita,30/04/2016,14.52,15.99,CMAC
+652,CMAC Paita,31/05/2016,14.67,16.35,CMAC
+653,CMAC Paita,30/06/2016,14.94,16.93,CMAC
+654,CMAC Paita,31/07/2016,14.92,17.36,CMAC
+655,CMAC Paita,31/08/2016,15.34,12.21,CMAC
+656,CMAC Paita,30/09/2016,15.56,12.0,CMAC
+657,CMAC Paita,31/10/2016,15.59,13.1,CMAC
+658,CMAC Paita,30/11/2016,15.71,14.34,CMAC
+659,CMAC Paita,31/12/2016,16.18,14.53,CMAC
+660,CMAC Paita,31/01/2017,16.98,15.09,CMAC
+661,CMAC Paita,28/02/2017,16.92,15.7,CMAC
+662,CMAC Paita,31/03/2017,17.05,16.35,CMAC
+663,CMAC Paita,30/04/2017,16.25,16.43,CMAC
+664,CMAC Paita,31/05/2017,16.23,16.44,CMAC
+665,CMAC Paita,30/06/2017,16.41,15.37,CMAC
+666,CMAC Paita,31/07/2017,16.76,16.1,CMAC
+667,CMAC Paita,31/08/2017,16.82,16.61,CMAC
+668,CMAC Paita,30/09/2017,16.83,17.3,CMAC
+669,CMAC Paita,31/10/2017,17.02,17.83,CMAC
+670,CMAC Paita,30/11/2017,16.18,14.4,CMAC
+671,CMAC Paita,31/12/2017,15.78,14.59,CMAC
+672,CMAC Paita,31/01/2018,16.08,14.69,CMAC
+673,CMAC Paita,28/02/2018,15.96,15.2,CMAC
+674,CMAC Paita,31/03/2018,16.94,16.04,CMAC
+675,CMAC Paita,30/04/2018,17.77,16.46,CMAC
+676,CMAC Paita,31/05/2018,18.22,16.47,CMAC
+677,CMAC Paita,30/06/2018,18.04,14.6,CMAC
+678,CMAC Paita,31/07/2018,18.33,16.0,CMAC
+679,CMAC Paita,31/08/2018,18.32,15.54,CMAC
+680,CMAC Paita,30/09/2018,18.17,16.32,CMAC
+681,CMAC Paita,31/10/2018,18.47,17.28,CMAC
+682,CMAC Paita,30/11/2018,18.63,13.43,CMAC
+683,CMAC Paita,31/12/2018,18.53,13.6,CMAC
+684,CMAC Paita,31/01/2019,18.65,15.11,CMAC
+685,CMAC Paita,28/02/2019,19.15,15.68,CMAC
+686,CMAC Paita,31/03/2019,19.41,16.17,CMAC
+687,CMAC Paita,30/04/2019,19.48,17.09,CMAC
+688,CMAC Paita,31/05/2019,19.58,17.96,CMAC
+689,CMAC Paita,30/06/2019,19.47,17.45,CMAC
+690,CMAC Paita,31/07/2019,20.64,16.93,CMAC
+691,CMAC Paita,31/08/2019,20.59,17.66,CMAC
+692,CMAC Paita,30/09/2019,17.67,17.76,CMAC
+693,CMAC Paita,31/10/2019,17.83,17.2,CMAC
+694,CMAC Paita,30/11/2019,17.75,17.55,CMAC
+695,CMAC Paita,31/12/2019,18.08,17.72,CMAC
+696,CMAC Paita,31/01/2020,18.0,17.74,CMAC
+697,CMAC Paita,29/02/2020,17.65,17.54,CMAC
+698,CMAC Paita,31/03/2020,17.61,15.88,CMAC
+699,CMAC Paita,30/04/2020,17.35,16.0,CMAC
+700,CMAC Paita,31/05/2020,16.89,16.09,CMAC
+701,CMAC Paita,30/06/2020,16.71,15.48,CMAC
+702,CMAC Paita,31/07/2020,16.7,14.59,CMAC
+703,CMAC Paita,31/08/2020,16.78,14.21,CMAC
+704,CMAC Paita,30/09/2020,16.87,14.73,CMAC
+705,CMAC Paita,31/10/2020,16.69,14.35,CMAC
+706,CMAC Paita,30/11/2020,16.15,14.12,CMAC
+707,CMAC Paita,31/12/2020,15.66,13.96,CMAC
+708,CMAC Paita,31/01/2021,15.58,13.77,CMAC
+709,CMAC Paita,28/02/2021,15.55,14.26,CMAC
+710,CMAC Paita,31/03/2021,15.73,15.21,CMAC
+711,CMAC Paita,30/04/2021,16.49,16.64,CMAC
+712,CMAC Paita,31/05/2021,15.82,17.04,CMAC
+713,CMAC Paita,30/06/2021,15.49,17.12,CMAC
+714,CMAC Paita,31/07/2021,15.39,17.22,CMAC
+715,CMAC Paita,31/08/2021,15.54,16.91,CMAC
+716,CMAC Paita,30/09/2021,15.41,16.76,CMAC
+717,CMAC Paita,31/10/2021,15.04,16.79,CMAC
+718,CMAC Paita,30/11/2021,14.65,16.59,CMAC
+719,CMAC Paita,31/12/2021,15.11,14.13,CMAC
+720,CMAC Paita,31/01/2022,15.08,14.58,CMAC
+721,CMAC Paita,28/02/2022,14.62,14.81,CMAC
+722,CMAC Paita,31/03/2022,14.23,14.5,CMAC
+723,CMAC Paita,30/04/2022,14.44,14.4,CMAC
+724,CMAC Paita,31/05/2022,14.14,14.26,CMAC
+725,CMAC Paita,30/06/2022,14.17,14.12,CMAC
+726,CMAC Paita,31/07/2022,14.17,9.16,CMAC
+727,CMAC Paita,31/08/2022,14.32,9.19,CMAC
+728,CMAC Paita,30/09/2022,13.9,9.09,CMAC
+729,CMAC Del Santa,31/01/2016,14.34,15.47,CMAC
+730,CMAC Del Santa,29/02/2016,14.01,16.77,CMAC
+731,CMAC Del Santa,31/03/2016,14.31,17.1,CMAC
+732,CMAC Del Santa,30/04/2016,14.64,14.67,CMAC
+733,CMAC Del Santa,31/05/2016,14.16,16.26,CMAC
+734,CMAC Del Santa,30/06/2016,14.3,15.02,CMAC
+735,CMAC Del Santa,31/07/2016,14.02,15.61,CMAC
+736,CMAC Del Santa,31/08/2016,14.24,16.27,CMAC
+737,CMAC Del Santa,30/09/2016,13.98,17.6,CMAC
+738,CMAC Del Santa,31/10/2016,13.83,17.58,CMAC
+739,CMAC Del Santa,30/11/2016,13.63,18.36,CMAC
+740,CMAC Del Santa,31/12/2016,13.13,17.45,CMAC
+741,CMAC Del Santa,31/01/2017,13.03,18.01,CMAC
+742,CMAC Del Santa,28/02/2017,12.92,18.82,CMAC
+743,CMAC Del Santa,31/03/2017,12.93,18.51,CMAC
+744,CMAC Del Santa,30/04/2017,13.03,18.41,CMAC
+745,CMAC Del Santa,31/05/2017,13.0,18.1,CMAC
+746,CMAC Del Santa,30/06/2017,12.56,17.6,CMAC
+747,CMAC Del Santa,31/07/2017,12.45,17.42,CMAC
+748,CMAC Del Santa,31/08/2017,13.13,17.38,CMAC
+749,CMAC Del Santa,30/09/2017,12.9,17.71,CMAC
+750,CMAC Del Santa,31/10/2017,13.56,16.83,CMAC
+751,CMAC Del Santa,30/11/2017,14.32,18.7,CMAC
+752,CMAC Del Santa,31/12/2017,14.71,18.59,CMAC
+753,CMAC Del Santa,31/01/2018,14.29,18.71,CMAC
+754,CMAC Del Santa,28/02/2018,14.16,18.5,CMAC
+755,CMAC Del Santa,31/03/2018,14.04,18.82,CMAC
+756,CMAC Del Santa,30/04/2018,13.71,18.86,CMAC
+757,CMAC Del Santa,31/05/2018,13.64,18.76,CMAC
+758,CMAC Del Santa,30/06/2018,13.8,19.17,CMAC
+759,CMAC Del Santa,31/07/2018,13.91,19.35,CMAC
+760,CMAC Del Santa,31/08/2018,14.47,20.86,CMAC
+761,CMAC Del Santa,30/09/2018,14.65,21.01,CMAC
+762,CMAC Del Santa,31/10/2018,14.92,21.06,CMAC
+763,CMAC Del Santa,30/11/2018,14.75,21.05,CMAC
+764,CMAC Del Santa,31/12/2018,15.14,22.92,CMAC
+765,CMAC Del Santa,31/01/2019,15.45,23.43,CMAC
+766,CMAC Del Santa,28/02/2019,15.81,21.4,CMAC
+767,CMAC Del Santa,31/03/2019,15.71,21.91,CMAC
+768,CMAC Del Santa,30/04/2019,15.77,22.59,CMAC
+769,CMAC Del Santa,31/05/2019,15.89,23.12,CMAC
+770,CMAC Del Santa,30/06/2019,15.78,23.33,CMAC
+771,CMAC Del Santa,31/07/2019,15.37,23.08,CMAC
+772,CMAC Del Santa,31/08/2019,15.17,22.98,CMAC
+773,CMAC Del Santa,30/09/2019,15.23,22.49,CMAC
+774,CMAC Del Santa,31/10/2019,14.79,22.61,CMAC
+775,CMAC Del Santa,30/11/2019,14.33,22.32,CMAC
+776,CMAC Del Santa,31/12/2019,14.16,22.49,CMAC
+777,CMAC Del Santa,31/01/2020,14.18,23.34,CMAC
+778,CMAC Del Santa,29/02/2020,13.75,24.06,CMAC
+779,CMAC Del Santa,31/03/2020,14.7,24.86,CMAC
+780,CMAC Del Santa,30/04/2020,14.88,25.19,CMAC
+781,CMAC Del Santa,31/05/2020,14.62,25.15,CMAC
+782,CMAC Del Santa,30/06/2020,14.62,24.71,CMAC
+783,CMAC Del Santa,31/07/2020,13.88,24.46,CMAC
+784,CMAC Del Santa,31/08/2020,13.13,22.86,CMAC
+785,CMAC Del Santa,30/09/2020,12.12,22.94,CMAC
+786,CMAC Del Santa,31/10/2020,11.53,22.33,CMAC
+787,CMAC Del Santa,30/11/2020,10.72,21.4,CMAC
+788,CMAC Del Santa,31/12/2020,11.3,22.17,CMAC
+789,CMAC Del Santa,31/01/2021,10.45,23.33,CMAC
+790,CMAC Del Santa,28/02/2021,9.61,24.79,CMAC
+791,CMAC Del Santa,31/03/2021,9.76,26.05,CMAC
+792,CMAC Del Santa,30/04/2021,9.67,26.73,CMAC
+793,CMAC Del Santa,31/05/2021,9.32,26.55,CMAC
+794,CMAC Del Santa,30/06/2021,8.78,26.47,CMAC
+795,CMAC Del Santa,31/07/2021,8.74,26.56,CMAC
+796,CMAC Del Santa,31/08/2021,8.49,20.31,CMAC
+797,CMAC Del Santa,30/09/2021,8.53,19.98,CMAC
+798,CMAC Del Santa,31/10/2021,8.67,20.04,CMAC
+799,CMAC Del Santa,30/11/2021,8.64,19.23,CMAC
+800,CMAC Del Santa,31/12/2021,9.17,18.78,CMAC
+801,CMAC Del Santa,31/01/2022,9.14,19.14,CMAC
+802,CMAC Del Santa,28/02/2022,9.05,17.84,CMAC
+803,CMAC Del Santa,31/03/2022,8.83,16.4,CMAC
+804,CMAC Del Santa,30/04/2022,8.71,15.77,CMAC
+805,CMAC Del Santa,31/05/2022,8.48,15.77,CMAC
+806,CMAC Del Santa,30/06/2022,8.25,15.74,CMAC
+807,CMAC Del Santa,31/07/2022,17.18,15.57,CMAC
+808,CMAC Del Santa,31/08/2022,16.78,6.48,CMAC
+809,CMAC Del Santa,30/09/2022,16.37,5.88,CMAC
+810,CMAC Trujillo,31/01/2016,19.85,8.46,CMAC
+811,CMAC Trujillo,29/02/2016,19.99,8.6,CMAC
+812,CMAC Trujillo,31/03/2016,19.76,8.1,CMAC
+813,CMAC Trujillo,30/04/2016,19.92,8.35,CMAC
+814,CMAC Trujillo,31/05/2016,20.59,8.57,CMAC
+815,CMAC Trujillo,30/06/2016,20.33,7.27,CMAC
+816,CMAC Trujillo,31/07/2016,20.33,7.57,CMAC
+817,CMAC Trujillo,31/08/2016,20.13,7.74,CMAC
+818,CMAC Trujillo,30/09/2016,20.07,7.98,CMAC
+819,CMAC Trujillo,31/10/2016,19.8,8.02,CMAC
+820,CMAC Trujillo,30/11/2016,19.67,8.06,CMAC
+821,CMAC Trujillo,31/12/2016,19.89,6.16,CMAC
+822,CMAC Trujillo,31/01/2017,19.79,6.56,CMAC
+823,CMAC Trujillo,28/02/2017,19.85,6.86,CMAC
+824,CMAC Trujillo,31/03/2017,19.98,7.49,CMAC
+825,CMAC Trujillo,30/04/2017,19.65,7.33,CMAC
+826,CMAC Trujillo,31/05/2017,19.83,7.32,CMAC
+827,CMAC Trujillo,30/06/2017,19.74,6.54,CMAC
+828,CMAC Trujillo,31/07/2017,19.85,6.81,CMAC
+829,CMAC Trujillo,31/08/2017,19.66,6.98,CMAC
+830,CMAC Trujillo,30/09/2017,19.81,6.52,CMAC
+831,CMAC Trujillo,31/10/2017,19.65,6.73,CMAC
+832,CMAC Trujillo,30/11/2017,19.81,6.51,CMAC
+833,CMAC Trujillo,31/12/2017,19.65,5.68,CMAC
+834,CMAC Trujillo,31/01/2018,19.7,6.1,CMAC
+835,CMAC Trujillo,28/02/2018,19.64,6.11,CMAC
+836,CMAC Trujillo,31/03/2018,19.67,6.21,CMAC
+837,CMAC Trujillo,30/04/2018,19.86,6.43,CMAC
+838,CMAC Trujillo,31/05/2018,19.88,6.45,CMAC
+839,CMAC Trujillo,30/06/2018,20.03,6.63,CMAC
+840,CMAC Trujillo,31/07/2018,20.23,6.72,CMAC
+841,CMAC Trujillo,31/08/2018,20.29,6.78,CMAC
+842,CMAC Trujillo,30/09/2018,20.39,6.87,CMAC
+843,CMAC Trujillo,31/10/2018,20.56,7.05,CMAC
+844,CMAC Trujillo,30/11/2018,20.3,6.7,CMAC
+845,CMAC Trujillo,31/12/2018,20.42,5.95,CMAC
+846,CMAC Trujillo,31/01/2019,20.37,6.2,CMAC
+847,CMAC Trujillo,28/02/2019,20.48,6.31,CMAC
+848,CMAC Trujillo,31/03/2019,20.64,6.31,CMAC
+849,CMAC Trujillo,30/04/2019,20.72,6.55,CMAC
+850,CMAC Trujillo,31/05/2019,20.82,6.62,CMAC
+851,CMAC Trujillo,30/06/2019,20.88,6.69,CMAC
+852,CMAC Trujillo,31/07/2019,20.98,6.77,CMAC
+853,CMAC Trujillo,31/08/2019,21.16,6.89,CMAC
+854,CMAC Trujillo,30/09/2019,20.75,6.88,CMAC
+855,CMAC Trujillo,31/10/2019,20.45,6.77,CMAC
+856,CMAC Trujillo,30/11/2019,20.42,6.6,CMAC
+857,CMAC Trujillo,31/12/2019,20.51,6.05,CMAC
+858,CMAC Trujillo,31/01/2020,19.89,6.27,CMAC
+859,CMAC Trujillo,29/02/2020,19.9,6.41,CMAC
+860,CMAC Trujillo,31/03/2020,20.24,6.57,CMAC
+861,CMAC Trujillo,30/04/2020,20.34,6.52,CMAC
+862,CMAC Trujillo,31/05/2020,20.54,6.35,CMAC
+863,CMAC Trujillo,30/06/2020,19.95,6.08,CMAC
+864,CMAC Trujillo,31/07/2020,20.38,5.97,CMAC
+865,CMAC Trujillo,31/08/2020,20.52,5.72,CMAC
+866,CMAC Trujillo,30/09/2020,20.57,6.14,CMAC
+867,CMAC Trujillo,31/10/2020,20.46,6.32,CMAC
+868,CMAC Trujillo,30/11/2020,19.87,6.61,CMAC
+869,CMAC Trujillo,31/12/2020,19.59,6.57,CMAC
+870,CMAC Trujillo,31/01/2021,19.41,6.93,CMAC
+871,CMAC Trujillo,28/02/2021,19.31,6.92,CMAC
+872,CMAC Trujillo,31/03/2021,18.97,6.83,CMAC
+873,CMAC Trujillo,30/04/2021,18.71,6.87,CMAC
+874,CMAC Trujillo,31/05/2021,19.06,6.87,CMAC
+875,CMAC Trujillo,30/06/2021,18.85,6.68,CMAC
+876,CMAC Trujillo,31/07/2021,17.08,6.61,CMAC
+877,CMAC Trujillo,31/08/2021,18.81,6.53,CMAC
+878,CMAC Trujillo,30/09/2021,18.59,6.58,CMAC
+879,CMAC Trujillo,31/10/2021,18.74,6.53,CMAC
+880,CMAC Trujillo,30/11/2021,18.69,6.46,CMAC
+881,CMAC Trujillo,31/12/2021,18.86,6.33,CMAC
+882,CMAC Trujillo,31/01/2022,19.54,6.19,CMAC
+883,CMAC Trujillo,28/02/2022,19.38,6.31,CMAC
+884,CMAC Trujillo,31/03/2022,18.96,6.06,CMAC
+885,CMAC Trujillo,30/04/2022,18.94,6.05,CMAC
+886,CMAC Trujillo,31/05/2022,18.86,5.75,CMAC
+887,CMAC Trujillo,30/06/2022,18.63,5.6,CMAC
+888,CMAC Trujillo,31/07/2022,18.33,5.64,CMAC
+889,CMAC Trujillo,31/08/2022,18.21,5.63,CMAC
+890,CMAC Trujillo,30/09/2022,17.96,5.66,CMAC
+891,CMAC Tacna,31/01/2016,17.61,11.23,CMAC
+892,CMAC Tacna,29/02/2016,17.02,11.66,CMAC
+893,CMAC Tacna,31/03/2016,16.81,11.63,CMAC
+894,CMAC Tacna,30/04/2016,16.74,12.38,CMAC
+895,CMAC Tacna,31/05/2016,16.39,12.59,CMAC
+896,CMAC Tacna,30/06/2016,16.29,8.48,CMAC
+897,CMAC Tacna,31/07/2016,16.02,8.75,CMAC
+898,CMAC Tacna,31/08/2016,15.95,8.73,CMAC
+899,CMAC Tacna,30/09/2016,15.93,8.66,CMAC
+900,CMAC Tacna,31/10/2016,15.48,8.91,CMAC
+901,CMAC Tacna,30/11/2016,15.17,8.91,CMAC
+902,CMAC Tacna,31/12/2016,15.05,7.73,CMAC
+903,CMAC Tacna,31/01/2017,15.49,8.21,CMAC
+904,CMAC Tacna,28/02/2017,15.61,8.47,CMAC
+905,CMAC Tacna,31/03/2017,15.06,8.47,CMAC
+906,CMAC Tacna,30/04/2017,14.69,8.62,CMAC
+907,CMAC Tacna,31/05/2017,14.51,9.05,CMAC
+908,CMAC Tacna,30/06/2017,14.36,9.16,CMAC
+909,CMAC Tacna,31/07/2017,14.81,8.93,CMAC
+910,CMAC Tacna,31/08/2017,14.55,9.13,CMAC
+911,CMAC Tacna,30/09/2017,14.29,9.05,CMAC
+912,CMAC Tacna,31/10/2017,14.16,9.22,CMAC
+913,CMAC Tacna,30/11/2017,13.64,7.53,CMAC
+914,CMAC Tacna,31/12/2017,14.25,6.45,CMAC
+915,CMAC Tacna,31/01/2018,14.94,7.05,CMAC
+916,CMAC Tacna,28/02/2018,14.6,7.04,CMAC
+917,CMAC Tacna,31/03/2018,14.22,6.46,CMAC
+918,CMAC Tacna,30/04/2018,14.08,6.71,CMAC
+919,CMAC Tacna,31/05/2018,13.86,6.9,CMAC
+920,CMAC Tacna,30/06/2018,13.76,6.32,CMAC
+921,CMAC Tacna,31/07/2018,14.27,6.66,CMAC
+922,CMAC Tacna,31/08/2018,14.29,7.36,CMAC
+923,CMAC Tacna,30/09/2018,14.22,6.9,CMAC
+924,CMAC Tacna,31/10/2018,14.09,7.19,CMAC
+925,CMAC Tacna,30/11/2018,14.05,7.54,CMAC
+926,CMAC Tacna,31/12/2018,14.08,6.76,CMAC
+927,CMAC Tacna,31/01/2019,13.86,7.51,CMAC
+928,CMAC Tacna,28/02/2019,14.81,8.07,CMAC
+929,CMAC Tacna,31/03/2019,14.67,8.14,CMAC
+930,CMAC Tacna,30/04/2019,15.59,8.15,CMAC
+931,CMAC Tacna,31/05/2019,15.2,8.58,CMAC
+932,CMAC Tacna,30/06/2019,15.1,8.41,CMAC
+933,CMAC Tacna,31/07/2019,15.15,8.6,CMAC
+934,CMAC Tacna,31/08/2019,14.95,9.16,CMAC
+935,CMAC Tacna,30/09/2019,15.22,9.77,CMAC
+936,CMAC Tacna,31/10/2019,14.65,10.94,CMAC
+937,CMAC Tacna,30/11/2019,14.52,11.49,CMAC
+938,CMAC Tacna,31/12/2019,14.37,10.98,CMAC
+939,CMAC Tacna,31/01/2020,14.42,11.93,CMAC
+940,CMAC Tacna,29/02/2020,14.47,12.63,CMAC
+941,CMAC Tacna,31/03/2020,14.51,12.28,CMAC
+942,CMAC Tacna,30/04/2020,14.75,12.29,CMAC
+943,CMAC Tacna,31/05/2020,15.21,12.48,CMAC
+944,CMAC Tacna,30/06/2020,15.6,12.62,CMAC
+945,CMAC Tacna,31/07/2020,15.6,12.83,CMAC
+946,CMAC Tacna,31/08/2020,16.02,12.99,CMAC
+947,CMAC Tacna,30/09/2020,16.03,13.09,CMAC
+948,CMAC Tacna,31/10/2020,16.0,12.29,CMAC
+949,CMAC Tacna,30/11/2020,16.27,12.24,CMAC
+950,CMAC Tacna,31/12/2020,15.45,10.94,CMAC
+951,CMAC Tacna,31/01/2021,15.57,11.05,CMAC
+952,CMAC Tacna,28/02/2021,15.33,16.86,CMAC
+953,CMAC Tacna,31/03/2021,14.04,17.03,CMAC
+954,CMAC Tacna,30/04/2021,14.35,18.74,CMAC
+955,CMAC Tacna,31/05/2021,12.8,20.41,CMAC
+956,CMAC Tacna,30/06/2021,12.42,18.69,CMAC
+957,CMAC Tacna,31/07/2021,12.66,18.92,CMAC
+958,CMAC Tacna,31/08/2021,13.02,19.0,CMAC
+959,CMAC Tacna,30/09/2021,13.06,17.17,CMAC
+960,CMAC Tacna,31/10/2021,12.82,15.15,CMAC
+961,CMAC Tacna,30/11/2021,12.44,13.31,CMAC
+962,CMAC Tacna,31/12/2021,11.99,9.75,CMAC
+963,CMAC Tacna,31/01/2022,12.18,10.79,CMAC
+964,CMAC Tacna,28/02/2022,12.16,11.4,CMAC
+965,CMAC Tacna,31/03/2022,12.0,10.57,CMAC
+966,CMAC Tacna,30/04/2022,11.95,10.77,CMAC
+967,CMAC Tacna,31/05/2022,11.95,10.82,CMAC
+968,CMAC Tacna,30/06/2022,11.9,9.95,CMAC
+969,CMAC Tacna,31/07/2022,11.88,10.28,CMAC
+970,CMAC Tacna,31/08/2022,11.73,10.44,CMAC
+971,CMAC Tacna,30/09/2022,11.42,9.66,CMAC
+0,Banco Cencosud,31/01/2016,22.86,4.98,CRAC
+1,Banco Cencosud,29/02/2016,22.14,4.56,CRAC
+2,Banco Cencosud,31/03/2016,22.05,4.5,CRAC
+3,Banco Cencosud,30/04/2016,21.6,4.98,CRAC
+4,Banco Cencosud,31/05/2016,20.66,5.62,CRAC
+5,Banco Cencosud,30/06/2016,19.76,5.3,CRAC
+6,Banco Cencosud,31/07/2016,19.96,5.8,CRAC
+7,Banco Cencosud,31/08/2016,20.87,5.76,CRAC
+8,Banco Cencosud,30/09/2016,20.65,5.85,CRAC
+9,Banco Cencosud,31/10/2016,20.48,5.67,CRAC
+10,Banco Cencosud,30/11/2016,20.6,5.14,CRAC
+11,Banco Cencosud,31/12/2016,19.96,5.61,CRAC
+12,Banco Cencosud,31/01/2017,20.68,5.81,CRAC
+13,Banco Cencosud,28/02/2017,21.2,5.36,CRAC
+14,Banco Cencosud,31/03/2017,21.37,5.33,CRAC
+15,Banco Cencosud,30/04/2017,22.3,5.83,CRAC
+16,Banco Cencosud,31/05/2017,22.28,6.41,CRAC
+17,Banco Cencosud,30/06/2017,20.74,5.77,CRAC
+18,Banco Cencosud,31/07/2017,19.88,5.7,CRAC
+19,Banco Cencosud,31/08/2017,20.15,5.02,CRAC
+20,Banco Cencosud,30/09/2017,19.28,4.57,CRAC
+21,Banco Cencosud,31/10/2017,18.79,4.19,CRAC
+22,Banco Cencosud,30/11/2017,17.92,3.77,CRAC
+23,Banco Cencosud,31/12/2017,16.57,4.05,CRAC
+24,Banco Cencosud,31/01/2018,16.43,4.34,CRAC
+25,Banco Cencosud,28/02/2018,16.24,4.39,CRAC
+26,Banco Cencosud,31/03/2018,17.09,4.86,CRAC
+27,Banco Cencosud,30/04/2018,16.5,5.61,CRAC
+28,Banco Cencosud,31/05/2018,17.25,6.4,CRAC
+29,Banco Cencosud,30/06/2018,16.91,6.21,CRAC
+30,Banco Cencosud,31/07/2018,16.89,6.43,CRAC
+31,Banco Cencosud,31/08/2018,16.77,6.19,CRAC
+32,Banco Cencosud,30/09/2018,16.36,6.0,CRAC
+33,Banco Cencosud,31/10/2018,16.05,5.7,CRAC
+34,Banco Cencosud,30/11/2018,15.51,5.25,CRAC
+35,Banco Cencosud,31/12/2018,16.37,5.68,CRAC
+36,Banco Cencosud,31/01/2019,16.45,5.77,CRAC
+37,Banco Cencosud,28/02/2019,16.47,5.34,CRAC
+38,CRAC CAT,31/03/2019,16.32,5.02,CRAC
+39,CRAC CAT,30/04/2019,16.22,5.19,CRAC
+40,CRAC CAT,31/05/2019,16.18,5.64,CRAC
+41,CRAC CAT,30/06/2019,16.85,5.14,CRAC
+42,CRAC CAT,31/07/2019,16.97,5.1,CRAC
+43,CRAC CAT,31/08/2019,16.83,5.01,CRAC
+44,CRAC CAT,30/09/2019,16.88,4.82,CRAC
+45,CRAC CAT,31/10/2019,16.45,4.54,CRAC
+46,CRAC CAT,30/11/2019,16.36,4.17,CRAC
+47,CRAC CAT,31/12/2019,17.11,4.66,CRAC
+48,CRAC CAT,31/01/2020,15.49,4.86,CRAC
+49,CRAC CAT,29/02/2020,15.46,4.44,CRAC
+50,CRAC CAT,31/03/2020,15.87,4.51,CRAC
+51,CRAC CAT,30/04/2020,16.3,4.15,CRAC
+52,CRAC CAT,31/05/2020,16.27,4.23,CRAC
+53,CRAC CAT,30/06/2020,16.09,4.4,CRAC
+54,CRAC Cencosud Scotia,31/07/2020,16.08,4.62,CRAC
+55,CRAC Cencosud Scotia,31/08/2020,15.54,5.2,CRAC
+56,CRAC Cencosud Scotia,30/09/2020,15.32,6.11,CRAC
+57,CRAC Cencosud Scotia,31/10/2020,15.27,6.0,CRAC
+58,CRAC Cencosud Scotia,30/11/2020,15.16,6.0,CRAC
+59,CRAC Cencosud Scotia,31/12/2020,15.26,7.73,CRAC
+60,CRAC Cencosud Scotia,31/01/2021,16.32,12.83,CRAC
+61,CRAC Cencosud Scotia,28/02/2021,16.45,18.93,CRAC
+62,CRAC Cencosud Scotia,31/03/2021,15.62,19.94,CRAC
+63,CRAC Cencosud Scotia,30/04/2021,19.07,15.05,CRAC
+64,CRAC Cencosud Scotia,31/05/2021,19.64,9.44,CRAC
+65,CRAC Cencosud Scotia,30/06/2021,19.94,6.78,CRAC
+66,CRAC Cencosud Scotia,31/07/2021,18.18,6.35,CRAC
+67,CRAC Cencosud Scotia,31/08/2021,18.69,5.51,CRAC
+68,CRAC Cencosud Scotia,30/09/2021,19.29,4.9,CRAC
+69,CRAC Cencosud Scotia,31/10/2021,19.15,3.58,CRAC
+70,CRAC Cencosud Scotia,30/11/2021,18.68,2.82,CRAC
+71,CRAC Cencosud Scotia,31/12/2021,18.11,2.87,CRAC
+72,CRAC Cencosud Scotia,31/01/2022,14.93,3.05,CRAC
+73,CRAC Cencosud Scotia,28/02/2022,14.46,3.08,CRAC
+74,CRAC Cencosud Scotia,31/03/2022,14.67,3.15,CRAC
+75,CRAC Cencosud Scotia,30/04/2022,14.44,3.44,CRAC
+76,CRAC Cencosud Scotia,31/05/2022,14.89,3.83,CRAC
+77,CRAC Cencosud Scotia,30/06/2022,15.25,3.57,CRAC
+78,CRAC Cencosud Scotia,31/07/2022,15.45,3.74,CRAC
+79,CRAC Cencosud Scotia,31/08/2022,15.41,3.76,CRAC
+80,CRAC Cencosud Scotia,30/09/2022,15.41,3.78,CRAC
+81,CRAC Chavín,31/01/2016,10.39,15.07,CRAC
+82,CRAC Chavín,29/02/2016,10.6,15.6,CRAC
+83,CRAC Chavín,31/03/2016,10.6,15.6,CRAC
+84,CRAC Chavín,30/04/2016,10.6,15.6,CRAC
+85,CRAC Raíz,31/05/2016,21.39,5.33,CRAC
+86,CRAC Raíz,30/06/2016,20.78,5.34,CRAC
+87,CRAC Raíz,31/07/2016,19.18,5.05,CRAC
+88,CRAC Raíz,31/08/2016,19.22,5.1,CRAC
+89,CRAC Raíz,30/09/2016,18.46,5.11,CRAC
+90,CRAC Raíz,31/10/2016,17.76,5.14,CRAC
+91,CRAC Raíz,30/11/2016,17.57,4.41,CRAC
+92,CRAC Raíz,31/12/2016,16.97,4.21,CRAC
+93,CRAC Raíz,31/01/2017,16.97,4.4,CRAC
+94,CRAC Raíz,28/02/2017,17.23,4.43,CRAC
+95,CRAC Raíz,31/03/2017,16.38,4.38,CRAC
+96,CRAC Raíz,30/04/2017,15.64,4.29,CRAC
+97,CRAC Raíz,31/05/2017,15.99,4.3,CRAC
+98,CRAC Raíz,30/06/2017,16.22,4.46,CRAC
+99,CRAC Raíz,31/07/2017,15.6,3.33,CRAC
+100,CRAC Raíz,31/08/2017,14.92,3.39,CRAC
+101,CRAC Raíz,30/09/2017,15.24,3.47,CRAC
+102,CRAC Raíz,31/10/2017,15.19,3.67,CRAC
+103,CRAC Raíz,30/11/2017,14.65,3.82,CRAC
+104,CRAC Raíz,31/12/2017,14.12,3.29,CRAC
+105,CRAC Raíz,31/01/2018,13.5,2.3,CRAC
+106,CRAC Raíz,28/02/2018,13.55,2.51,CRAC
+107,CRAC Raíz,31/03/2018,13.88,2.73,CRAC
+108,CRAC Raíz,30/04/2018,13.74,2.77,CRAC
+109,CRAC Raíz,31/05/2018,13.95,3.03,CRAC
+110,CRAC Raíz,30/06/2018,14.18,3.35,CRAC
+111,CRAC Raíz,31/07/2018,14.73,3.61,CRAC
+112,CRAC Raíz,31/08/2018,14.98,4.5,CRAC
+113,CRAC Raíz,30/09/2018,14.18,4.5,CRAC
+114,CRAC Raíz,31/10/2018,14.32,4.69,CRAC
+115,CRAC Raíz,30/11/2018,14.21,6.12,CRAC
+116,CRAC Raíz,31/12/2018,14.08,7.39,CRAC
+117,CRAC Raíz,31/01/2019,14.18,5.78,CRAC
+118,CRAC Raíz,28/02/2019,14.2,6.37,CRAC
+119,CRAC Raíz,31/03/2019,14.25,6.6,CRAC
+120,CRAC Raíz,30/04/2019,14.49,5.94,CRAC
+121,CRAC Raíz,31/05/2019,15.0,6.03,CRAC
+122,CRAC Raíz,30/06/2019,14.95,6.4,CRAC
+123,CRAC Raíz,31/07/2019,14.99,6.62,CRAC
+124,CRAC Raíz,31/08/2019,15.03,7.27,CRAC
+125,CRAC Raíz,30/09/2019,14.86,7.24,CRAC
+126,CRAC Raíz,31/10/2019,14.75,7.17,CRAC
+127,CRAC Raíz,30/11/2019,14.72,7.02,CRAC
+128,CRAC Raíz,31/12/2019,14.32,6.94,CRAC
+129,CRAC Raíz,31/01/2020,14.25,7.51,CRAC
+130,CRAC Raíz,29/02/2020,14.16,8.38,CRAC
+131,CRAC Raíz,31/03/2020,14.35,7.02,CRAC
+132,CRAC Raíz,30/04/2020,14.65,7.06,CRAC
+133,CRAC Raíz,31/05/2020,14.77,6.99,CRAC
+134,CRAC Raíz,30/06/2020,14.69,6.75,CRAC
+135,CRAC Raíz,31/07/2020,15.04,5.86,CRAC
+136,CRAC Raíz,31/08/2020,16.2,4.6,CRAC
+137,CRAC Raíz,30/09/2020,15.7,4.25,CRAC
+138,CRAC Raíz,31/10/2020,15.31,3.81,CRAC
+139,CRAC Raíz,30/11/2020,15.62,3.92,CRAC
+140,CRAC Raíz,31/12/2020,15.31,4.15,CRAC
+141,CRAC Raíz,31/01/2021,14.89,4.85,CRAC
+142,CRAC Raíz,28/02/2021,15.07,4.72,CRAC
+143,CRAC Raíz,31/03/2021,14.79,4.39,CRAC
+144,CRAC Raíz,30/04/2021,14.71,4.14,CRAC
+145,CRAC Raíz,31/05/2021,14.58,4.82,CRAC
+146,CRAC Raíz,30/06/2021,14.6,5.16,CRAC
+147,CRAC Raíz,31/07/2021,15.07,5.14,CRAC
+148,CRAC Raíz,31/08/2021,14.89,5.05,CRAC
+149,CRAC Raíz,30/09/2021,14.2,5.43,CRAC
+150,CRAC Raíz,31/10/2021,13.83,6.74,CRAC
+151,CRAC Raíz,30/11/2021,13.35,7.37,CRAC
+152,CRAC Raíz,31/12/2021,12.14,8.42,CRAC
+153,CRAC Raíz,31/01/2022,11.85,10.51,CRAC
+154,CRAC Raíz,28/02/2022,11.44,10.62,CRAC
+155,CRAC Raíz,31/03/2022,11.57,11.59,CRAC
+156,CRAC Raíz,30/04/2022,11.16,12.61,CRAC
+157,CRAC Raíz,31/05/2022,11.06,12.73,CRAC
+158,CRAC Raíz,30/06/2022,10.95,12.99,CRAC
+159,CRAC Raíz,31/07/2022,10.38,13.59,CRAC
+160,CRAC Raíz,31/08/2022,11.0,15.06,CRAC
+161,CRAC Raíz,30/09/2022,10.18,16.0,CRAC
+162,CRAC Sipán,31/01/2016,13.48,6.91,CRAC
+163,CRAC Sipán,29/02/2016,13.27,7.52,CRAC
+164,CRAC Sipán,31/03/2016,12.77,7.4,CRAC
+165,CRAC Sipán,30/04/2016,12.35,7.87,CRAC
+166,CRAC Sipán,31/05/2016,12.11,8.3,CRAC
+167,CRAC Sipán,30/06/2016,11.5,7.3,CRAC
+168,CRAC Sipán,31/07/2016,11.5,7.84,CRAC
+169,CRAC Sipán,31/08/2016,10.9,8.93,CRAC
+170,CRAC Sipán,30/09/2016,10.26,7.52,CRAC
+171,CRAC Sipán,31/10/2016,14.94,7.61,CRAC
+172,CRAC Sipán,30/11/2016,13.97,7.77,CRAC
+173,CRAC Sipán,31/12/2016,13.93,4.94,CRAC
+174,CRAC Sipán,31/01/2017,13.38,5.36,CRAC
+175,CRAC Sipán,28/02/2017,12.21,5.67,CRAC
+176,CRAC Sipán,31/03/2017,11.74,5.16,CRAC
+177,CRAC Sipán,30/04/2017,11.19,5.34,CRAC
+178,CRAC Sipán,31/05/2017,10.93,5.55,CRAC
+179,CRAC Sipán,30/06/2017,10.53,5.02,CRAC
+180,CRAC Sipán,31/07/2017,10.31,5.63,CRAC
+181,CRAC Sipán,31/08/2017,10.02,5.65,CRAC
+182,CRAC Sipán,30/09/2017,9.58,5.15,CRAC
+183,CRAC Sipán,31/10/2017,12.67,5.36,CRAC
+184,CRAC Sipán,30/11/2017,12.04,5.56,CRAC
+185,CRAC Sipán,31/12/2017,11.12,4.89,CRAC
+186,CRAC Sipán,31/01/2018,11.45,5.55,CRAC
+187,CRAC Sipán,28/02/2018,11.41,6.37,CRAC
+188,CRAC Sipán,31/03/2018,11.16,6.25,CRAC
+189,CRAC Sipán,30/04/2018,11.15,6.61,CRAC
+190,CRAC Sipán,31/05/2018,11.09,7.06,CRAC
+191,CRAC Sipán,30/06/2018,11.05,7.11,CRAC
+192,CRAC Sipán,31/07/2018,12.12,7.44,CRAC
+193,CRAC Sipán,31/08/2018,11.94,7.96,CRAC
+194,CRAC Sipán,30/09/2018,11.45,8.27,CRAC
+195,CRAC Sipán,31/10/2018,10.76,8.75,CRAC
+196,CRAC Sipán,30/11/2018,10.1,9.07,CRAC
+197,CRAC Sipán,31/12/2018,10.18,8.59,CRAC
+198,CRAC Sipán,31/01/2019,10.26,9.23,CRAC
+199,CRAC Sipán,28/02/2019,10.07,10.18,CRAC
+200,CRAC Sipán,31/03/2019,10.42,11.75,CRAC
+201,CRAC Sipán,30/04/2019,12.78,12.86,CRAC
+202,CRAC Sipán,31/05/2019,12.54,14.39,CRAC
+203,CRAC Sipán,30/06/2019,11.98,16.62,CRAC
+204,CRAC Sipán,31/07/2019,11.7,18.6,CRAC
+205,CRAC Sipán,31/08/2019,11.32,20.64,CRAC
+206,CRAC Sipán,30/09/2019,11.05,23.16,CRAC
+207,CRAC Sipán,31/10/2019,12.04,26.2,CRAC
+208,CRAC Sipán,30/11/2019,12.56,28.77,CRAC
+209,CRAC Sipán,31/12/2019,13.52,31.68,CRAC
+210,CRAC Sipán,31/01/2020,15.42,36.1,CRAC
+211,CRAC Sipán,29/02/2020,17.71,40.97,CRAC
+212,CRAC Sipán,31/03/2020,18.46,43.4,CRAC
+213,CRAC Sipán,30/04/2020,19.96,44.41,CRAC
+214,CRAC Sipán,31/05/2020,20.0,45.42,CRAC
+215,CRAC Sipán,30/06/2020,20.09,46.82,CRAC
+216,CRAC Sipán,31/07/2020,20.61,48.31,CRAC
+217,CRAC Sipán,31/08/2020,21.38,50.41,CRAC
+218,CRAC Sipán,30/09/2020,20.44,54.07,CRAC
+219,CRAC Sipán,31/10/2020,19.14,55.98,CRAC
+220,CRAC Sipán,30/11/2020,18.1,57.12,CRAC
+221,CRAC Sipán,31/12/2020,17.08,57.62,CRAC
+222,CRAC Sipán,31/01/2021,15.99,58.16,CRAC
+223,CRAC Sipán,28/02/2021,17.11,59.22,CRAC
+224,CRAC Sipán,31/03/2021,18.14,61.31,CRAC
+225,CRAC Sipán,30/04/2021,13.39,68.8,CRAC
+226,CRAC Sipán,31/05/2021,5.66,77.69,CRAC
+227,CRAC Sipán,30/06/2021,11.58,82.96,CRAC
+228,CRAC Sipán,31/07/2021,12.03,87.04,CRAC
+229,CRAC Sipán,31/08/2021,65.55,89.89,CRAC
+230,CRAC Los Andes,31/01/2016,15.44,7.4,CRAC
+231,CRAC Los Andes,29/02/2016,15.34,7.5,CRAC
+232,CRAC Los Andes,31/03/2016,14.99,7.22,CRAC
+233,CRAC Los Andes,30/04/2016,14.91,7.09,CRAC
+234,CRAC Los Andes,31/05/2016,14.39,7.05,CRAC
+235,CRAC Los Andes,30/06/2016,14.09,6.48,CRAC
+236,CRAC Los Andes,31/07/2016,13.8,6.51,CRAC
+237,CRAC Los Andes,31/08/2016,15.52,6.4,CRAC
+238,CRAC Los Andes,30/09/2016,16.02,6.34,CRAC
+239,CRAC Los Andes,31/10/2016,15.14,6.39,CRAC
+240,CRAC Los Andes,30/11/2016,14.66,6.27,CRAC
+241,CRAC Los Andes,31/12/2016,14.7,5.32,CRAC
+242,CRAC Los Andes,31/01/2017,14.41,5.65,CRAC
+243,CRAC Los Andes,28/02/2017,14.09,5.7,CRAC
+244,CRAC Los Andes,31/03/2017,13.71,5.18,CRAC
+245,CRAC Los Andes,30/04/2017,13.33,5.0,CRAC
+246,CRAC Los Andes,31/05/2017,12.77,4.74,CRAC
+247,CRAC Los Andes,30/06/2017,14.54,6.75,CRAC
+248,CRAC Los Andes,31/07/2017,13.99,6.66,CRAC
+249,CRAC Los Andes,31/08/2017,13.72,6.72,CRAC
+250,CRAC Los Andes,30/09/2017,13.44,6.51,CRAC
+251,CRAC Los Andes,31/10/2017,13.31,6.63,CRAC
+252,CRAC Los Andes,30/11/2017,13.06,6.52,CRAC
+253,CRAC Los Andes,31/12/2017,13.06,5.69,CRAC
+254,CRAC Los Andes,31/01/2018,13.22,6.06,CRAC
+255,CRAC Los Andes,28/02/2018,13.17,6.23,CRAC
+256,CRAC Los Andes,31/03/2018,13.27,5.95,CRAC
+257,CRAC Los Andes,30/04/2018,13.14,6.13,CRAC
+258,CRAC Los Andes,31/05/2018,12.98,6.5,CRAC
+259,CRAC Los Andes,30/06/2018,13.12,6.14,CRAC
+260,CRAC Los Andes,31/07/2018,13.02,6.49,CRAC
+261,CRAC Los Andes,31/08/2018,12.93,6.56,CRAC
+262,CRAC Los Andes,30/09/2018,12.95,6.82,CRAC
+263,CRAC Los Andes,31/10/2018,12.52,7.15,CRAC
+264,CRAC Los Andes,30/11/2018,12.41,7.3,CRAC
+265,CRAC Los Andes,31/12/2018,12.5,6.77,CRAC
+266,CRAC Los Andes,31/01/2019,12.32,7.65,CRAC
+267,CRAC Los Andes,28/02/2019,12.31,8.48,CRAC
+268,CRAC Los Andes,31/03/2019,12.19,8.53,CRAC
+269,CRAC Los Andes,30/04/2019,12.08,9.38,CRAC
+270,CRAC Los Andes,31/05/2019,12.01,9.79,CRAC
+271,CRAC Los Andes,30/06/2019,12.02,10.02,CRAC
+272,CRAC Los Andes,31/07/2019,12.31,11.29,CRAC
+273,CRAC Los Andes,31/08/2019,12.25,11.93,CRAC
+274,CRAC Los Andes,30/09/2019,18.68,12.94,CRAC
+275,CRAC Los Andes,31/10/2019,18.2,15.14,CRAC
+276,CRAC Los Andes,30/11/2019,18.29,16.26,CRAC
+277,CRAC Los Andes,31/12/2019,18.08,15.46,CRAC
+278,CRAC Los Andes,31/01/2020,17.92,16.55,CRAC
+279,CRAC Los Andes,29/02/2020,17.71,17.49,CRAC
+280,CRAC Los Andes,31/03/2020,18.59,18.04,CRAC
+281,CRAC Los Andes,30/04/2020,19.48,18.57,CRAC
+282,CRAC Los Andes,31/05/2020,19.89,18.92,CRAC
+283,CRAC Los Andes,30/06/2020,19.38,18.11,CRAC
+284,CRAC Los Andes,31/07/2020,19.16,18.09,CRAC
+285,CRAC Los Andes,31/08/2020,19.28,19.14,CRAC
+286,CRAC Los Andes,30/09/2020,19.09,21.85,CRAC
+287,CRAC Los Andes,31/10/2020,19.24,24.35,CRAC
+288,CRAC Los Andes,30/11/2020,18.83,19.33,CRAC
+289,CRAC Los Andes,31/12/2020,17.13,20.09,CRAC
+290,CRAC Los Andes,31/01/2021,15.89,21.08,CRAC
+291,CRAC Los Andes,28/02/2021,14.95,22.4,CRAC
+292,CRAC Los Andes,31/03/2021,14.86,22.49,CRAC
+293,CRAC Los Andes,30/04/2021,14.73,22.37,CRAC
+294,CRAC Los Andes,31/05/2021,14.57,22.49,CRAC
+295,CRAC Los Andes,30/06/2021,14.4,19.25,CRAC
+296,CRAC Los Andes,31/07/2021,14.05,18.55,CRAC
+297,CRAC Los Andes,31/08/2021,13.65,18.09,CRAC
+298,CRAC Los Andes,30/09/2021,13.36,16.78,CRAC
+299,CRAC Los Andes,31/10/2021,13.24,16.53,CRAC
+300,CRAC Los Andes,30/11/2021,11.52,15.35,CRAC
+301,CRAC Los Andes,31/12/2021,11.12,12.67,CRAC
+302,CRAC Los Andes,31/01/2022,11.02,12.92,CRAC
+303,CRAC Los Andes,28/02/2022,10.72,12.89,CRAC
+304,CRAC Los Andes,31/03/2022,10.61,12.69,CRAC
+305,CRAC Los Andes,30/04/2022,10.68,13.13,CRAC
+306,CRAC Los Andes,31/05/2022,10.64,13.57,CRAC
+307,CRAC Los Andes,30/06/2022,10.53,12.16,CRAC
+308,CRAC Los Andes,31/07/2022,10.44,12.35,CRAC
+309,CRAC Los Andes,31/08/2022,10.46,8.91,CRAC
+310,CRAC Los Andes,30/09/2022,10.28,8.99,CRAC
+311,CRAC Prymera,31/01/2016,15.36,8.23,CRAC
+312,CRAC Prymera,29/02/2016,15.32,8.36,CRAC
+313,CRAC Prymera,31/03/2016,15.59,8.86,CRAC
+314,CRAC Prymera,30/04/2016,15.2,8.89,CRAC
+315,CRAC Prymera,31/05/2016,15.02,8.9,CRAC
+316,CRAC Prymera,30/06/2016,14.6,9.16,CRAC
+317,CRAC Prymera,31/07/2016,14.49,9.29,CRAC
+318,CRAC Prymera,31/08/2016,14.11,9.32,CRAC
+319,CRAC Prymera,30/09/2016,14.1,9.56,CRAC
+320,CRAC Prymera,31/10/2016,13.73,9.8,CRAC
+321,CRAC Prymera,30/11/2016,13.43,9.74,CRAC
+322,CRAC Prymera,31/12/2016,13.77,9.57,CRAC
+323,CRAC Prymera,31/01/2017,12.89,6.33,CRAC
+324,CRAC Prymera,28/02/2017,12.76,6.98,CRAC
+325,CRAC Prymera,31/03/2017,12.69,7.52,CRAC
+326,CRAC Prymera,30/04/2017,13.66,8.01,CRAC
+327,CRAC Prymera,31/05/2017,15.03,6.03,CRAC
+328,CRAC Prymera,30/06/2017,14.74,6.25,CRAC
+329,CRAC Prymera,31/07/2017,14.69,6.58,CRAC
+330,CRAC Prymera,31/08/2017,14.75,6.98,CRAC
+331,CRAC Prymera,30/09/2017,14.27,7.24,CRAC
+332,CRAC Prymera,31/10/2017,13.72,7.4,CRAC
+333,CRAC Prymera,30/11/2017,13.3,7.87,CRAC
+334,CRAC Prymera,31/12/2017,12.71,7.6,CRAC
+335,CRAC Prymera,31/01/2018,14.49,8.14,CRAC
+336,CRAC Prymera,28/02/2018,14.04,7.79,CRAC
+337,CRAC Prymera,31/03/2018,13.35,8.23,CRAC
+338,CRAC Prymera,30/04/2018,14.54,8.04,CRAC
+339,CRAC Prymera,31/05/2018,14.81,7.8,CRAC
+340,CRAC Prymera,30/06/2018,14.52,7.51,CRAC
+341,CRAC Prymera,31/07/2018,15.34,8.42,CRAC
+342,CRAC Prymera,31/08/2018,14.79,7.72,CRAC
+343,CRAC Prymera,30/09/2018,14.37,9.56,CRAC
+344,CRAC Prymera,31/10/2018,14.01,10.16,CRAC
+345,CRAC Prymera,30/11/2018,13.95,7.43,CRAC
+346,CRAC Prymera,31/12/2018,14.04,5.87,CRAC
+347,CRAC Prymera,31/01/2019,12.9,7.08,CRAC
+348,CRAC Prymera,28/02/2019,14.26,7.07,CRAC
+349,CRAC Prymera,31/03/2019,14.3,9.03,CRAC
+350,CRAC Prymera,30/04/2019,14.33,7.84,CRAC
+351,CRAC Prymera,31/05/2019,14.04,6.58,CRAC
+352,CRAC Prymera,30/06/2019,13.41,6.35,CRAC
+353,CRAC Prymera,31/07/2019,13.13,5.65,CRAC
+354,CRAC Prymera,31/08/2019,12.73,5.12,CRAC
+355,CRAC Prymera,30/09/2019,13.75,5.13,CRAC
+356,CRAC Prymera,31/10/2019,14.01,4.03,CRAC
+357,CRAC Prymera,30/11/2019,13.62,4.55,CRAC
+358,CRAC Prymera,31/12/2019,14.36,4.48,CRAC
+359,CRAC Prymera,31/01/2020,13.87,6.08,CRAC
+360,CRAC Prymera,29/02/2020,13.83,5.6,CRAC
+361,CRAC Prymera,31/03/2020,14.2,5.7,CRAC
+362,CRAC Prymera,30/04/2020,14.01,5.32,CRAC
+363,CRAC Prymera,31/05/2020,13.76,4.7,CRAC
+364,CRAC Prymera,30/06/2020,13.64,4.22,CRAC
+365,CRAC Prymera,31/07/2020,13.62,3.75,CRAC
+366,CRAC Prymera,31/08/2020,13.41,3.35,CRAC
+367,CRAC Prymera,30/09/2020,13.33,3.71,CRAC
+368,CRAC Prymera,31/10/2020,12.99,3.73,CRAC
+369,CRAC Prymera,30/11/2020,12.42,3.28,CRAC
+370,CRAC Prymera,31/12/2020,11.99,3.18,CRAC
+371,CRAC Prymera,31/01/2021,11.81,3.48,CRAC
+372,CRAC Prymera,28/02/2021,11.95,3.8,CRAC
+373,CRAC Prymera,31/03/2021,12.07,7.0,CRAC
+374,CRAC Prymera,30/04/2021,11.8,7.82,CRAC
+375,CRAC Prymera,31/05/2021,11.33,7.11,CRAC
+376,CRAC Prymera,30/06/2021,10.27,6.85,CRAC
+377,CRAC Prymera,31/07/2021,9.5,6.79,CRAC
+378,CRAC Prymera,31/08/2021,9.5,6.4,CRAC
+379,CRAC Prymera,30/09/2021,9.16,6.23,CRAC
+380,CRAC Prymera,31/10/2021,8.96,6.65,CRAC
+381,CRAC Prymera,30/11/2021,9.23,6.72,CRAC
+382,CRAC Prymera,31/12/2021,9.33,7.06,CRAC
+383,CRAC Prymera,31/01/2022,9.1,7.53,CRAC
+384,CRAC Prymera,28/02/2022,9.24,7.4,CRAC
+385,CRAC Prymera,31/03/2022,9.26,6.97,CRAC
+386,CRAC Prymera,30/04/2022,10.36,7.07,CRAC
+387,CRAC Prymera,31/05/2022,10.32,7.43,CRAC
+388,CRAC Prymera,30/06/2022,10.4,7.79,CRAC
+389,CRAC Prymera,31/07/2022,10.37,7.64,CRAC
+390,CRAC Prymera,31/08/2022,10.38,7.96,CRAC
+391,CRAC Prymera,30/09/2022,10.37,8.43,CRAC
+392,CRAC Incasur,31/01/2016,14.82,7.19,CRAC
+393,CRAC Incasur,29/02/2016,14.85,7.2,CRAC
+394,CRAC Incasur,31/03/2016,14.02,7.56,CRAC
+395,CRAC Incasur,30/04/2016,14.71,7.34,CRAC
+396,CRAC Incasur,31/05/2016,14.64,7.99,CRAC
+397,CRAC Incasur,30/06/2016,14.62,7.04,CRAC
+398,CRAC Incasur,31/07/2016,14.1,7.17,CRAC
+399,CRAC Incasur,31/08/2016,14.39,6.73,CRAC
+400,CRAC Incasur,30/09/2016,14.04,6.04,CRAC
+401,CRAC Incasur,31/10/2016,13.9,6.71,CRAC
+402,CRAC Incasur,30/11/2016,13.21,5.43,CRAC
+403,CRAC Incasur,31/12/2016,13.18,5.34,CRAC
+404,CRAC Incasur,31/01/2017,14.12,5.41,CRAC
+405,CRAC Incasur,28/02/2017,14.0,5.7,CRAC
+406,CRAC Incasur,31/03/2017,13.28,5.32,CRAC
+407,CRAC Incasur,30/04/2017,13.59,6.19,CRAC
+408,CRAC Incasur,31/05/2017,13.32,5.68,CRAC
+409,CRAC Incasur,30/06/2017,13.12,5.16,CRAC
+410,CRAC Incasur,31/07/2017,12.63,5.42,CRAC
+411,CRAC Incasur,31/08/2017,12.58,5.72,CRAC
+412,CRAC Incasur,30/09/2017,12.83,5.62,CRAC
+413,CRAC Incasur,31/10/2017,12.79,5.46,CRAC
+414,CRAC Incasur,30/11/2017,12.82,5.57,CRAC
+415,CRAC Incasur,31/12/2017,13.2,5.5,CRAC
+416,CRAC Incasur,31/01/2018,14.68,5.83,CRAC
+417,CRAC Incasur,28/02/2018,14.41,6.24,CRAC
+418,CRAC Incasur,31/03/2018,14.23,6.46,CRAC
+419,CRAC Incasur,30/04/2018,14.45,4.39,CRAC
+420,CRAC Incasur,31/05/2018,14.21,5.17,CRAC
+421,CRAC Incasur,30/06/2018,14.28,5.59,CRAC
+422,CRAC Incasur,31/07/2018,14.48,6.37,CRAC
+423,CRAC Incasur,31/08/2018,14.14,5.7,CRAC
+424,CRAC Incasur,30/09/2018,14.17,5.97,CRAC
+425,CRAC Incasur,31/10/2018,14.33,6.93,CRAC
+426,CRAC Incasur,30/11/2018,14.23,7.14,CRAC
+427,CRAC Incasur,31/12/2018,14.59,7.25,CRAC
+428,CRAC Incasur,31/01/2019,14.91,6.6,CRAC
+429,CRAC Incasur,28/02/2019,15.06,6.5,CRAC
+430,CRAC Incasur,31/03/2019,15.09,7.01,CRAC
+431,CRAC Incasur,30/04/2019,14.9,7.31,CRAC
+432,CRAC Incasur,31/05/2019,14.48,7.04,CRAC
+433,CRAC Incasur,30/06/2019,14.38,9.51,CRAC
+434,CRAC Incasur,31/07/2019,15.35,8.21,CRAC
+435,CRAC Incasur,31/08/2019,14.51,9.6,CRAC
+436,CRAC Incasur,30/09/2019,14.32,9.88,CRAC
+437,CRAC Incasur,31/10/2019,14.12,10.1,CRAC
+438,CRAC Incasur,30/11/2019,13.67,10.43,CRAC
+439,CRAC Incasur,31/12/2019,14.5,9.0,CRAC
+440,CRAC Incasur,31/01/2020,14.01,9.53,CRAC
+441,CRAC Incasur,29/02/2020,13.84,10.19,CRAC
+442,CRAC Incasur,31/03/2020,12.83,13.23,CRAC
+443,CRAC Incasur,30/04/2020,13.11,13.54,CRAC
+444,CRAC Incasur,31/05/2020,13.41,12.81,CRAC
+445,CRAC Incasur,30/06/2020,14.79,12.54,CRAC
+446,CRAC Incasur,31/07/2020,14.74,10.32,CRAC
+447,CRAC Incasur,31/08/2020,14.63,11.2,CRAC
+448,CRAC Incasur,30/09/2020,14.52,11.87,CRAC
+449,CRAC Incasur,31/10/2020,13.78,12.34,CRAC
+450,CRAC Incasur,30/11/2020,14.67,11.3,CRAC
+451,CRAC Incasur,31/12/2020,12.87,11.65,CRAC
+452,CRAC Incasur,31/01/2021,13.27,11.16,CRAC
+453,CRAC Incasur,28/02/2021,14.02,11.24,CRAC
+454,CRAC Incasur,31/03/2021,13.75,12.26,CRAC
+455,CRAC Incasur,30/04/2021,12.21,14.21,CRAC
+456,CRAC Incasur,31/05/2021,11.51,14.81,CRAC
+457,CRAC Incasur,30/06/2021,11.88,15.22,CRAC
+458,CRAC Incasur,31/07/2021,11.01,16.24,CRAC
+459,CRAC Incasur,31/08/2021,13.68,15.32,CRAC
+460,CRAC Incasur,30/09/2021,13.56,16.0,CRAC
+461,CRAC Incasur,31/10/2021,13.17,18.0,CRAC
+462,CRAC Incasur,30/11/2021,13.12,17.33,CRAC
+463,CRAC Incasur,31/12/2021,12.78,14.91,CRAC
+464,CRAC Incasur,31/01/2022,11.87,16.18,CRAC
+465,CRAC Incasur,28/02/2022,11.97,16.1,CRAC
+466,CRAC Incasur,31/03/2022,11.94,16.17,CRAC
+467,CRAC Incasur,30/04/2022,11.68,16.2,CRAC
+468,CRAC Incasur,31/05/2022,11.92,16.83,CRAC
+469,CRAC Incasur,30/06/2022,11.8,18.36,CRAC
+470,CRAC Incasur,31/07/2022,12.14,16.48,CRAC
+471,CRAC Incasur,31/08/2022,11.75,16.07,CRAC
+472,CRAC Incasur,30/09/2022,12.55,13.65,CRAC
+473,CRAC Del Centro,31/01/2016,27.05,4.22,CRAC
+474,CRAC Del Centro,29/02/2016,27.21,4.19,CRAC
+475,CRAC Del Centro,31/03/2016,23.59,4.3,CRAC
+476,CRAC Del Centro,30/04/2016,22.68,4.5,CRAC
+477,CRAC Del Centro,31/05/2016,19.47,4.1,CRAC
+478,CRAC Del Centro,30/06/2016,18.95,4.04,CRAC
+479,CRAC Del Centro,31/07/2016,15.7,3.81,CRAC
+480,CRAC Del Centro,31/08/2016,15.49,3.61,CRAC
+481,CRAC Del Centro,30/09/2016,13.54,3.38,CRAC
+482,CRAC Del Centro,31/10/2016,13.84,3.38,CRAC
+483,CRAC Del Centro,30/11/2016,13.28,3.17,CRAC
+484,CRAC Del Centro,31/12/2016,11.65,2.84,CRAC
+485,CRAC Del Centro,31/01/2017,12.16,3.06,CRAC
+486,CRAC Del Centro,28/02/2017,12.15,2.87,CRAC
+487,CRAC Del Centro,31/03/2017,13.54,2.91,CRAC
+488,CRAC Del Centro,30/04/2017,12.66,2.99,CRAC
+489,CRAC Del Centro,31/05/2017,12.61,3.02,CRAC
+490,CRAC Del Centro,30/06/2017,12.31,3.37,CRAC
+491,CRAC Del Centro,31/07/2017,12.37,2.94,CRAC
+492,CRAC Del Centro,31/08/2017,12.32,2.98,CRAC
+493,CRAC Del Centro,30/09/2017,12.83,3.03,CRAC
+494,CRAC Del Centro,31/10/2017,12.42,3.28,CRAC
+495,CRAC Del Centro,30/11/2017,12.16,3.13,CRAC
+496,CRAC Del Centro,31/12/2017,12.22,2.97,CRAC
+497,CRAC Del Centro,31/01/2018,12.24,3.47,CRAC
+498,CRAC Del Centro,28/02/2018,12.47,3.95,CRAC
+499,CRAC Del Centro,31/03/2018,12.84,3.66,CRAC
+500,CRAC Del Centro,30/04/2018,13.02,3.92,CRAC
+501,CRAC Del Centro,31/05/2018,13.22,4.34,CRAC
+502,CRAC Del Centro,30/06/2018,12.88,4.8,CRAC
+503,CRAC Del Centro,31/07/2018,14.19,4.87,CRAC
+504,CRAC Del Centro,31/08/2018,14.06,4.97,CRAC
+505,CRAC Del Centro,30/09/2018,14.04,3.85,CRAC
+506,CRAC Del Centro,31/10/2018,14.01,3.9,CRAC
+507,CRAC Del Centro,30/11/2018,13.96,4.06,CRAC
+508,CRAC Del Centro,31/12/2018,14.02,2.97,CRAC
+509,CRAC Del Centro,31/01/2019,14.08,3.3,CRAC
+510,CRAC Del Centro,28/02/2019,14.16,3.55,CRAC
+511,CRAC Del Centro,31/03/2019,14.4,3.68,CRAC
+512,CRAC Del Centro,30/04/2019,14.37,3.61,CRAC
+513,CRAC Del Centro,31/05/2019,14.24,3.5,CRAC
+514,CRAC Del Centro,30/06/2019,14.1,3.68,CRAC
+515,CRAC Del Centro,31/07/2019,14.37,3.6,CRAC
+516,CRAC Del Centro,31/08/2019,14.27,3.73,CRAC
+517,CRAC Del Centro,30/09/2019,14.28,3.92,CRAC
+518,CRAC Del Centro,31/10/2019,14.23,3.66,CRAC
+519,CRAC Del Centro,30/11/2019,14.04,3.7,CRAC
+520,CRAC Del Centro,31/12/2019,14.2,2.98,CRAC
+521,CRAC Del Centro,31/01/2020,14.03,3.69,CRAC
+522,CRAC Del Centro,29/02/2020,14.08,3.71,CRAC
+523,CRAC Del Centro,31/03/2020,14.39,3.71,CRAC
+524,CRAC Del Centro,30/04/2020,14.71,3.14,CRAC
+525,CRAC Del Centro,31/05/2020,14.67,3.11,CRAC
+526,CRAC Del Centro,30/06/2020,14.58,3.01,CRAC
+527,CRAC Del Centro,31/07/2020,14.55,3.06,CRAC
+528,CRAC Del Centro,31/08/2020,14.42,3.02,CRAC
+529,CRAC Del Centro,30/09/2020,14.21,3.02,CRAC
+530,CRAC Del Centro,31/10/2020,13.94,2.55,CRAC
+531,CRAC Del Centro,30/11/2020,14.11,2.64,CRAC
+532,CRAC Del Centro,31/12/2020,12.68,2.65,CRAC
+533,CRAC Del Centro,31/01/2021,12.72,3.01,CRAC
+534,CRAC Del Centro,28/02/2021,12.38,3.45,CRAC
+535,CRAC Del Centro,31/03/2021,12.03,3.18,CRAC
+536,CRAC Del Centro,30/04/2021,11.76,3.84,CRAC
+537,CRAC Del Centro,31/05/2021,11.2,3.98,CRAC
+538,CRAC Del Centro,30/06/2021,11.55,3.6,CRAC
+539,CRAC Del Centro,31/07/2021,11.11,3.9,CRAC
+540,CRAC Del Centro,31/08/2021,10.75,3.95,CRAC
+541,CRAC Del Centro,30/09/2021,10.57,4.4,CRAC
+542,CRAC Del Centro,31/10/2021,10.13,4.85,CRAC
+543,CRAC Del Centro,30/11/2021,9.68,4.51,CRAC
+544,CRAC Del Centro,31/12/2021,9.23,3.95,CRAC
+545,CRAC Del Centro,31/01/2022,9.27,5.26,CRAC
+546,CRAC Del Centro,28/02/2022,8.93,4.37,CRAC
+547,CRAC Del Centro,31/03/2022,8.74,4.94,CRAC
+548,CRAC Del Centro,30/04/2022,12.29,4.98,CRAC
+549,CRAC Del Centro,31/05/2022,11.93,4.9,CRAC
+550,CRAC Del Centro,30/06/2022,12.13,4.87,CRAC
+551,CRAC Del Centro,31/07/2022,11.93,5.46,CRAC
+552,CRAC Del Centro,31/08/2022,11.95,5.73,CRAC
+553,CRAC Del Centro,30/09/2022,11.94,4.98,CRAC
