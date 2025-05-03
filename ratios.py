@@ -52,7 +52,7 @@ plt.xticks(rotation=45)
 ax.axhline(10,c="r",ls="--",lw=1) ## Regulatory limit
 ax.annotate
 fig.tight_layout()
-fig.savefig("boxenplot_capital.png")
+fig.savefig("Images/boxenplot_capital.png")
 
 
 ##### Create the Default Ratio distribution graph
@@ -77,7 +77,7 @@ ax1.set_ylim(0,50)   # Limits the Y axis from 0 to 50%
 ax1.axhline(pct_def[0.95],c="r",ls="--",lw=1)
 plt.xticks(rotation=45)
 fig1.tight_layout()
-fig1.savefig("boxenplot_default.png")
+fig1.savefig("Images/boxenplot_default.png")
 
 
 ##### Chart of a single entity at risk
@@ -98,6 +98,6 @@ ax.set_ylabel("Default Ratio (%)")
 ax.grid(True)
 plt.xticks(rotation=45)
 fig2.tight_layout()
-fig2.savefig("entity_default.png")
+fig2.savefig("Images/entity_default.png")
 
 

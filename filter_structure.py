@@ -9,6 +9,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
+
 ######### Upload and clean the Excel file of Banks Balance Sheet  ###
 
 df = pd.read_excel("Input/B-2201-di2024.xlsx",index_col=0)
@@ -448,7 +449,7 @@ crac_final = crac_final.drop(columns=["_merge"])  # Remove  column
 
 
 ############## Add the data of the 4 Subsystems ######
-
+    
 dcombined=pd.concat([banks_final,financial_final,cmac_final,crac_final])
 
 dcombined.to_csv("fs_structure.csv") # Save the dataframe as a CSV file
@@ -477,7 +478,7 @@ ax2.set_xticklabels(type_counts.index, rotation=45, ha="right")
 ax2.yaxis.get_major_locator().set_params(integer=True)
 
 fig2.tight_layout()
-fig2.savefig("Type_entities.png")
+fig2.savefig("Images/Type_entities.png")
 
 
 ###### Calculate the participation of each subsystem in the financial system according to the asset level
@@ -500,29 +501,33 @@ print(f"\nTotal del Sistema: {total_assets_system:,.2f}")
 
 
 ## Create a pie chart to visualize participation (%)
+
+#Create combined labels: name + percentage, for better display
+labels = [f"{row['Type']} - {row['Percentage']:.1f}%" for _, row in grouped.iterrows()]
+
+# Graph
 fig3, ax3 = plt.subplots(figsize=(8, 6), dpi=300)
-colors = plt.cm.Set3.colors  
+colors = plt.cm.Set3.colors
 
-wedges, texts, autotexts = ax3.pie(grouped["Percentage"],
-       labels=None,
-       autopct='%1.1f%%',
-       startangle=90,
-       colors=colors,
-       pctdistance=0.5,
-       labeldistance=1.1)
+ax3.pie(
+    grouped["Percentage"],
+    startangle=90,
+    colors=colors
+)
 
-# Add separate legend to avoid overlapping
-ax3.legend(wedges, grouped["Type"], title="Subsystem", loc="center left", bbox_to_anchor=(1, 0.5))
+# Add external legend
+ax3.legend(
+    labels,
+    title="Subsystem",
+    loc="center left",
+    bbox_to_anchor=(1, 0.5),  # Position off the chart
+    fontsize=9
+)
 
 ax3.axis('equal')
-fig3.suptitle("Share of Total Financial Assets by Subsystem")
+fig3.suptitle("Share of Total Financial Assets by Subsystem (%)")
 fig3.tight_layout()
-fig3.savefig("share.png")
-
-
-## Create a treemap to see amounts of total assets in soles by subsystem
-
-
+fig3.savefig("Images/share.png")
 
 
 
@@ -544,7 +549,7 @@ ax1.invert_yaxis()
 ax1.set_ylabel(None)
 ax1.set_xlabel("%of total Assets")
 fig1.tight_layout()
-fig1.savefig("Top_10.png")
+fig1.savefig("Images/Top_10.png")
 
 
 
@@ -587,7 +592,7 @@ ax1.set_title("Assets Structure by Financial Subsystem")
 ax1.legend(bbox_to_anchor=(1.05, 1), loc='upper left')  # Move legend outside if it overlaps
 plt.xticks(rotation=45)
 plt.tight_layout()
-plt.savefig("assets_structure.png", dpi=300)
+plt.savefig("Images/assets_structure.png", dpi=300)
 
 
 
@@ -631,7 +636,7 @@ ax.set_title("Liability Structure by Financial Subsystem")
 ax.legend(bbox_to_anchor=(1.05, 1), loc='upper left')  # Move legend outside if it overlaps
 plt.xticks(rotation=45)
 plt.tight_layout()
-plt.savefig("liability_structure.png", dpi=300)
+plt.savefig("Images/liability_structure.png", dpi=300)
 
 
 

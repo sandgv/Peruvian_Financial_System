@@ -177,7 +177,7 @@ ax1.set_xlabel("Subsystem", fontsize=12)
 ax1.set_ylabel("Region", fontsize=12)
 ax1.tick_params(axis='both', which='major', labelsize=12)
 fig.tight_layout()
-fig.savefig('heatmap_loans.png')
+fig.savefig('Images/heatmap_loans.png')
 
 
 # Here we keep information of deposits to show its distribution by geographic area
@@ -195,7 +195,7 @@ sns.heatmap(dep_zones,annot=True,fmt=".0f",ax=ax2,cmap="YlGnBu",annot_kws={'size
 ax2.set_ylabel("Region",fontsize=12)
 ax2.tick_params(axis='both', which='major', labelsize=12)
 fig2.tight_layout()
-fig2.savefig('heatmap_deposits.png')
+fig2.savefig('Images/heatmap_deposits.png')
 
 
 
@@ -217,7 +217,7 @@ ax3.set_ylabel('Loan_perpop (Thousands of Soles)')
 ax3.axhline(pct_loan[0.05],c="r",ls="--",lw=1)
 plt.xticks(rotation=45)
 fig3.tight_layout()
-fig3.savefig("loan_perpop.png", dpi=300)
+fig3.savefig("Images/loan_perpop.png", dpi=300)
 
 
 # Deposits per person Graph
@@ -228,5 +228,5 @@ ax3.set_ylabel('Dep_perpop (Thousands of Soles)')
 ax4.axhline(pct_dep[0.05],c="r",ls="--",lw=1)
 plt.xticks(rotation=45)
 fig4.tight_layout()
-fig4.savefig("Dep_perpop.png", dpi=300)
+fig4.savefig("Images/Dep_perpop.png", dpi=300)
 
