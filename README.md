@@ -85,7 +85,7 @@ Outputs: The following five figures were generated:
 `Type_entities.png`, `share.png`, `Top_10.png`, `assets_structure.png`, `liability_structure.png`
 
 ## 3. fiter_zones.py
--This script first reads and cleans the Excel files containing Direct Loans and Deposits by Geographic Area for each subsystem, which are not in dataframe format. It filters the data to extract regions and total loans and deposits granted to each region. This filtering is performed separately for Banks, Financial Companies, CMACs, and CRACs, since each subsystem’s data is stored in separate files with some unique formats.
+-This script first reads and cleans the Excel files containing Loans and Deposits by Geographic Area for each subsystem, which are not in dataframe format. It filters the data to extract regions and total loans and deposits granted to each region. This filtering is performed separately for Banks, Financial Companies, CMACs, and CRACs, since each subsystem’s data is stored in separate files with some unique formats.
 
 -A similar cleaning and filtering process is applied to the Excel file containing the total population by region.
 
@@ -101,7 +101,7 @@ Outputs: The following four figures were generated:
 ## 4. map_pop.qgz
 -QGIS was used to plot a map of Peru and show the relationship between the total population of each region and the total loans granted by each subsystem. This helps analyze whether there is geographic diversification or concentration, and whether credit granting behavior varies by subsystem. The same analysis was done for deposits.
 
--Inputs included the shapefile of Peru and the byzones.csv file generated from the previous script. A join was performed using the region name as the key.
+-Inputs included the shapefile of Peru, specifically the "per_admbnda_adm1_ign_20200714.shp" file from the "per_adm_ign_20200714_shp.zip" zip file, and the "byzones.csv" file generated from the previous script. A join was performed using the region name as the key.
 
 Outputs: The following eight figures were generated:
 `map_loan_b.png`, `map_loan_cm.png`, `map_loan_cr.png`, `map_loan_f.png`,
